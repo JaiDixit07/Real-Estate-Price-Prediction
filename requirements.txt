@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+fuzzywuzzy
+scikit-learn
+xgboost
+scipy
+# -e .
