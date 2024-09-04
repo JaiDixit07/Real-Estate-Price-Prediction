@@ -5,17 +5,19 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.8) url("https://images.pexels.com/photos/1063991/pexels-photo-1063991.jpeg") no-repeat center center fixed;
+    background: rgba(0, 0, 0, 0.8) url("image/house.jpg") no-repeat center center fixed, 
+                url("https://images.pexels.com/photos/1063991/pexels-photo-1063991.jpeg") no-repeat center center fixed;
     background-size: cover;
     color: #f0f0f0;
     font-family: 'Roboto', sans-serif;
 }
 
+
 .container {
     padding: 2rem;
     border-radius: 15px;
-    background-color: rgba(0, 0, 0, 0.8);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+    background-color: rgba(121, 186, 186, 0.8);
+    box-shadow: 0 8px 16px rgba(84, 153, 145, 0.6);
     width: 420px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -23,7 +25,7 @@ body {
 
 .container:hover {
     transform: scale(1.02);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.8);
+    box-shadow: 0 12px 24px rgba(126, 191, 211, 0.8);
 }
 
 h1 {
@@ -69,7 +71,7 @@ button {
 }
 
 button:hover {
-    background-color: #004d00;
+    background-color: #61aa9e;
     transform: scale(1.05);
 }
 
@@ -78,5 +80,5 @@ button:hover {
     margin-top: 1.5rem;
     font-size: 1.25rem;
     font-weight: 600;
-    color: #ffff00;
+    color: #d3e0e5;
 }
