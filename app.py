@@ -143,10 +143,10 @@ st.write(input_df.style.set_table_attributes('class="table"').set_properties(**{
 predict_pipeline = PredictPipeline()
 
 # Make predictions
-if st.button("Predict"):
+if st.button("Predict Price"):
     prediction = predict_pipeline.predict(input_df)
     st.subheader("Predicted Price ")
-    st.write(f"** ₹ {prediction[0]:.2f} LAKH RUPEES **")
+    st.markdown(f"** ₹ {prediction[0]:.2f} LAKH RUPEES **")
 
 
 # Footer with author's name
