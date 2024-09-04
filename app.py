@@ -33,7 +33,7 @@ def predict_datapoint():
         results = predict_pipeline.predict(pred_df)
 
         # Return the result as JSON
-        return jsonify({'prediction_result': f" ₹ {results[0]:.2f} LAKH RUPEES"})
+        return jsonify({'prediction_result': f" ₹ {results[0]:.2f} LAKH "})
 
     # If it's a GET request, return the template
     return render_template('index.html')
