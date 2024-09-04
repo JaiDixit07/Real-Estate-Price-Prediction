@@ -117,14 +117,14 @@ def get_user_input():
     location = st.sidebar.selectbox("Location", options=locations, index=0)
     total_sqft = st.sidebar.number_input("Total Square Feet", min_value=0.0, step=1.0)
     bath = st.sidebar.number_input("Number of Bathrooms", min_value=0, step=1)
-    balcony = st.sidebar.number_input("Number of Balconies", min_value=0, step=1)
+    bhk = st.sidebar.number_input("Number of BHK", min_value=0, step=1)
     
     # Create an instance of CustomData
     custom_data = CustomData(
         location=location,
         total_sqft=total_sqft,
         bath=bath,
-        balcony=balcony
+        bhk=bhk
     )
 
     # Return data as DataFrame
