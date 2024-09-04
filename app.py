@@ -25,6 +25,7 @@ body {
 h1, h2 {
     text-align: center;
     color: #ffffff;
+    font-weight: bold;
 }
 table {
     border-collapse: collapse;
@@ -46,10 +47,11 @@ th {
     color: #ffffff;
 }
 footer {
-    text-align: center;
+    text-align: left;
     margin-top: 2rem;
     color: #ffffff;
     font-size: 0.9rem;
+    font-weight: bold;
 }
 </style>
 """
@@ -135,7 +137,7 @@ input_df = get_user_input()
 
 # Display user input features
 st.subheader("User Input Features")
-st.write(input_df.style.set_table_attributes('class="table"'))
+st.write(input_df.style.set_table_attributes('class="table"').set_properties(**{'font-weight': 'bold'}))
 
 # Load prediction pipeline
 predict_pipeline = PredictPipeline()
@@ -144,7 +146,7 @@ predict_pipeline = PredictPipeline()
 if st.button("Predict"):
     prediction = predict_pipeline.predict(input_df)
     st.subheader("Prediction")
-    st.write(f"Predicted Price: {prediction[0]}")
+    st.write(f"**Predicted Price: {prediction[0]} LAKH**")
 
 # Footer with author's name
-st.markdown("<footer>Created by Jai Dixit</footer>", unsafe_allow_html=True)
+st.markdown("<footer>Developed by Jai Dixit</footer>", unsafe_allow_html=True)
