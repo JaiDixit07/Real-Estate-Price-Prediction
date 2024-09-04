@@ -26,11 +26,8 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion method.")
         try:
-            df=pd.read_csv('notebook/data/cleaned2.csv')
+            df=pd.read_csv('notebook/data/cleaned_new.csv')
             logging.info('Read the dataset as dataframe.')
-
-            df['price_per_square_foot'] = df['price'] / df['total_sqft']
-            logging.info('Added price_per_square_foot column.')
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path),exist_ok=True)
             
@@ -59,7 +56,7 @@ if __name__=="__main__":
     data_transformation=DataTransformation()
     X_train,X_test,y_train,y_test,_=data_transformation.initiate_data_transformation(train_data,test_data)
     
-    # print(test_arr)
+    # # print(test_arr)
     
     
     modeltrainer=ModelTrainer()

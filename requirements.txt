@@ -1,3 +1,4 @@
+streamlit
 setuptools
 numpy
 pandas
@@ -8,4 +9,5 @@ scikit-learn
 xgboost
 scipy
 dill
+flask
 -e .

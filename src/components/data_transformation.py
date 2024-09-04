@@ -28,11 +28,11 @@ class DataTransformation:
         
         '''
         try:
-            columns = ['location']
-            standard_columns=['price_per_square_foot']
+            onehot_columns = ['location']
+            standard_columns=['total_sqft','bhk','bath']
             cat_pipeline=Pipeline(
                 steps=[
-                ("one_hot_encoder",OneHotEncoder())
+                ("one_hot_encoder",OneHotEncoder(drop='first', sparse_output=False))
                 ]
             )
             stan_pipeline=Pipeline(
@@ -41,11 +41,11 @@ class DataTransformation:
                 ]
             )
 
-            logging.info(f"Columns: {columns}")
+            logging.info(f"Columns: {onehot_columns}")
 
             preprocessor=ColumnTransformer(
                 [             
-                ("cat_pipelines",cat_pipeline,columns),
+                ("cat_pipelines",cat_pipeline,onehot_columns),
                 ("stan_pipeline",stan_pipeline,standard_columns)
                 ]
             )
