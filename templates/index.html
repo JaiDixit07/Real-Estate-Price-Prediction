@@ -4,71 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real Estate Price Prediction</title>
-    <style>
-        body {
-            background: rgba(0, 0, 0, 0.8) url("https://images.pexels.com/photos/730252/pexels-photo-730252.jpeg") no-repeat center center fixed;
-            background-size: cover;
-            color: #e0e0e0;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .container {
-            padding: 2rem;
-            border-radius: 10px;
-            background-color: rgba(0, 0, 0, 0.7);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-            width: 400px;
-            text-align: center;
-        }
-        h1 {
-            color: #ffffff;
-            font-weight: bold;
-            margin-bottom: 1rem;
-        }
-        label {
-            display: block;
-            margin-bottom: 0.5rem;
-            font-weight: bold;
-            text-align: left;
-        }
-        input, select {
-            width: 100%;
-            padding: 0.5rem;
-            margin-bottom: 1rem;
-            border: none;
-            border-radius: 5px;
-            background-color: #333333;
-            color: #ffffff;
-        }
-        button {
-            background-color: #555555;
-            color: #ffffff;
-            padding: 0.5rem 1rem;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-weight: bold;
-        }
-        button:hover {
-            background-color: #666666;
-        }
-        footer {
-            margin-top: 2rem;
-            font-size: 0.9rem;
-            font-weight: bold;
-            color: #ffffff;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
     <div class="container">
         <h1>Real Estate Price Prediction</h1>
-        <form method="post">
+        <form id="predictionForm" method="post">
             <label for="location">Location</label>
             <select name="location" id="location" required>
                 <option value="1st Block Jayanagar">1st Block Jayanagar</option>
@@ -90,7 +31,41 @@
             <button type="submit">Predict Price</button>
         </form>
 
+        <div id="predictionResult">
+            <p id="predictionValue"></p>
+        </div>
+        
         <footer>Developed by Jai Dixit</footer>
     </div>
+
+    <script>
+        // Function to update prediction result
+        function updatePrediction(result) {
+            document.getElementById('predictionForm').style.display = 'none';
+            var message = `₹ ${result} LAKH RUPEES`;
+            document.getElementById('predictionValue').innerText = message;
+            document.getElementById('predictionResult').style.display = 'block';
+        }
+
+        // Add an event listener to the form for submission
+        document.getElementById('predictionForm').addEventListener('submit', function(event) {
+            event.preventDefault();  // Prevent the default form submission behavior
+
+            // Retrieve the form data
+            var formData = new FormData(this);
+
+            // Send an asynchronous POST request to the server
+            fetch("/", {
+                method: "POST",
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Update the prediction result dynamically
+                updatePrediction(data.prediction_result);
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
 </body>
 </html>
