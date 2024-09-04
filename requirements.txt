@@ -10,4 +10,5 @@ xgboost
 scipy
 dill
 flask
+gunicorn
 -e .

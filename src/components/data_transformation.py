@@ -71,7 +71,7 @@ class DataTransformation:
 
             input_feature_test_df=test_df.drop(columns=["price"],axis=1)
             target_feature_test_df=test_df["price"]
-
+            
             logging.info(
                 f"Applying preprocessing object on training dataframe and testing dataframe."
             )

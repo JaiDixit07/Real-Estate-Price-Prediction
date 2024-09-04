@@ -3,43 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Price Prediction</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <script>
-        async function submitForm(event) {
-            event.preventDefault();
-
-            const formData = new FormData(document.querySelector('form'));
-
-            const response = await fetch('/', {
-                method: 'POST',
-                body: formData
-            });
-
-            const result = await response.json();
-            document.getElementById('result').innerText = `Predicted Price: ${result.prediction_result}`;
+    <title>Real Estate Price Prediction</title>
+    <style>
+        body {
+            background: rgba(0, 0, 0, 0.8) url("https://images.pexels.com/photos/730252/pexels-photo-730252.jpeg") no-repeat center center fixed;
+            background-size: cover;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
-    </script>
+        .container {
+            padding: 2rem;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            width: 400px;
+            text-align: center;
+        }
+        h1 {
+            color: #ffffff;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+            text-align: left;
+        }
+        input, select {
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border: none;
+            border-radius: 5px;
+            background-color: #333333;
+            color: #ffffff;
+        }
+        button {
+            background-color: #555555;
+            color: #ffffff;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover {
+            background-color: #666666;
+        }
+        footer {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            font-weight: bold;
+            color: #ffffff;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Price Prediction</h1>
-        <form onsubmit="submitForm(event)">
-            <label for="location">Location:</label>
-            <input type="text" id="location" name="location" required><br><br>
+        <h1>Real Estate Price Prediction</h1>
+        <form method="post">
+            <label for="location">Location</label>
+            <select name="location" id="location" required>
+                <option value="1st Block Jayanagar">1st Block Jayanagar</option>
+                <option value="1st Phase JP Nagar">1st Phase JP Nagar</option>
+                <option value="2nd Phase Judicial Layout">2nd Phase Judicial Layout</option>
+                <!-- Add more locations here -->
+                <option value="other">Other</option>
+            </select>
 
-            <label for="total_sqft">Total Square Feet:</label>
-            <input type="number" id="total_sqft" name="total_sqft" step="0.01" required><br><br>
+            <label for="total_sqft">Total Square Feet</label>
+            <input type="number" name="total_sqft" id="total_sqft" min="0" step="1" required>
 
-            <label for="bath">Number of Bathrooms:</label>
-            <input type="number" id="bath" name="bath" required><br><br>
+            <label for="bath">Number of Bathrooms</label>
+            <input type="number" name="bath" id="bath" min="0" step="1" required>
 
-            <label for="bhk">Number of BHK:</label>
-            <input type="number" id="bhk" name="bhk" required><br><br>
+            <label for="bhk">Number of BHK</label>
+            <input type="number" name="bhk" id="bhk" min="0" step="1" required>
 
-            <input type="submit" value="Predict">
+            <button type="submit">Predict Price</button>
         </form>
-        <p id="result"></p>
+
+        <footer>Developed by Jai Dixit</footer>
     </div>
 </body>
 </html>
