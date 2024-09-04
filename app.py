@@ -145,8 +145,9 @@ predict_pipeline = PredictPipeline()
 # Make predictions
 if st.button("Predict"):
     prediction = predict_pipeline.predict(input_df)
-    st.subheader("Prediction")
-    st.write(f"**Predicted Price: {prediction[0]} LAKH**")
+    st.subheader("Predicted Price ")
+    st.write(f"**{prediction[0]:.2f} LAKH RUPEES **")
+
 
 # Footer with author's name
 st.markdown("<footer>Developed by Jai Dixit</footer>", unsafe_allow_html=True)
