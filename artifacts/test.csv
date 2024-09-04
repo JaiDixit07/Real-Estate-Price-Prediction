@@ -1,2372 +1,1481 @@
-location,total_sqft,bath,balcony,price,bhk
-5th Phase JP Nagar,1450.0,2.0,2.0,73.0,3.0
-Tunganagara,600.0,1.0,0.0,18.0,1.0
-Hosahalli,1375.0,3.0,2.0,70.0,3.0
-Bisuvanahalli,1075.0,3.0,2.0,36.0,3.0
-Thyagaraja Nagar,1040.0,2.0,1.0,68.0,2.0
-Yelachenahalli,800.0,1.0,1.0,30.0,2.0
-Viswajit Layout,1100.0,2.0,3.0,61.0,2.0
-Electronic City,1571.0,3.0,2.0,83.0,3.0
-7th Phase JP Nagar,1175.0,2.0,2.0,82.5,2.0
-Jakkur,1622.0,2.0,0.0,80.0,3.0
-Begur Road,1225.0,2.0,1.0,35.52,2.0
-Hegde Nagar,1000.0,2.0,0.0,66.0,2.0
-Raja Rajeshwari Nagar,1110.0,2.0,1.0,52.0,2.0
-Harlur,1174.0,2.0,1.0,78.0,2.0
-Hebbal,1036.0,2.0,1.0,50.0,2.0
-Bommanahalli,1307.0,2.0,1.0,50.0,2.0
-Kanakpura Road,1309.0,2.0,3.0,64.39,2.0
-JCR Layout,1180.0,2.0,2.0,42.0,2.0
-Kasavanhalli,1870.0,3.0,1.0,200.0,3.0
-Kumara Park,2200.0,4.0,0.0,350.0,3.0
-Begur Road,952.0,2.0,1.0,42.0,2.0
-Ambalipura,1230.0,2.0,2.0,66.25,2.0
-Binny Pete,1755.0,3.0,1.0,122.0,3.0
-Electronics City Phase 1,1750.0,3.0,2.0,84.0,3.0
-Kanakpura Road,1452.0,3.0,3.0,56.5,3.0
-Uttarahalli,1125.0,2.0,1.0,48.0,2.0
-Sarjapur  Road,1173.0,2.0,2.0,45.75,3.0
-Banashankari Stage V,1510.0,3.0,3.0,47.57,3.0
-Sunkadakatte,2000.0,5.0,0.0,80.0,4.0
-Yelahanka New Town,450.0,1.0,0.0,16.0,1.0
-Uttarahalli,1330.0,2.0,2.0,46.55,3.0
-Subramanya Nagar,840.0,1.0,1.0,150.0,1.0
-JP Nagar,2400.0,3.0,3.0,196.0,3.0
-Somasundara Palya,1200.0,2.0,2.0,75.0,2.0
-Kanakpura Road,1593.0,3.0,1.0,118.0,3.0
-Uttarahalli,1190.0,2.0,1.0,53.55,2.0
-Electronic City Phase II,1165.0,2.0,1.0,30.29,2.0
-Whitefield,1760.0,3.0,2.0,139.0,3.0
-Indira Nagar,1470.0,2.0,2.0,170.0,2.0
-KR Puram,1200.0,2.0,0.0,71.0,2.0
-Hebbal Kempapura,1200.0,2.0,1.0,125.0,2.0
-Rachenahalli,1050.0,2.0,2.0,53.5,2.0
-Billapura,1780.0,3.0,0.0,110.0,3.0
-Bharathi Nagar,1379.0,2.0,1.0,85.0,2.0
-Vittasandra,1404.0,2.0,1.0,71.0,2.0
-Bannerghatta,2370.0,4.0,2.0,195.0,3.0
-Rachenahalli,1530.0,2.0,2.0,74.4,3.0
-Nagarbhavi,2500.0,3.0,2.0,180.0,5.0
-Kammasandra,985.0,2.0,1.0,40.5,2.0
-Kanakpura Road,1450.0,3.0,3.0,60.9,3.0
-Devanahalli,1700.0,3.0,0.0,88.2,3.0
-Rachenahalli,680.0,1.0,0.0,32.64,1.0
-Vittal Nagar,1000.0,2.0,1.0,50.0,2.0
-Battarahalli,1590.0,2.0,2.0,102.0,2.0
-Kalena Agrahara,1837.0,2.0,2.0,95.0,3.0
-Vasantha Vallabha Nagar,1360.0,3.0,3.0,55.0,3.0
-Whitefield,1720.0,3.0,3.0,98.97,3.0
-Kogilu,1200.0,2.0,1.0,53.33,2.0
-Mico Layout,1200.0,2.0,1.0,53.5,2.0
-Electronic City,1152.0,2.0,1.0,64.5,2.0
-Uttarahalli,1150.0,2.0,2.0,70.0,2.0
-7th Phase JP Nagar,2503.0,4.0,0.0,188.0,4.0
-Popular Colony,1300.0,2.0,0.0,54.0,2.0
-Hebbal,2470.0,5.0,2.0,192.0,4.0
-Thanisandra,1093.0,2.0,2.0,72.0,2.0
-Hebbal Kempapura,2900.0,4.0,0.0,300.0,3.0
-Kengeri Satellite Town,985.0,2.0,2.0,42.0,2.0
-Hennur Road,1445.0,2.0,1.0,83.0,3.0
-Yeshwanthpur,2400.0,6.0,0.0,270.0,9.0
-Doddathoguru,925.0,2.0,2.0,30.0,2.0
-Hennur Road,1232.0,2.0,2.0,89.0,2.0
-Hennur,1231.0,2.0,2.0,50.0,2.0
-Banashankari Stage II,2400.0,3.0,2.0,510.0,5.0
-Sahakara Nagar,1200.0,2.0,2.0,60.0,2.0
-Yelahanka,1327.0,2.0,3.0,85.0,2.0
-Ramagondanahalli,1610.0,2.0,2.0,115.0,3.0
-Nagavara,2400.0,3.0,3.0,251.0,3.0
-Bank Avenue,2000.0,4.0,2.0,99.0,4.0
-Hennur Road,1341.0,2.0,1.0,75.76,2.0
-Kamakshipalya,1150.0,2.0,1.0,75.0,2.0
-Kammanahalli,2845.0,5.0,1.0,140.0,5.0
-Uttarahalli,1590.0,3.0,2.0,57.0,3.0
-Kadubeesanahalli,1257.0,2.0,2.0,93.0,2.0
-Parappana Agrahara,1200.0,1.0,0.0,45.0,1.0
-Hosahalli Extension,2000.0,5.0,2.0,240.0,5.0
-Yelahanka,1355.0,2.0,3.0,75.0,3.0
-Lingadheeranahalli,1682.0,3.0,1.0,114.0,3.0
-JP Nagar,1690.0,3.0,2.0,112.0,3.0
-Sarjapur  Road,984.0,2.0,1.0,59.0,2.0
-Talaghattapura,2038.5,3.0,0.0,120.0,3.0
-Babusapalaya,1084.0,2.0,1.0,58.0,2.0
-Raja Rajeshwari Nagar,1240.0,2.0,1.0,53.27,2.0
-Vishwapriya Layout,1250.0,3.0,2.0,38.0,3.0
-Hulimavu,2000.0,4.0,0.0,100.0,4.0
-Kothanur,1142.0,2.0,2.0,56.0,2.0
-Nagarbhavi,1850.0,3.0,2.0,90.0,3.0
-Kadugodi,1762.0,3.0,3.0,110.0,3.0
-Kanakpura Road,2200.0,3.0,2.0,130.0,3.0
-Kanakpura Road,1843.0,3.0,2.0,92.15,3.0
-Sarjapur  Road,984.0,3.0,2.0,140.0,3.0
-Hormavu,1385.0,2.0,1.0,69.25,3.0
-Anekal,997.0,3.0,2.0,55.0,3.0
-Banashankari,1040.0,2.0,3.0,45.0,2.0
-Yelahanka New Town,2095.0,3.0,1.0,109.0,4.0
-Haralur Road,1255.0,3.0,1.0,130.0,3.0
-Chikkalasandra,1070.0,2.0,1.0,45.48,2.0
-Babusapalaya,1100.0,2.0,2.0,38.0,2.0
-Kanakpura Road,700.0,1.0,1.0,41.0,2.0
-Bisuvanahalli,1075.0,2.0,1.0,50.0,3.0
-Kaggadasapura,1455.0,3.0,3.0,75.0,3.0
-Thanisandra,1265.0,2.0,1.0,83.0,2.0
-KR Puram,1245.0,2.0,1.0,60.0,2.0
-Channasandra,1800.0,3.0,2.0,60.0,3.0
-4th Block Koramangala,1225.0,2.0,2.0,150.0,2.0
-Electronic City,630.0,1.0,1.0,47.0,1.0
-Hosa Road,1730.0,3.0,2.0,72.6,3.0
-Doddabanahalli,1500.0,3.0,2.0,85.0,3.0
-kanakapura main road,1041.0,2.0,1.0,36.44,2.0
-JP Nagar,940.0,2.0,1.0,49.0,2.0
-Hormavu,2282.0,4.0,0.0,115.0,4.0
-Jakkur,2197.0,3.0,2.0,136.0,3.0
-Chikkadunnasandra,1398.0,3.0,0.0,51.0,3.0
-Judicial Layout,900.0,2.0,1.0,40.0,2.0
-Sanjay nagar,1200.0,2.0,1.0,76.0,3.0
-Thigalarapalya,1418.0,2.0,2.0,105.0,2.0
-Choodasandra,1115.0,2.0,1.0,50.0,2.0
-Vishwapriya Layout,2800.0,5.0,3.0,130.0,5.0
-Whitefield,1985.0,3.0,2.0,75.0,3.0
-Electronics City Phase 1,645.0,1.0,0.0,42.5,1.0
-Akshaya Nagar,900.0,2.0,1.0,45.0,2.0
-Bannerghatta Road,3230.0,5.0,0.0,165.0,4.0
-Whitefield,1216.0,2.0,1.0,69.0,2.0
-Sarjapur  Road,1800.0,3.0,2.0,128.0,3.0
-Muneshwara Nagar,1230.0,2.0,3.0,48.0,2.0
-Whitefield,1232.0,2.0,2.0,45.0,2.0
-Uttarahalli,1280.0,2.0,2.0,75.0,2.0
-Vasanth nagar,1560.0,3.0,1.0,188.0,3.0
-Raja Rajeshwari Nagar,1260.0,2.0,1.0,62.0,3.0
-Basaveshwara Nagar Yelahanka,581.91,2.0,1.0,25.0,1.0
-Thubarahalli,1085.0,2.0,1.0,70.0,2.0
-Lakshminarayana Pura,1210.0,2.0,2.0,75.0,2.0
-Gubbalala,600.0,3.0,2.0,75.0,3.0
-Kamala Nagar,2800.0,3.0,1.0,400.0,3.0
-Sarjapur  Road,1300.0,3.0,2.0,60.0,3.0
-Electronic City,880.0,2.0,2.0,29.0,2.0
-Kyalasanahalli,1200.0,3.0,2.0,99.0,3.0
-Bharathi Nagar,1432.0,2.0,2.0,68.0,2.0
-Bethel Nagar,960.0,2.0,1.0,33.0,2.0
-7th Phase JP Nagar,1275.0,2.0,2.0,88.0,3.0
-Whitefield,925.0,2.0,1.0,35.0,2.0
-Thanisandra,1050.0,2.0,2.0,46.0,2.0
-Whitefield,1116.0,2.0,1.0,51.91,2.0
-Whitefield,1495.0,3.0,0.0,61.28,3.0
-Akshaya Vana,1300.0,2.0,1.0,49.0,3.0
-Domlur,1276.0,2.0,2.0,80.0,2.0
-Kathriguppe,1250.0,2.0,1.0,68.75,2.0
-Dodda Kempaiah Layout,1015.0,2.0,1.0,45.0,2.0
-Bellandur,1047.0,2.0,1.0,75.0,2.0
-Rahat Bagh,3900.0,5.0,1.0,550.0,4.0
-Old Madras Road,1171.0,2.0,2.0,72.0,2.0
-Basavangudi,1050.0,2.0,1.0,103.0,2.0
-Yelahanka,1170.0,2.0,1.0,62.5,2.0
-Narayanapura,2357.0,3.0,2.0,135.0,3.0
-Green Glen Layout,1725.0,3.0,2.0,130.0,3.0
-Lakshmiamma Garden,1800.0,3.0,3.0,120.0,3.0
-Mysore Road,1003.0,2.0,1.0,43.0,2.0
-Doddathoguru,855.0,2.0,1.0,32.0,2.0
-Kammasandra,930.0,2.0,0.0,25.0,2.0
-Munnekollal,1102.0,2.0,2.0,53.67,2.0
-Hennur Road,1165.0,2.0,1.0,52.0,2.0
-Kodichikkanahalli,1310.0,2.0,2.0,53.0,3.0
-Banashankari,1100.0,2.0,1.0,63.0,2.0
-Yelahanka,1300.0,2.0,2.0,69.23,2.0
-Kasavanhalli,1200.0,2.0,1.0,50.3,2.0
-Hoodi,985.0,2.0,2.0,67.0,2.0
-Kadugodi,1314.0,2.0,3.0,68.2,2.0
-Nallurhalli,1265.0,2.0,2.0,68.0,2.0
-Singasandra,1416.0,2.0,2.0,67.0,2.0
-Thanisandra,1185.0,2.0,2.0,42.0,2.0
-Whitefield,1216.0,2.0,1.0,84.03,2.0
-HRBR Layout,1210.0,2.0,1.0,75.0,2.0
-Dodda Nekkundi,1264.0,2.0,0.0,52.0,2.0
-Hoodi,1445.0,3.0,2.0,65.0,3.0
-Whitefield,1740.0,3.0,3.0,85.0,3.0
-Tala Cauvery Layout,1030.0,2.0,3.0,61.0,2.0
-Hennur,1345.0,2.0,1.0,69.0,3.0
-Nagaraja Garden,1430.0,3.0,1.0,78.65,3.0
-Gottigere,1200.0,2.0,3.0,40.0,2.0
-Kanakpura Road,950.0,2.0,1.0,57.0,2.0
-Shettihalli,2100.0,4.0,1.0,90.0,4.0
-Kanakpura Road,1843.0,3.0,2.0,95.84,3.0
-Hennur Road,2041.0,3.0,3.0,128.0,3.0
-Uttarahalli,1360.0,2.0,3.0,61.2,3.0
-Babusapalaya,1358.0,2.0,1.0,43.4,3.0
-Hosa Road,1016.0,2.0,1.0,39.95,2.0
-Hennur,1020.0,2.0,1.0,48.0,2.0
-Vishwanatha Nagenahalli,2159.0,3.0,2.0,120.0,3.0
-Harlur,1750.0,3.0,2.0,136.0,3.0
-Puttappa Layout,2675.0,4.0,2.0,290.0,4.0
-Mysore Road,1500.0,3.0,2.0,70.0,3.0
-Nagawara Junction,1080.0,2.0,2.0,38.0,2.0
-AGS Layout,1150.0,2.0,1.0,46.0,2.0
-Tasker Town,950.0,2.0,1.0,60.0,2.0
-Dodda Nekkundi Extension,1188.0,2.0,3.0,73.0,2.0
-Electronics City Phase 1,1190.0,2.0,2.0,33.92,2.0
-Bhoganhalli,1447.0,2.0,1.0,75.97,2.0
-Doddathoguru,1200.0,2.0,2.0,75.0,2.0
-Subramanyapura,1000.0,2.0,1.0,45.0,2.0
-Thanisandra,2002.0,3.0,2.0,112.0,3.0
-Balagere,1145.0,2.0,2.0,65.0,2.0
-Gubbalala,1745.0,3.0,2.0,104.0,3.0
-Yelahanka,1890.0,3.0,2.0,108.0,3.0
-Kengeri,2500.0,4.0,3.0,100.0,5.0
-Whitefield,1105.0,2.0,1.0,35.36,2.0
-Jakkur Plantation,1765.0,3.0,3.0,105.0,3.0
-Sahakara Nagar,1370.0,2.0,2.0,90.0,3.0
-Electronic City,970.0,2.0,2.0,34.0,2.0
-Kanakpura Road,900.0,2.0,1.0,46.0,2.0
-Bommanahalli,520.0,1.0,0.0,19.5,1.0
-Channasandra,1470.0,2.0,1.0,90.0,3.0
-Gulimangala,1640.0,3.0,2.0,70.0,3.0
-9th Phase JP Nagar,1890.0,2.0,2.0,85.0,3.0
-Marathahalli,3400.0,4.0,3.0,235.0,4.0
-Electronic City,1360.0,2.0,1.0,70.5,3.0
-Hormavu,1130.0,2.0,1.0,42.3,2.0
-Sarjapur  Road,1403.0,3.0,3.0,51.63,3.0
-Bommasandra,920.0,2.0,1.0,37.46,2.0
-Bommenahalli,1200.0,3.0,1.0,125.0,3.0
-Sarjapur  Road,1881.0,3.0,2.0,145.0,3.0
-Shivaji Nagar,1554.0,3.0,3.0,130.0,2.0
-KR Puram,2283.0,4.0,0.0,121.0,4.0
-Prithvi Layout,2273.0,4.0,2.0,192.0,3.0
-Huskur,1090.0,2.0,1.0,31.48,2.0
-Bommasandra,1015.0,2.0,1.0,40.0,2.0
-Whitefield,1420.0,2.0,2.0,136.0,2.0
-Hebbal,1315.0,3.0,3.0,65.0,3.0
-Electronic City Phase II,900.0,2.0,2.0,32.5,2.0
-Hoskote,1065.0,2.0,3.0,31.5,2.0
-Sarjapur  Road,1220.0,3.0,3.0,56.0,3.0
-Vijayanagar,1520.0,2.0,1.0,103.0,3.0
-Kannamangala,1550.0,3.0,3.0,65.0,3.0
-Kadugodi,3750.0,4.0,0.0,210.0,4.0
-Poornapragna Housing Society Layout,1355.0,2.0,3.0,58.25,3.0
-NGR Layout,1020.0,2.0,1.0,45.0,2.0
-Sarjapur  Road,3335.0,4.0,3.0,300.0,4.0
-Green Glen Layout,1600.0,3.0,3.0,105.0,3.0
- Devarachikkanahalli,1705.0,3.0,2.0,75.0,3.0
-Kogilu,1140.0,2.0,2.0,50.66,2.0
-Gattigere,1180.0,2.0,2.0,63.0,2.0
-Haralur Road,1225.0,2.0,1.0,69.84,2.0
-7th Phase JP Nagar,1080.0,2.0,2.0,72.0,2.0
-Kumaraswami Layout,600.0,3.0,1.0,98.0,3.0
-Banashankari,1430.0,2.0,2.0,87.8,2.0
-Sarjapur  Road,1060.0,2.0,1.0,55.0,2.0
-High grounds,1900.0,2.0,2.0,190.0,3.0
-Ramagondanahalli,1910.0,3.0,2.0,142.0,3.0
-Surabhi Layout,1750.0,3.0,1.0,120.0,3.0
-Electronic City,1125.0,2.0,1.0,58.0,2.0
-Kadubeesanahalli,1365.0,3.0,1.0,80.0,3.0
-Sahyadri Layout,1750.0,3.0,1.0,180.0,3.0
-Bannerghatta Road,1115.0,2.0,1.0,65.12,2.0
-Kengeri Satellite Town,1415.0,2.0,3.0,66.0,3.0
-Gattahalli,1028.0,2.0,1.0,45.5,2.0
-Electronic City,1631.0,3.0,2.0,80.0,3.0
-Adarsh Nagar,1270.0,2.0,1.0,50.0,2.0
-Thigalarapalya,3122.0,6.0,2.0,245.0,4.0
-Thanisandra,1262.0,2.0,1.0,65.0,3.0
-Vidyaranyapura,1000.0,2.0,1.0,35.0,2.0
-Dodda Banaswadi,1500.0,3.0,2.0,56.0,3.0
-KR Puram,1100.0,2.0,1.0,39.9,2.0
-Abbigere,995.0,2.0,1.0,40.8,2.0
-Sarjapur  Road,1115.0,2.0,2.0,43.0,2.0
-Kaggadasapura,775.0,2.0,2.0,29.5,2.0
-Thanisandra,1702.0,3.0,2.0,120.0,3.0
-Jigani,943.0,2.0,2.0,49.5,2.0
-Bommanahalli,1355.0,2.0,0.0,73.17,2.0
-Electronic City,630.0,1.0,1.0,47.0,1.0
-8th Phase JP Nagar,1160.0,2.0,1.0,95.0,2.0
-9th Phase JP Nagar,1480.0,2.0,1.0,80.0,2.0
-Balagere,1210.0,2.0,1.0,80.9,2.0
-AGS Layout,1080.0,2.0,2.0,75.0,3.0
-Hegde Nagar,1835.0,2.0,0.0,92.0,3.0
-Kadubeesanahalli,3293.0,5.0,2.0,425.0,4.0
-Electronic City,1360.0,2.0,1.0,70.0,3.0
-Old Madras Road,2010.0,3.0,2.0,115.0,4.0
-Devanahalli,775.0,1.0,0.0,39.0,1.0
-Raja Rajeshwari Nagar,1133.0,2.0,2.0,38.41,2.0
-Ambalipura,3300.0,4.0,2.0,329.0,4.0
-Hebbal,3067.0,4.0,1.0,310.0,4.0
-Vijayanagar,1484.0,3.0,2.0,79.19,3.0
-Hosur Road,1170.0,2.0,1.0,48.0,2.0
-Pampa Extension,993.0,2.0,3.0,45.5,2.0
-Hoodi,2090.0,4.0,0.0,95.1,4.0
-Electronic City,921.0,2.0,1.0,34.0,2.0
-Basaveshwara Nagar,2460.0,7.0,1.0,350.0,7.0
-Bisuvanahalli,1075.0,2.0,1.0,36.0,3.0
-Battarahalli,2082.0,3.0,2.0,104.0,3.0
-"Whitefield, ",1745.0,3.0,2.0,77.0,3.0
-Chinnapanahalli,1225.0,2.0,2.0,48.0,2.0
-Kengeri,963.0,2.0,2.0,40.0,2.0
-Uttarahalli,1279.0,2.0,2.0,48.0,2.0
-Ambalipura,1303.0,2.0,2.0,80.0,2.0
-JP Nagar,2000.0,3.0,2.0,250.0,3.0
-Yelahanka,1060.0,2.0,1.0,40.0,2.0
-Yeshwanthpur,669.0,1.0,1.0,36.85,1.0
-Raja Rajeshwari Nagar,1196.0,2.0,2.0,40.44,2.0
-KR Puram,1290.0,2.0,2.0,69.0,2.0
-Gubbalala,1060.0,2.0,1.0,46.0,2.0
-Indira Nagar,1700.0,3.0,2.0,150.0,3.0
-Whitefield,1639.0,3.0,2.0,107.0,3.0
-Kanakpura Road,1500.0,3.0,1.0,72.99,3.0
-Banashankari Stage V,1305.0,2.0,2.0,49.0,3.0
-Hebbal,1255.0,2.0,1.0,90.0,3.0
-Kathriguppe,1300.0,3.0,2.0,77.99,3.0
-Old Madras Road,1157.0,2.0,2.0,47.32,2.0
-Sarjapur  Road,1600.0,3.0,1.0,120.0,3.0
-Babusapalaya,1141.0,2.0,1.0,46.0,2.0
-Hormavu,2400.0,3.0,1.0,177.0,3.0
-Billamaranahalli,1100.0,2.0,3.0,55.0,2.0
-Sarjapur  Road,1435.0,3.0,2.0,90.0,3.0
-Dodda Nekkundi,3400.0,4.0,3.0,530.0,4.0
-Whitefield,1216.0,2.0,1.0,82.0,2.0
-Hormavu,1196.0,2.0,1.0,44.8,2.0
-Sector 2 HSR Layout,1512.0,3.0,0.0,80.0,3.0
-Arekere,2060.0,3.0,2.0,140.0,3.0
-Whitefield,1059.0,2.0,1.0,57.0,2.0
-Vaderahalli,2300.0,4.0,0.0,200.0,4.0
-Mysore Road,1029.5,2.0,0.0,50.855,2.0
-Banagiri Nagar,1500.0,2.0,2.0,89.99,3.0
-Annapurneshwari Nagar,2400.0,4.0,1.0,150.0,4.0
-Sampangi Rama Nagar,1200.0,2.0,1.0,125.0,2.0
-Harlur,1197.0,2.0,1.0,79.0,2.0
-Kudlu Gate,1335.0,3.0,2.0,89.0,3.0
-Jakkur,1374.0,3.0,2.0,68.0,3.0
-Mysore Road,1175.0,2.0,2.0,73.5,2.0
-Rayasandra,1639.0,3.0,1.0,83.0,3.0
-Whitefield,1564.0,3.0,1.0,103.0,3.0
-Hoskote,1065.0,2.0,2.0,28.5,2.0
-Hennur Road,987.0,2.0,1.0,49.0,2.0
-Howthinarayanappa Garden,1022.0,2.0,2.0,52.0,2.0
-"EPIP AREA, WHITEFIELD",1801.0,3.0,2.0,139.0,3.0
-Channasandra,830.0,2.0,1.0,36.28,2.0
-Kodigehaali,1117.0,2.0,2.0,56.0,2.0
-Whitefield,1370.0,2.0,2.0,56.0,2.0
-Keshava Nagar,1839.0,3.0,3.0,165.0,3.0
-Rachenahalli,1050.0,2.0,2.0,52.08,2.0
-Bagalur,1200.0,2.0,3.0,50.0,2.0
-Brookefield,1150.0,2.0,3.0,69.0,2.0
-NGR Layout,1021.0,2.0,2.0,45.9,2.0
-Hebbal,3520.0,3.0,3.0,430.0,3.0
-3rd Phase Iti Layout,1145.0,2.0,1.0,63.0,2.0
-Hebbal,1072.0,2.0,2.0,45.0,2.0
-Whitefield,1240.0,2.0,2.0,41.0,2.0
-Uttarahalli,1284.0,2.0,2.0,53.36,2.0
-Sarjapur,900.0,2.0,1.0,42.0,3.0
-Subramanyapura,600.0,3.0,1.0,69.0,3.0
-Yelahanka,3206.0,5.0,0.0,270.0,4.0
-Mahadevpura,1146.0,2.0,1.0,53.8,2.0
-Whitefield,1140.0,2.0,2.0,45.0,2.0
-Haralur Road,3400.0,5.0,3.0,240.0,4.0
-Kothannur,740.0,2.0,1.0,34.0,2.0
-Old Airport Road,2690.0,4.0,3.0,199.0,4.0
-Haralur Road,2475.0,4.0,0.0,130.0,3.0
-Varthur,1280.0,2.0,0.0,65.0,2.0
-Haralur Road,1285.0,2.0,1.0,78.0,2.0
-Dodda Nekkundi,1135.0,2.0,2.0,58.0,2.0
-Yeshwanthpur,1163.0,2.0,2.0,64.08,2.0
-Yeshwanthpur,1852.0,3.0,2.0,160.0,3.0
-Somasundara Palya,1186.0,2.0,1.0,76.0,2.0
-Channasandra,1200.0,3.0,1.0,67.77,3.0
-Attibele,1200.0,3.0,0.0,110.0,3.0
-Kalkere,856.0,2.0,3.0,40.0,2.0
-Harlur,1174.0,2.0,1.0,76.0,2.0
-Jakkur,1645.0,3.0,1.0,100.0,3.0
-Marathahalli,1595.0,3.0,2.0,88.0,3.0
-Sadduguntepalya,1200.0,2.0,2.0,75.0,2.0
-Iggalur,910.0,2.0,1.0,30.5,2.0
-Lakshminarayana Pura,1185.0,2.0,2.0,75.0,2.0
-Rajaji Nagar,1763.0,3.0,2.0,262.0,2.0
-Electronic City,1128.0,2.0,1.0,65.45,2.0
-Aavalahalli,1180.0,2.0,3.0,41.94,2.0
-Babusapalaya,1105.0,2.0,1.0,40.0,2.0
-Kariyammana Agrahara,1800.0,3.0,3.0,90.0,3.0
-Nagarbhavi,1630.0,2.0,1.0,98.0,3.0
-CV Raman Nagar,1227.0,2.0,2.0,42.88,2.0
-Hebbal,1255.0,3.0,2.0,77.68,3.0
-Hadosiddapura,1200.0,3.0,2.0,165.0,3.0
-6th Phase JP Nagar,1216.0,2.0,2.0,60.0,2.0
-Kammasandra,1500.0,3.0,2.0,65.0,3.0
-Raja Rajeshwari Nagar,1295.0,2.0,2.0,43.9,2.0
-Bisuvanahalli,1180.0,2.0,1.0,45.0,3.0
-Vinayak Nagar,1758.0,3.0,2.0,95.0,3.0
-BTM 4th Stage,1350.0,2.0,0.0,90.0,2.0
-Munivenkatppa Layout,3700.0,4.0,2.0,314.0,4.0
-Koramangala,1410.0,2.0,0.0,280.0,4.0
-Bommasandra,1089.0,2.0,1.0,40.0,2.0
-KR Puram,3000.0,4.0,2.0,235.0,4.0
-Ncpr Industrial Layout,1285.0,2.0,3.0,72.5,2.0
-Chandapura,645.0,1.0,1.0,16.45,1.0
-Chuchangatta Colony,1250.0,3.0,2.0,44.0,3.0
-Attibele,418.0,1.0,1.0,12.0,1.0
-Jigani,914.0,2.0,2.0,49.0,2.0
-Sarjapur,1128.0,2.0,1.0,60.0,2.0
-HSR Layout,1372.0,2.0,1.0,61.0,2.0
-Benson Town,2270.0,3.0,1.0,180.0,3.0
-HBR Layout,1832.0,3.0,2.0,160.0,3.0
-Kanakapura,945.0,2.0,1.0,47.0,2.0
-Marsur,1200.0,3.0,1.0,90.0,3.0
-Kuvempu Nagar,1540.0,3.0,2.0,150.0,3.0
-Old Madras Road,1210.0,2.0,1.0,74.0,2.0
-Kereguddadahalli,1400.0,2.0,2.0,42.0,3.0
-2nd Stage Nagarbhavi,3000.0,8.0,3.0,451.0,6.0
-Attibele,3640.0,4.0,1.0,275.0,4.0
-Uttarahalli,1310.0,2.0,1.0,85.0,3.0
-Ulsoor,2135.0,3.0,2.0,170.0,3.0
-Kasavanhalli,1105.0,2.0,2.0,42.0,2.0
-Sidedahalli,750.0,2.0,0.0,20.0,2.0
-Begur,1200.0,2.0,1.0,33.0,2.0
-Sultan Palaya,900.0,2.0,2.0,45.0,2.0
-Marathahalli,1350.0,3.0,1.0,72.0,3.0
-Kadugodi,1198.0,2.0,2.0,58.0,2.0
-Chandapura,630.0,1.0,1.0,27.0,2.0
-Electronic City,1599.0,3.0,2.0,125.0,3.0
-Ramamurthy Nagar,1125.0,2.0,1.0,47.0,2.0
-Narayanapura,2400.0,5.0,2.0,85.0,5.0
-K N Extension,700.0,3.0,0.0,120.0,6.0
-Chikkalasandra,1290.0,2.0,2.0,56.12,3.0
-Hosur Road,1194.0,2.0,1.0,71.64,2.0
-Raja Rajeshwari Nagar 5th Stage,1060.0,2.0,1.0,52.0,2.0
-Electronic City,550.0,1.0,1.0,15.0,2.0
-Indira Nagar,1210.0,2.0,1.0,102.0,2.0
-Anugrah Layout,1250.0,3.0,3.0,40.0,3.0
-Devanahalli,1466.0,3.0,3.0,59.96,3.0
-Kaggalipura,950.0,2.0,1.0,47.0,2.0
-Chandapura,1162.5,3.0,0.0,30.215,3.0
-Kodichikkanahalli,1299.0,2.0,3.0,58.0,2.0
-Uttarahalli,1180.0,2.0,1.0,41.3,2.0
-Kanakpura Road,1843.0,3.0,2.0,95.0,3.0
-Hulimavu,1260.0,2.0,1.0,82.0,3.0
-Electronic City,1287.0,3.0,1.0,55.0,3.0
-Hebbal,1645.0,3.0,2.0,117.0,3.0
-Kalena Agrahara,900.0,2.0,1.0,40.0,2.0
-Electronic City Phase II,1549.0,3.0,2.0,80.0,3.0
-Uttarahalli,1480.0,2.0,1.0,58.0,3.0
-Kothanur,1455.0,2.0,0.0,69.0,2.0
-5th Phase JP Nagar,1041.0,2.0,2.0,54.0,2.0
-Thigalarapalya,3122.0,5.0,2.0,225.0,4.0
-EPIP Zone,1125.0,2.0,1.0,65.0,2.0
-Ramagondanahalli,845.0,2.0,1.0,45.82,2.0
-Lingadheeranahalli,1530.0,2.0,2.0,90.0,3.0
-Kengeri,3500.0,5.0,0.0,275.0,3.0
-Old Airport Road,3200.0,4.0,2.0,700.0,4.0
-Sector 2 HSR Layout,1332.0,2.0,2.0,101.0,2.0
-Kasavanhalli,1200.0,2.0,2.0,50.0,2.0
-Uttarahalli,1250.0,2.0,2.0,50.0,3.0
-Kanakpura Road,1090.0,2.0,1.0,54.54,2.0
-Yeshwanthpur,667.0,1.0,1.0,36.85,1.0
-Whitefield,1190.0,2.0,3.0,59.0,2.0
-Akash Nagar,967.0,2.0,1.0,47.8,2.0
-Kadubeesanahalli,1545.0,2.0,2.0,66.0,3.0
-Kammasandra,810.0,2.0,2.0,24.5,2.0
-Rayasandra,470.0,1.0,1.0,21.0,1.0
-Hebbal,1645.0,3.0,2.0,120.0,3.0
-Sampige Layout,1315.0,2.0,2.0,90.0,2.0
-Marathahalli,1610.0,3.0,1.0,90.0,3.0
-Hosur Road,1689.0,3.0,2.0,103.0,3.0
-Kasturi Nagar,1100.0,2.0,2.0,58.0,2.0
-Thanisandra,1200.0,2.0,2.0,46.0,2.0
-Kenchenahalli,1410.0,2.0,2.0,73.0,3.0
-Begur Road,1170.0,2.0,2.0,46.0,2.0
-Hosa Road,615.0,1.0,1.0,43.08,1.0
-3rd Block Koramangala,2100.0,3.0,1.0,270.0,3.0
-Sarjapur  Road,1346.0,2.0,1.0,69.61,2.0
-Crimson Layout,1830.0,3.0,2.0,95.0,3.0
-Vijayanagar,1380.0,2.0,0.0,225.0,2.0
-Ramamurthy Nagar,540.0,1.0,0.0,35.0,1.0
-Horamavu Banaswadi,1180.0,2.0,2.0,58.0,2.0
-Reliaable Tranquil Layout,1190.0,2.0,1.0,55.0,2.0
-Marathahalli,1350.0,2.0,1.0,86.0,2.0
-KR Garden,1200.0,2.0,3.0,135.0,2.0
-Budigere,1153.0,2.0,2.0,56.55,2.0
-Haralur Road,1243.0,2.0,2.0,46.0,2.0
-NS Palya,1200.0,2.0,1.0,74.0,2.0
-5th Phase JP Nagar,1000.0,2.0,0.0,48.0,2.0
-tc.palya,880.0,2.0,1.0,48.0,2.0
-Indira Nagar,1407.0,3.0,1.0,120.0,3.0
-Ambalipura,2750.0,4.0,0.0,142.0,4.0
-Electronic City,975.0,2.0,2.0,37.5,2.0
-Raja Rajeshwari Nagar,3600.0,9.0,3.0,240.0,9.0
-Electronic City Phase II,1150.0,3.0,3.0,46.0,3.0
-Glass Factory Layout,1450.0,3.0,3.0,65.0,3.0
-Thanisandra,1098.0,2.0,1.0,68.0,2.0
-Whitefield,1570.0,3.0,3.0,88.0,3.0
-Sarjapur,1185.0,2.0,2.0,47.0,2.0
-Kanakpura Road,1120.0,2.0,1.0,51.0,2.0
-Kaggalipura,700.0,1.0,0.0,35.0,1.0
-Sahakara Nagar,1270.0,2.0,1.0,96.0,2.0
-Bannerghatta Road,793.0,2.0,1.0,45.0,2.0
-Bharathi Nagar,1384.0,2.0,2.0,59.0,2.0
-Kambipura,1083.0,2.0,1.0,48.0,3.0
-JP Nagar,1200.0,2.0,3.0,78.0,2.0
-Hennur Road,1085.0,2.0,1.0,43.4,2.0
-Yemlur,1210.0,2.0,1.0,60.0,2.0
-Yelahanka,1815.0,3.0,2.0,82.0,3.0
-Hebbal,823.0,2.0,1.0,50.63,2.0
-Thanisandra main road,1804.0,2.0,1.0,285.0,2.0
-Raja Rajeshwari Nagar,1185.0,2.0,1.0,40.17,2.0
-Kenchenhalli,675.0,3.0,1.0,52.0,2.0
-Balagere,645.0,1.0,1.0,55.0,1.0
-Dodda Nekkundi,1100.0,2.0,1.0,41.16,2.0
-Rachenahalli,1050.0,2.0,2.0,52.1,2.0
-Rajiv Gandhi Nagar,1170.0,2.0,2.0,68.0,2.0
-Babusapalaya,1410.0,2.0,3.0,65.0,3.0
-Harlur,1197.0,2.0,1.0,79.0,2.0
-Haralur Road,575.0,1.0,1.0,38.0,1.0
-Electronic City,1150.0,2.0,1.0,38.08,2.0
-Malleshwaram,1100.0,2.0,2.0,75.0,2.0
-Rajiv Nagar,1330.0,2.0,1.0,93.0,2.0
-Cunningham Road,3815.0,3.0,1.0,763.0,3.0
-Jakkur,2249.81,4.0,2.0,245.0,4.0
-Arekere,2710.0,6.0,2.0,142.0,4.0
-Bommasandra Industrial Area,1130.0,2.0,1.0,32.64,2.0
-Hennur Gardens,1490.0,2.0,1.0,115.0,3.0
-Ashwath Nagar,1644.0,3.0,3.0,84.0,3.0
-Whitefield,1639.5,3.0,0.0,92.63,3.0
-Gottigere,1222.0,2.0,1.0,63.0,2.0
-Mysore Road,900.0,2.0,0.0,65.0,2.0
-Sanjay nagar,1900.0,2.0,2.0,180.0,3.0
-Gottigere,967.0,2.0,3.0,45.0,2.0
-B Narayanapura,1020.0,2.0,1.0,49.0,2.0
-Jakkur,1710.0,3.0,2.0,107.0,3.0
-Marathahalli,1250.0,2.0,2.0,68.0,2.0
-Tigalarpalya,1998.0,3.0,2.0,117.0,3.0
-Sarjapur  Road,1254.0,3.0,2.0,38.0,3.0
-Begur Road,1634.0,3.0,1.0,83.33,3.0
-Hennur,1150.0,3.0,2.0,80.0,3.0
-Jalahalli,1395.0,3.0,3.0,82.0,3.0
-Bisuvanahalli,1075.0,2.0,1.0,47.0,3.0
-Dodda Nekkundi,1804.0,3.0,2.0,121.0,3.0
-Banashankari Stage V,1355.0,2.0,1.0,61.0,3.0
-Hulimavu,1300.0,2.0,3.0,36.0,2.0
-Bellandur,1060.0,2.0,1.0,65.0,2.0
-Begur Road,1565.0,2.0,2.0,57.91,3.0
-Harlur,1331.0,2.0,1.0,88.0,2.0
-Kumarapalli,1240.0,2.0,2.0,52.6,2.0
-Varthur,1120.0,2.0,2.0,44.24,2.0
-Hebbal,1100.0,2.0,2.0,47.0,2.0
-"Hoodi Circle, ",1629.0,3.0,2.0,79.0,3.0
-Vasantha Vallabha Nagar,1280.0,2.0,1.0,100.0,3.0
-Harlur,1757.0,3.0,2.0,132.0,3.0
-Subramanyapura,1050.0,2.0,3.0,41.0,2.0
-Srirampura,2736.0,4.0,0.0,130.0,4.0
-Hennur Road,2047.0,3.0,2.0,67.55,3.0
-Bannerghatta Road,1846.0,3.0,2.0,120.0,3.0
-HAL 2nd Stage,1226.0,3.0,1.0,135.0,2.0
-Jigani,918.0,2.0,2.0,63.2,2.0
-Varthur,1083.0,2.0,2.0,28.0,2.0
-Bisuvanahalli,1075.0,2.0,1.0,41.49,3.0
-JP Nagar,1590.0,2.0,3.0,85.0,3.0
-Kaverappa Layout,1265.0,2.0,3.0,70.0,2.0
-Kasavanhalli,1575.0,2.0,3.0,85.0,2.0
-JP Nagar,1750.0,3.0,1.0,123.0,3.0
-Electronic City,1342.0,2.0,1.0,73.3,2.0
-Brookefield,1139.0,2.0,2.0,80.0,2.0
-Green Glen Layout,1715.0,3.0,2.0,115.0,3.0
-Whitefield,1225.0,2.0,2.0,47.6,2.0
-Hosakerehalli,2378.0,3.0,1.0,310.0,3.0
-Chikkalasandra,1224.0,2.0,2.0,45.0,2.0
-Lavelle Road,985.0,2.0,1.0,156.0,2.0
-New Gurappana Palya,3000.0,4.0,0.0,300.0,5.0
-KR Puram,1057.0,2.0,2.0,30.0,2.0
-Somasundara Palya,1329.0,2.0,2.0,70.0,2.0
-Domlur,1650.0,3.0,1.0,180.0,3.0
-Sector 7 HSR Layout,3000.0,5.0,1.0,275.0,4.0
-Doddanekundi,2045.0,4.0,3.0,154.0,3.0
-Anekal,1140.0,2.0,2.0,52.0,2.0
-Marathahalli,1720.0,3.0,0.0,175.0,3.0
-Harlur,1532.0,2.0,1.0,65.0,2.0
-Horamavu Agara,1107.83,2.0,1.0,41.51,2.0
-Marathahalli,1102.0,2.0,2.0,53.67,2.0
-Panathur,1007.0,2.0,1.0,64.0,2.0
-Uttarahalli,1350.0,2.0,3.0,47.24,3.0
-Jakkur,1950.0,3.0,2.0,131.0,3.0
-Peenya,966.0,2.0,1.0,49.0,2.0
-Kengeri Satellite Town,936.0,2.0,1.0,60.84,4.0
-Whitefield,1215.0,2.0,3.0,65.0,2.0
-Kothannur,1485.0,2.0,2.0,59.4,3.0
-Sarjapur,2885.0,3.0,1.0,185.0,4.0
-Nehru Nagar,1674.0,3.0,0.0,90.0,3.0
-Thigalarapalya,2072.0,4.0,2.0,152.0,3.0
-Dollars Colony,3500.0,4.0,3.0,350.0,4.0
-Kanakpura Road,1100.0,2.0,1.0,53.0,3.0
-T.C PALYA,1200.0,2.0,0.0,79.0,2.0
-Frazer Town,2000.0,3.0,1.0,200.0,3.0
-Kudlu Gate,1183.0,2.0,1.0,79.54,2.0
-Doddanakundi Industrial Area 2,1419.0,3.0,2.0,85.0,3.0
-Yelahanka,1391.0,2.0,2.0,64.5,3.0
-Horamavu Agara,625.0,1.0,1.0,27.0,1.0
-Bank Of Baroda Colony,1080.0,2.0,2.0,39.0,2.0
-Whitefield,1870.0,3.0,2.0,90.0,3.0
-Yelahanka,1315.0,2.0,2.0,85.0,2.0
-Pattandur Agrahara,1550.0,2.0,3.0,80.0,3.0
-Yeshwanthpur,1162.0,2.0,2.0,64.08,2.0
-Ambalipura,1607.0,2.0,2.0,112.0,3.0
-Dodsworth Layout,1400.0,2.0,3.0,85.0,2.0
-Sarjapur  Road,1273.0,2.0,2.0,60.0,2.0
-Thigalarapalya,2072.0,4.0,2.0,153.0,3.0
-Abbigere,1130.0,2.0,1.0,46.33,2.0
-KR Puram,3657.0,5.0,0.0,310.0,5.0
-Kanakapura,1500.0,3.0,3.0,125.0,3.0
-Byrasandra,1390.0,2.0,1.0,50.0,3.0
-Budigere,1820.0,3.0,2.0,99.0,3.0
-Thanisandra,2030.0,4.0,1.0,125.0,3.0
-Kammagondahalli,2700.0,7.0,3.0,110.0,6.0
-Nagavara,1545.0,2.0,1.0,58.0,3.0
-Sahakara Nagar,1160.0,2.0,1.0,55.0,2.0
-Bisuvanahalli,1075.0,2.0,1.0,52.0,3.0
-Tumkur Road,1441.0,2.0,1.0,95.0,3.0
-Electronic City,630.0,1.0,1.0,34.65,1.0
-Bannerghatta Road,1550.0,3.0,2.0,96.0,3.0
-Hebbal,1255.0,2.0,1.0,95.0,3.0
-Kodihalli,3252.0,5.0,3.0,335.0,4.0
-Jigani,1252.0,3.0,3.0,61.0,3.0
-Malleshwaram,480.0,1.0,1.0,60.0,1.0
-Electronic City,1575.0,3.0,3.0,101.0,3.0
-2nd Phase Judicial Layout,1150.0,2.0,1.0,40.25,2.0
-Byatarayanapura,1300.0,2.0,2.0,63.0,2.0
-KR Puram,750.0,2.0,1.0,25.0,2.0
-Chandra Layout,890.0,1.0,1.0,75.0,1.0
-Sarjapur  Road,1680.0,3.0,1.0,160.0,3.0
-Kodichikkanahalli,900.0,2.0,1.0,42.0,2.0
-tc.palya,1020.0,2.0,1.0,62.0,2.0
-Kalyan nagar,1190.0,2.0,1.0,60.0,2.0
-Raja Rajeshwari Nagar,1306.0,2.0,1.0,55.91,2.0
-Jakkur,1260.0,2.0,0.0,71.195,2.0
-Mylasandra,500.0,2.0,0.0,80.0,1.0
-Koramangala,1600.0,3.0,2.0,88.0,3.0
-B Y Raveshwara Nagar,1200.0,2.0,1.0,140.0,4.0
-Dodda Nekkundi,1148.0,2.0,1.0,56.0,2.0
-JP Nagar,3860.0,3.0,2.0,402.0,3.0
-TC Palaya,1500.0,2.0,1.0,100.0,3.0
-Electronic City,1275.0,3.0,3.0,63.43,3.0
-Horamavu Agara,1364.0,2.0,3.0,50.0,3.0
-HSR Layout,1372.0,2.0,1.0,68.0,2.0
-Frazer Town,2350.0,4.0,3.0,285.0,3.0
-"Bidere Agarahara, Behind Safal market",1060.0,2.0,2.0,42.0,2.0
-Mahadevpura,1500.0,2.0,1.0,70.0,3.0
-Electronic City Phase II,1116.0,2.0,2.0,37.0,2.0
-Green Glen Layout,1630.0,3.0,2.0,68.0,3.0
-Yelahanka New Town,1385.0,2.0,3.0,65.0,2.0
-CQAL LAYOUT C BLOCK,1200.0,3.0,1.0,160.0,3.0
-Whitefield,1306.0,3.0,2.0,54.65,3.0
-Vijayanagar,1760.0,3.0,0.0,140.0,3.0
-Talaghattapura,921.0,2.0,2.0,29.47,2.0
-Haralur Road,1092.0,2.0,2.0,44.0,2.0
-Sarjapur  Road,1864.0,3.0,2.0,105.0,4.0
-Mallasandra,1325.0,2.0,2.0,70.0,2.0
-Yelahanka,1075.0,2.0,1.0,42.0,3.0
-Bisuvanahalli,1075.0,2.0,1.0,46.0,3.0
-Sahakara Nagar,1914.0,3.0,2.0,149.0,3.0
-Whitefield,1173.0,2.0,1.0,77.0,2.0
-Electronic City,660.0,1.0,1.0,18.0,2.0
-Balagere,1007.0,2.0,1.0,65.0,2.0
-Rajaji Nagar,1800.0,3.0,2.0,240.0,3.0
-Bellandur,921.0,2.0,2.0,40.0,2.0
-Devarabisanahalli,1350.0,2.0,3.0,80.0,2.0
-6th Block Rajaji Nagar,3200.0,3.0,3.0,190.0,4.0
-Frazer Town,3436.0,5.0,0.0,345.0,4.0
-Ambedkar Nagar,1862.0,3.0,2.0,119.0,3.0
-Kanakapura main  Road,1495.0,2.0,2.0,52.33,3.0
-Kengeri,1160.0,2.0,2.0,40.6,3.0
-Kothanur,1500.0,1.0,0.0,75.0,1.0
-Bommanahalli,1350.0,2.0,2.0,72.0,2.0
-Chandapura,876.0,2.0,2.0,28.47,2.0
-5th Phase JP Nagar,1256.0,2.0,1.0,62.8,2.0
-R.T. Nagar,1400.0,2.0,3.0,78.0,3.0
-Kamakya Layout,2750.0,6.0,3.0,200.0,6.0
-Sarjapur,2400.0,3.0,2.0,190.0,3.0
-Kanakapura,1477.0,2.0,1.0,69.5,3.0
-Whitefield,613.0,1.0,1.0,48.0,1.0
-Bisuvanahalli,845.0,2.0,1.0,33.0,2.0
-Shree Ananth Nagar Layout,2040.0,2.0,2.0,59.0,2.0
-Sarjapur  Road,3335.0,5.0,2.0,300.0,4.0
-Bannerghatta Road,1012.0,2.0,1.0,45.0,2.0
-Bisuvanahalli,1075.0,2.0,1.0,32.0,3.0
-Kasavanhalli,1147.0,2.0,1.0,60.0,2.0
-Kasavanhalli,1375.0,2.0,2.0,72.0,2.0
-Hebbal Kempapura,1150.0,2.0,2.0,40.0,2.0
- Devarachikkanahalli,1170.0,2.0,2.0,40.0,2.0
-Sri Kanteshwara Nagar,1200.0,3.0,0.0,200.0,3.0
-Varthur,1402.0,2.0,2.0,95.0,2.0
-Hosur Road,3600.0,5.0,3.0,180.0,5.0
-7th Block Jayanagar,1903.0,2.0,1.0,293.0,3.0
-Kalena Agrahara,1354.0,2.0,2.0,70.0,2.0
-Whitefield,1697.0,3.0,2.0,115.0,3.0
-Raja Rajeshwari Nagar,1258.0,2.0,1.0,63.53,2.0
-Jakkasandra Extension,1000.0,2.0,1.0,63.0,2.0
-Uttarahalli,1300.0,2.0,1.0,47.0,3.0
-Bannerghatta Road,1280.0,2.0,2.0,60.16,2.0
-Jakkur Plantation,2750.0,3.0,0.0,260.0,3.0
-Electronic City,1165.0,2.0,1.0,33.64,2.0
-Yelahanka,3019.0,6.0,0.0,190.0,4.0
-Singasandra,1440.0,2.0,3.0,65.0,3.0
-Padmanabhanagar,1067.0,2.0,2.0,52.0,2.0
-Electronic City Phase II,1252.0,2.0,1.0,67.0,2.0
-8th Phase JP Nagar,1240.0,3.0,2.0,43.5,3.0
-5th Block Jayanagar,1500.0,1.0,1.0,300.0,1.0
-Yelachenahalli,900.0,2.0,1.0,115.0,4.0
-Horamavu Agara,994.0,2.0,1.0,42.28,2.0
-Varthur,986.0,2.0,1.0,30.0,2.0
-Basaveshwara Nagar,1200.0,2.0,2.0,80.0,2.0
-Doddathoguru,1208.0,3.0,1.0,45.0,3.0
-8th Phase JP Nagar,500.0,1.0,1.0,33.0,1.0
-Sompura,1020.0,2.0,3.0,41.0,2.0
-Kanakpura Road,983.0,2.0,1.0,50.6,2.0
-manyata park,1322.0,2.0,1.0,61.99,2.0
-Hebbal,1320.0,2.0,1.0,91.0,2.0
-Kanaka Nagar,1190.0,3.0,1.0,55.0,3.0
-7th Phase JP Nagar,1370.0,2.0,2.0,54.79,3.0
-Anekal,766.0,2.0,2.0,28.0,2.0
-Herohalli,1200.0,2.0,0.0,70.0,3.0
-Raja Rajeshwari Nagar,1587.0,3.0,1.0,73.8,3.0
-Versova Layout,3700.0,4.0,2.0,400.0,4.0
-Uttarahalli,1090.0,2.0,2.0,45.0,2.0
-Harlur,1532.0,2.0,1.0,65.0,2.0
-Tumkur Road,1459.0,2.0,1.0,95.0,3.0
-Yelahanka,1282.0,2.0,2.0,48.7,3.0
-Sarjapur  Road,1693.0,3.0,2.0,125.0,3.0
-Maruthi Nagar,1158.0,2.0,3.0,75.0,2.0
-Hosur Road,1370.0,3.0,3.0,38.36,3.0
-Bisuvanahalli,850.0,1.0,1.0,32.0,2.0
-Kanakpura Road,700.0,2.0,1.0,36.0,2.0
-Chikkabanavar,1067.0,2.0,1.0,38.0,2.0
-Green View Layout,1150.0,2.0,1.0,42.0,2.0
-Thanisandra,1234.0,2.0,2.0,51.0,2.0
-Bannerghatta Road,1246.0,2.0,2.0,47.35,2.0
-Hennur Road,1232.0,2.0,1.0,88.0,2.0
-Hebbal Kempapura,1800.0,3.0,2.0,175.0,3.0
-Banashankari,2400.0,4.0,3.0,470.0,4.0
-TC Palaya,1350.0,1.0,0.0,55.0,1.0
-Jakkasandra Extension,1205.0,2.0,1.0,70.0,2.0
-Electronic City,2093.0,4.0,2.0,134.0,4.0
-Electronic City Phase II,1020.0,2.0,1.0,29.45,2.0
-Hulimavu,1200.0,2.0,1.0,50.0,2.0
-Kodigehalli,1086.0,2.0,1.0,33.66,2.0
-Bellandur,1201.0,2.0,2.0,59.99,2.0
-Electronic City Phase II,1160.0,2.0,1.0,33.5,2.0
-Kasavanhalli,1181.0,2.0,1.0,61.0,2.0
-Hebbal,1328.0,2.0,2.0,60.0,3.0
-Marathahalli,1583.0,3.0,3.0,115.0,3.0
-Rayasandra,1555.0,3.0,2.0,75.17,3.0
-Kalena Agrahara,980.0,2.0,2.0,35.0,2.0
-Marathahalli,1530.0,3.0,2.0,74.5,3.0
-Haralur Road,1243.0,2.0,2.0,46.0,2.0
-Yeshwanthpur,1195.0,2.0,2.0,100.0,2.0
-Akshya Nagar,1380.0,2.0,1.0,75.0,2.0
-Kanakapura,1020.0,2.0,1.0,42.83,2.0
-Budigere,1820.0,3.0,2.0,85.0,3.0
-Sathanur,1620.0,2.0,1.0,110.0,3.0
-Kadugodi,2760.0,4.0,2.0,290.0,4.0
-Mysore Road,1525.0,3.0,2.0,96.0,3.0
-Alfa Garden Layout,1240.0,2.0,0.0,43.79,2.0
-Anekal,1200.0,1.0,1.0,36.0,2.0
-Iblur Village,1995.0,3.0,2.0,135.0,3.0
-Ramamurthy Nagar,1600.0,3.0,2.0,75.0,3.0
-8th Phase JP Nagar,1200.0,3.0,2.0,110.0,4.0
-Dasarahalli,1901.0,3.0,2.0,119.0,3.0
-8th block Koramangala,2400.0,3.0,2.0,290.0,3.0
-Banashankari Stage VI,1180.0,2.0,1.0,59.47,2.0
-Kannamangala,1536.0,3.0,1.0,89.0,3.0
-Kengeri,1200.0,2.0,0.0,58.0,2.0
-Whitefield,1125.0,2.0,2.0,62.0,2.0
-Electronic City Phase II,2187.5,4.0,0.0,105.0,4.0
-Electronics City Phase 1,950.0,2.0,3.0,31.0,2.0
-Bannerghatta Road,1160.0,2.0,2.0,45.0,2.0
-Uttarahalli,1330.0,2.0,1.0,58.0,3.0
-7th Phase JP Nagar,1200.0,2.0,2.0,200.0,2.0
-Vittasandra,1404.0,2.0,1.0,75.0,2.0
-Hoodi,1063.0,2.0,1.0,61.17,2.0
-Rayasandra,1198.0,2.0,1.0,54.0,2.0
-Electronic City,1363.0,2.0,1.0,79.0,2.0
-Sonnenahalli,1340.0,2.0,3.0,42.0,3.0
-Ambedkar Colony,1907.0,2.0,1.0,200.0,3.0
-Kanakpura Road,1100.0,3.0,1.0,58.0,3.0
-Old Madras Road,1211.0,2.0,3.0,45.0,2.0
-Hennur Road,1904.0,3.0,2.0,129.0,3.0
-TC Palaya,2000.0,3.0,1.0,76.0,3.0
-Hanumagiri,1100.0,2.0,1.0,38.0,2.0
-Talaghattapura,1257.0,2.0,2.0,40.22,3.0
-Electronic City,1128.0,2.0,1.0,64.0,2.0
-Marathahalli,950.0,2.0,1.0,46.96,2.0
-Whitefield,2850.0,5.0,0.0,240.0,4.0
-Sarjapur  Road,3150.0,4.0,2.0,500.0,4.0
-Marathahalli,1215.0,2.0,2.0,58.86,2.0
-Whitefield,1187.0,2.0,1.0,37.85,2.0
-Kanakpura Road,700.0,2.0,2.0,36.0,2.0
-Kaggadasapura,1063.0,2.0,2.0,42.0,2.0
-Hoodi,1512.0,3.0,2.0,75.77,3.0
-Kasavanhalli,1380.0,2.0,2.0,55.0,3.0
-Singapura Village,985.0,2.0,1.0,45.0,2.0
-Kirloskar Layout,750.0,3.0,1.0,88.0,5.0
- Devarachikkanahalli,1200.0,3.0,1.0,160.0,3.0
-Whitefield,3453.0,4.0,2.0,247.0,4.0
-Hulimavu,1115.0,2.0,2.0,44.6,2.0
-Hennur,1285.0,2.0,1.0,60.0,2.0
-Haralur Road,575.0,1.0,1.0,88.0,1.0
-Electronic City,2010.0,3.0,2.0,201.0,3.0
-Whitefield,1355.0,2.0,3.0,73.0,2.0
-Raja Rajeshwari Nagar,1060.0,2.0,1.0,48.0,2.0
-Electronics City Phase 1,755.0,1.0,0.0,30.12,1.0
-Pattandur Agrahara,1247.0,2.0,2.0,62.35,2.0
-Ramamurthy Nagar Extension,1350.0,3.0,2.0,48.6,3.0
-Jakkur,1150.0,3.0,2.0,65.0,3.0
-Nagavarapalya,646.0,1.0,0.0,25.84,1.0
-Electronic City,1128.0,2.0,1.0,64.0,2.0
-BEL Layout,1375.0,2.0,1.0,105.0,2.0
-Benson Town,1750.0,3.0,3.0,150.0,3.0
-Bhoganhalli,2119.0,4.0,3.0,111.0,4.0
-Doddathoguru,915.0,2.0,1.0,32.0,2.0
-Kanakpura Road,1260.0,3.0,3.0,63.58,3.0
-Kalyan nagar,1800.0,3.0,2.0,85.0,3.0
-Seegehalli,1176.0,2.0,2.0,50.0,2.0
-Hebbal,1250.0,2.0,1.0,55.55,2.0
-Balagere,1380.0,2.0,1.0,60.0,2.0
-Ramamurthy Nagar,600.0,1.0,1.0,43.0,1.0
-JP Nagar,1245.0,2.0,2.0,110.0,2.0
-Dollars Layout,2456.0,3.0,3.0,220.0,3.0
-Rajaji Nagar,1200.0,1.0,1.0,200.0,2.0
-Gottigere,1806.0,1.0,1.0,150.0,1.0
-Rachenahalli,1550.0,3.0,3.0,73.5,3.0
-Basapura,1540.0,2.0,2.0,70.0,3.0
-Jalahalli,615.0,1.0,1.0,46.0,1.0
-Ardendale,2062.0,3.0,0.0,140.0,4.0
-2nd Block Hrbr Layout,1480.0,3.0,2.0,90.0,3.0
-Kadugodi,1030.0,2.0,1.0,35.02,2.0
-Rustam Bagh Layout,1300.0,2.0,2.0,65.0,2.0
-Sarjapur  Road,1272.5,2.0,0.0,40.72,3.0
-Kengeri Satellite Town Stage II,500.0,1.0,1.0,20.0,1.0
-Frazer Town,3436.0,5.0,0.0,341.0,4.0
-Doddathoguru,1107.0,2.0,3.0,44.0,2.0
-Whitefield,1495.0,3.0,0.0,60.55,3.0
-Doddakallasandra,1010.0,2.0,1.0,40.39,2.0
-Chikkasandra,600.0,1.0,1.0,52.0,2.0
-Chennappa Layout,1050.0,2.0,2.0,45.0,2.0
-Budigere,764.0,1.0,1.0,32.0,1.0
-Bannerghatta Road,1750.0,3.0,0.0,130.0,3.0
-Gopalkrishna Nagar,1155.0,2.0,1.0,64.0,2.0
-Yelahanka,1150.0,2.0,2.0,46.0,2.0
-Green View Layout,1007.0,2.0,2.0,43.0,2.0
-Yelahanka,660.0,1.0,0.0,48.0,1.0
-Kasavanhalli,1309.0,2.0,2.0,95.0,2.0
-Kalyan nagar,2422.0,3.0,2.0,150.0,4.0
-Banaswadi,1105.0,2.0,2.0,57.0,2.0
-Tumkur Road,1240.0,2.0,1.0,84.0,3.0
-Jigani,1221.0,3.0,3.0,75.0,3.0
-Electronic City,1025.0,2.0,1.0,53.9,2.0
-1st Phase JP Nagar,1180.0,2.0,2.0,88.5,2.0
-Hennur Road,1735.0,3.0,3.0,78.0,3.0
-Raja Rajeshwari Nagar,1187.0,2.0,2.0,40.14,2.0
-4th Block Koramangala,2400.0,4.0,0.0,500.0,4.0
-Sarjapur  Road,1830.0,3.0,1.0,119.0,3.0
-Hanumanth Nagar,1175.0,2.0,2.0,52.86,2.0
-Devanahalli,1550.0,3.0,1.0,85.0,3.0
-EPIP Zone,1734.0,3.0,3.0,125.0,3.0
-Whitefield,1200.0,3.0,2.0,56.58,3.0
-Hosa Road,1893.0,3.0,2.0,130.0,3.0
-Pai Layout,1400.0,2.0,2.0,57.5,2.0
-Vittasandra,2105.0,2.0,1.0,70.2,2.0
-Haralur Road,1225.0,2.0,1.0,67.38,2.0
-Yelachenahalli,1800.0,3.0,1.0,220.0,4.0
-Whitefield,3584.0,4.0,0.0,199.0,4.0
-Doddabommasandra,646.0,2.0,1.0,65.0,3.0
-Kallumantapa,1054.0,2.0,1.0,53.0,2.0
-Kanakpura Road,700.0,2.0,1.0,34.99,2.0
-Ramagondanahalli,1251.0,2.0,1.0,53.0,2.0
-JP Nagar,1450.0,2.0,2.0,55.0,3.0
-Jayanti Nagar,1200.0,3.0,1.0,70.0,2.0
-Frazer Town,1180.0,2.0,1.0,105.0,2.0
-Marathahalli,1485.0,2.0,2.0,90.0,3.0
-Ramagondanahalli,1295.0,2.0,2.0,95.0,2.0
-Kanakpura Road,525.0,1.0,1.0,27.0,1.0
-Doddakallasandra,1072.0,2.0,1.0,42.87,2.0
-Whitefield,1320.0,2.0,1.0,95.0,2.0
-Kengeri,2894.0,4.0,1.0,245.0,4.0
-Raja Rajeshwari Nagar,1395.0,2.0,2.0,72.0,3.0
-Malleshpalya,1245.0,2.0,1.0,55.0,2.0
-Electronic City Phase II,1020.0,2.0,1.0,30.6,2.0
-Bannerghatta Road,1550.0,2.0,2.0,75.0,3.0
-Kanakpura Road,1300.0,2.0,2.0,55.0,3.0
-Uttarahalli,1308.0,2.0,3.0,53.0,3.0
-Nagavarapalya,1392.0,2.0,1.0,130.0,2.0
-Panathur,1255.0,2.0,2.0,79.0,2.0
-RMV,2000.0,3.0,2.0,365.0,3.0
-Balagere,790.5,1.0,0.0,41.9,1.0
-Sarjapur,2690.0,3.0,2.0,295.0,3.0
-Alfa Garden Layout,975.0,2.0,1.0,43.0,2.0
-Frazer Town,1750.0,3.0,2.0,150.0,3.0
-TC Palaya,1500.0,2.0,0.0,75.0,2.0
-HSR Layout,1142.0,2.0,2.0,65.0,2.0
-Uttarahalli,1360.0,2.0,2.0,47.59,3.0
-Sarjapur  Road,2289.0,3.0,2.0,178.0,3.0
-Tumkur Road,1246.0,2.0,1.0,82.0,2.0
-Kadugodi,1394.0,2.0,2.0,56.0,2.0
-Abbaiah Reddy Layout,1100.0,2.0,1.0,38.45,2.0
-Yelahanka,827.5,1.0,0.0,42.535,1.0
-Green View Layout,1010.0,2.0,1.0,41.0,2.0
-Yelahanka,1664.0,3.0,0.0,73.95,3.0
-Hennur Road,1310.0,2.0,1.0,66.0,2.0
-Ramamurthy Nagar,1185.0,2.0,1.0,45.5,2.0
-Uttarahalli,1285.0,2.0,2.0,44.98,3.0
-Thigalarapalya,2912.0,6.0,2.0,210.0,4.0
-Hegde Nagar,1703.0,3.0,2.0,125.0,3.0
-Kachanayakanahalli,827.0,2.0,0.0,34.0,2.0
-Cox Town,605.0,1.0,1.0,29.0,1.0
-Old Airport Road,2658.0,5.0,3.0,189.0,4.0
-Brookefield,1518.0,3.0,3.0,80.0,3.0
-Rayasandra,1253.0,2.0,2.0,57.0,2.0
-Bommasandra Industrial Area,1005.0,2.0,1.0,39.77,2.0
-Kudlu Gate,1535.0,3.0,2.0,86.0,3.0
-Begur Road,644.0,1.0,1.0,32.0,1.0
-Sarjapur  Road,920.0,2.0,1.0,40.0,2.0
-Kothanur,1075.0,2.0,2.0,53.0,2.0
-1st Stage Indira Nagar,1200.0,2.0,2.0,55.0,2.0
-Begur Road,970.0,2.0,2.0,27.0,2.0
-Banashankari,1750.0,2.0,2.0,89.0,3.0
-Old Mangammanapalya Road,3200.0,4.0,2.0,140.0,3.0
-Bannerghatta Road,1200.0,2.0,2.0,65.0,2.0
-Raja Rajeshwari Nagar,1133.0,2.0,2.0,40.0,2.0
-Electronics City Phase 1,2040.0,3.0,2.0,137.0,3.0
-Sonnenahalli,1268.0,2.0,1.0,56.0,2.0
-Badavala Nagar,1842.0,3.0,2.0,115.0,3.0
-Thigalarapalya,2215.0,4.0,2.0,152.0,3.0
-Yelahanka,1322.0,2.0,2.0,86.0,2.0
-Challaghatta,1489.0,2.0,0.0,101.0,2.0
-Byrasandra Extension,1285.0,2.0,2.0,45.0,2.0
-Rayasandra,1199.0,2.0,1.0,48.5,3.0
-Begur Road,1241.0,2.0,1.0,64.0,2.0
-Hebbal,2600.0,3.0,2.0,195.0,3.0
-Cholanayakanahalli,2511.0,3.0,3.0,205.0,3.0
-Hosur Road,1179.0,2.0,1.0,49.0,2.0
-Thanisandra,1881.0,3.0,0.0,95.0,3.0
-Doddakammanahalli,1542.0,3.0,2.0,98.0,3.0
-Kannamangala,1536.0,3.0,1.0,107.0,3.0
-NRI Layout,1565.0,2.0,2.0,75.0,3.0
-KR Puram,2000.0,2.0,0.0,75.0,2.0
-Munnekollal,1030.0,2.0,1.0,50.36,2.0
-Bommanahalli,1660.0,2.0,0.0,100.0,3.0
-Roopena Agrahara,1215.0,2.0,2.0,46.5,3.0
-Whitefield,1910.0,3.0,2.0,161.0,3.0
-Outer Ring Road East,3870.0,4.0,2.0,411.0,4.0
-Whitefield,1315.0,2.0,2.0,69.5,2.0
-Basavanapura,1135.0,2.0,2.0,32.91,2.0
-TC Palaya,1200.0,2.0,0.0,66.0,3.0
-Mallathahalli,1225.0,3.0,3.0,60.0,3.0
-Bellandur,1063.0,2.0,1.0,58.0,2.0
-Kengeri,1741.0,3.0,2.0,80.0,3.0
-Uttarahalli,1215.0,2.0,2.0,52.85,3.0
-Vasanthapura,1037.0,2.0,1.0,36.28,2.0
-Nagashetty Halli,750.0,2.0,0.0,40.0,2.0
-Munnekollal,1800.0,3.0,3.0,65.0,3.0
-Whitefield,3100.0,4.0,2.0,465.0,4.0
-Narayanapura,1485.0,3.0,2.0,85.0,3.0
-Chandapura,1025.0,2.0,2.0,27.68,2.0
-Brookefield,1389.0,2.0,2.0,94.0,2.0
-Thigalarapalya,3122.0,6.0,2.0,235.0,4.0
-Yeshwanthpur Industrial Suburb,3800.0,6.0,0.0,390.0,6.0
-Kundalahalli,1047.0,2.0,1.0,82.62,2.0
-Jeevan bima nagar,1225.0,2.0,2.0,48.0,2.0
-Bellandur,1195.0,2.0,2.0,51.0,2.0
-BTM Layout,1450.0,2.0,2.0,81.0,3.0
-Whitefield,1451.0,2.0,2.0,52.43,3.0
-Shanti Nagar,1602.0,2.0,1.0,170.0,3.0
-Old Madras Road,1350.0,3.0,1.0,47.25,3.0
-Bannerghatta Road,1365.0,3.0,1.0,76.18,3.0
-Mahadevpura,1434.0,2.0,1.0,67.39,3.0
-Sarjapur  Road,2140.0,3.0,2.0,139.0,3.0
-Padmanabhanagar,1258.0,2.0,2.0,115.0,2.0
-Electronic City,550.0,1.0,1.0,16.0,2.0
-Singanayakanahalli,1480.0,2.0,0.0,75.0,3.0
-R.T. Nagar,1300.0,3.0,0.0,145.0,3.0
-Badavala Nagar,1842.0,3.0,2.0,115.0,3.0
-Konena Agrahara,1000.0,2.0,1.0,50.0,2.0
-Old Madras Road,2640.0,2.0,1.0,170.0,2.0
-Horamavu Banaswadi,1210.0,2.0,1.0,50.0,2.0
-Green Glen Layout,1050.0,2.0,2.0,48.0,2.0
-Banashankari,1330.0,2.0,1.0,78.0,2.0
-Marathahalli,1735.0,3.0,2.0,72.0,3.0
-Nagawara Junction,600.0,2.0,0.0,30.0,2.0
-Electronic City Phase II,1900.0,3.0,1.0,97.0,4.0
-Dommasandra,1267.0,3.0,2.0,56.0,3.0
-Thanisandra,3000.0,4.0,0.0,120.0,4.0
-Kasavanhalli,2100.0,3.0,3.0,110.0,3.0
-Doddathoguru,1875.0,3.0,1.0,55.0,3.0
-Whitefield,1500.0,3.0,1.0,71.0,3.0
-Sarjapur  Road,715.0,1.0,2.0,29.0,1.0
-Gollarapalya Hosahalli,861.0,2.0,1.0,34.5,2.0
-Billekahalli,1805.0,3.0,3.0,134.0,3.0
-Talaghattapura,1100.0,2.0,1.0,49.49,2.0
-Hoodi,1196.0,2.0,2.0,94.42,2.0
-Electronics City Phase 1,1145.0,2.0,1.0,54.0,2.0
-Whitefield,1415.0,2.0,3.0,67.0,2.0
-Thanisandra,1430.0,2.0,2.0,54.0,3.0
-Mahalakshmi Puram,1550.0,3.0,1.0,250.0,5.0
-Koramangala,1355.0,2.0,2.0,95.0,2.0
-Sarjapur  Road,1000.0,2.0,2.0,40.0,2.0
- Banaswadi,527.0,1.0,0.0,35.0,1.0
-Kaikondrahalli,991.0,2.0,0.0,64.0,2.0
-Nagarbhavi,1050.0,2.0,1.0,80.0,2.0
-Akshaya Nagar,1200.0,2.0,2.0,45.0,2.0
-Kengeri Satellite Town,635.0,1.0,1.0,22.0,2.0
-Sarjapur  Road,1308.0,2.0,1.0,83.0,2.0
-Whitefield,735.0,2.0,1.0,35.0,2.0
-Hebbal,1255.0,2.0,1.0,77.68,3.0
-Chikkabanavar,2000.0,4.0,0.0,65.0,5.0
-Whitefield,1100.0,2.0,2.0,52.0,2.0
-Raja Rajeshwari Nagar,1375.0,2.0,1.0,54.99,3.0
-Anekal,1800.0,3.0,2.0,68.0,3.0
-Kodihalli,1490.0,2.0,1.0,150.0,2.0
-Raja Rajeshwari Nagar,1141.0,2.0,1.0,60.0,2.0
-Green Domain Layout,1280.0,2.0,2.0,75.0,2.0
-Nagavara,1125.0,2.0,2.0,44.5,2.0
-Kothannur,1215.0,2.0,3.0,48.6,3.0
-Hebbal,1355.0,3.0,2.0,83.87,3.0
-Thanisandra,2695.0,4.0,3.0,188.0,4.0
-Raja Rajeshwari Nagar,1090.0,2.0,1.0,42.0,2.0
-Sarjapur  Road,691.0,1.0,1.0,31.1,1.0
-Sarjapur  Road,994.0,2.0,2.0,45.0,2.0
-Vidyaranyapura,1560.0,3.0,3.0,68.0,3.0
-Vidyaranyapura,462.0,3.0,0.0,38.0,3.0
-Karuna Nagar,2500.0,3.0,2.0,180.0,3.0
-Vittasandra,1246.0,2.0,1.0,67.4,2.0
-Kodichikkanahalli,1181.0,2.0,2.0,57.0,2.0
-Thanisandra,784.0,1.0,0.0,35.285,1.0
-Ramagondanahalli,920.0,2.0,3.0,65.0,2.0
-Banaswadi,1340.0,2.0,2.0,73.0,2.0
-Channasandra Layout,1265.0,2.0,1.0,82.0,3.0
-Yelahanka,1140.0,2.0,1.0,50.66,2.0
-Tata Nagar,1500.0,3.0,2.0,70.0,3.0
-7th Phase JP Nagar,1450.0,2.0,1.0,100.0,3.0
-Electronic City Phase II,1065.0,2.0,1.0,30.75,2.0
-HSR Layout,2020.0,3.0,2.0,160.0,3.0
-Frazer Town,2400.0,3.0,2.0,260.0,3.0
-Hegde Nagar,1703.0,3.0,2.0,130.0,3.0
-Roopena Agrahara,1050.0,2.0,1.0,67.0,2.0
-BCMC Layout,1600.0,2.0,2.0,88.0,3.0
-Sri Sai Layout,1195.0,2.0,0.0,42.4,2.0
-Kasavanhalli,1476.0,3.0,0.0,105.0,3.0
-Whitefield,1216.0,2.0,1.0,79.0,2.0
-Raja Rajeshwari Nagar,510.0,1.0,1.0,22.0,1.0
-Kanakpura Road,1938.0,3.0,3.0,92.69,3.0
-Sadashiva Nagar,3850.0,3.0,3.0,650.0,3.0
-Banashankari,1460.0,2.0,3.0,70.0,2.0
-Jakkur,3181.0,4.0,0.0,260.5,4.0
-"JP Nagar 7th Phase, ",1503.0,2.0,2.0,93.0,3.0
-Bannerghatta Road,1476.0,3.0,1.0,125.0,3.0
-Koramangala,1140.0,2.0,1.0,75.2,2.0
-Nagavarapalya,1300.0,3.0,1.0,80.0,3.0
-Hosa Road,675.0,3.0,2.0,72.5,3.0
-Chikkalasandra,1325.0,2.0,1.0,59.0,2.0
-Hosur Road,660.0,1.0,1.0,23.0,1.0
-Uttarahalli,1475.0,2.0,3.0,59.0,3.0
-Rachenahalli,1530.0,2.0,2.0,74.5,3.0
-Kaggadasapura,1654.0,3.0,3.0,70.0,3.0
-Rayasandra,1357.0,2.0,2.0,59.0,3.0
-Vijayabank bank layout,1100.0,2.0,1.0,48.0,2.0
-Kanakpura Road,1419.59,2.0,1.0,65.0,3.0
-KR Puram,1156.0,2.0,1.0,72.0,2.0
-Yelahanka,600.0,2.0,2.0,27.0,2.0
-Rajaji Nagar,3436.0,6.0,3.0,500.0,4.0
-Bannerghatta,1320.0,2.0,0.0,50.0,2.0
-Subramanyapura,975.0,2.0,1.0,63.0,2.0
-Electronic City,1070.0,2.0,1.0,47.0,2.0
-Kasavanhalli,1863.0,3.0,2.0,105.0,4.0
-Lake City,600.0,1.0,1.0,22.8,1.0
-Banashankari,1200.0,2.0,2.0,42.0,3.0
-Bagalakunte,2360.0,4.0,2.0,150.0,4.0
-TC Palaya,1100.0,3.0,1.0,50.0,3.0
-Thanisandra,923.0,1.0,1.0,45.69,1.0
-TC Palaya,900.0,2.0,0.0,55.0,2.0
-Chandapura,985.0,2.0,1.0,25.12,2.0
-Begur Road,1500.0,2.0,3.0,70.0,3.0
-Hebbal,1299.0,2.0,1.0,100.0,2.0
-HRBR Layout,1170.0,2.0,2.0,75.0,2.0
-Jakkur,1798.0,3.0,1.0,110.0,3.0
-Shampura,700.0,1.0,2.0,35.0,2.0
-ITI Layout,1602.0,2.0,0.0,75.0,3.0
-Gottigere,945.0,2.0,0.0,45.0,2.0
-Rajaji Nagar,3100.0,4.0,2.0,570.0,4.0
-Ramamurthy Nagar,1101.0,2.0,1.0,50.0,2.0
-Shampura,1200.0,2.0,3.0,53.0,2.0
-Anekal,2400.0,4.0,0.0,95.0,3.0
-Green Glen Layout,1728.0,3.0,2.0,125.0,3.0
-Badavala Nagar,1274.0,2.0,1.0,81.0,2.0
-Kundalahalli,1724.0,3.0,2.0,125.0,3.0
-Yelahanka,1484.0,2.0,2.0,56.4,3.0
-Anekal,530.0,1.0,1.0,18.0,1.0
-Bellandur,1605.0,3.0,2.0,85.0,3.0
-TC Palaya,1200.0,2.0,0.0,70.0,2.0
-Jakkur,1290.0,2.0,1.0,80.0,2.0
-7th Phase JP Nagar,1350.0,3.0,2.0,58.0,3.0
-Kaggadasapura,1106.0,2.0,3.0,40.0,2.0
-7th Phase JP Nagar,3600.0,4.0,3.0,400.0,4.0
-Chellikere,1088.0,2.0,2.0,46.0,2.0
-Kaval Byrasandra,1060.0,2.0,2.0,42.0,2.0
-Whitefield,1275.0,2.0,3.0,65.0,3.0
-Doddaballapur,3876.0,3.0,1.0,300.0,3.0
-Kasavanhalli,1819.0,3.0,1.0,150.0,3.0
-Sector 6 HSR Layout,3800.0,3.0,0.0,580.0,3.0
-Yelahanka,2710.0,3.0,1.0,251.0,3.0
-Varthur,1012.0,2.0,1.0,59.0,2.0
-Whitefield,1431.0,3.0,2.0,85.0,3.0
-Haralur Road,1255.0,3.0,2.0,115.0,3.0
-Rachenahalli,1550.0,3.0,2.0,74.5,3.0
-Horamavu Banaswadi,1200.0,2.0,1.0,45.0,2.0
-Kogilu,1190.0,2.0,2.0,50.66,2.0
-Arekere,600.0,1.0,1.0,28.0,1.0
-Sarjapur  Road,2206.0,4.0,1.0,180.0,3.0
-Begur Road,1615.0,3.0,2.0,59.76,3.0
-Bannerghatta Road,2400.0,4.0,1.0,180.0,4.0
-Harlur,1290.0,2.0,1.0,87.0,2.0
-Chelekare,1250.0,2.0,1.0,62.4,2.0
-Subramanyapura,1277.0,2.0,2.0,55.0,2.0
-3rd Block Banashankari,2400.0,4.0,1.0,325.0,5.0
-Bannerghatta Road,1380.0,3.0,0.0,58.0,4.0
-Venkatadri Layout,596.0,1.0,1.0,42.0,1.0
-Gkvk Layout,1350.0,3.0,3.0,195.0,3.0
-Devanahalli,658.0,1.0,1.0,34.0,1.0
-Thigalarapalya,2072.0,4.0,2.0,160.0,3.0
-Whitefield,1550.0,2.0,2.0,49.6,3.0
-Panathur,1199.0,2.0,1.0,85.0,2.0
-Vittasandra,1246.0,2.0,1.0,67.5,2.0
-Subramanyapura,1200.0,2.0,2.0,52.0,2.0
-Munnekollal,950.0,2.0,1.0,46.5,2.0
-Kothanur,1365.0,3.0,3.0,66.0,3.0
-Thanisandra,1050.0,2.0,2.0,45.0,2.0
-Sarjapur  Road,3500.0,3.0,2.0,275.0,3.0
-Mahalakshmi Layout,1200.0,2.0,3.0,110.0,3.0
-Harlur,1752.12,3.0,2.0,135.0,3.0
-Koramangala,1594.0,3.0,0.0,125.0,3.0
-ITI Layout,2160.0,5.0,1.0,250.0,6.0
-Hennur,1155.0,2.0,2.0,54.5,2.0
-Kadubeesanahalli,1424.0,2.0,2.0,75.0,3.0
-New Thippasandra,1116.0,2.0,1.0,49.8,2.0
-Uttarahalli,1155.0,2.0,2.0,40.42,2.0
-Whitefield,1180.0,2.0,2.0,41.0,2.0
-Rachenahalli,1550.0,2.0,2.0,73.5,3.0
-Ulsoor,450.0,3.0,1.0,70.0,3.0
-Malleshwaram,600.0,1.0,0.0,68.0,2.0
-Banashankari,2400.0,1.0,1.0,200.0,1.0
-Kalena Agrahara,1187.0,2.0,3.0,52.0,2.0
-Sultan Palaya,550.0,1.0,1.0,62.0,2.0
-Sarakki Nagar,2289.0,3.0,2.0,260.0,3.0
-VGP Layout,1515.0,3.0,3.0,90.0,3.0
-Panathur,1597.0,3.0,1.0,67.12,3.0
-Gottigere,1621.0,3.0,3.0,72.0,3.0
-Whitefield,1150.0,2.0,2.0,55.0,2.0
-Thanisandra,1265.0,2.0,2.0,85.0,2.0
-Double Road,500.0,3.0,2.0,100.0,3.0
-Electronics City Phase 1,1522.5,3.0,0.0,60.75,3.0
-Canara Bank Layout,1450.0,3.0,1.0,65.0,3.0
-Mallathahalli,1100.0,2.0,1.0,46.0,2.0
-Thurahalli,600.0,3.0,2.0,65.0,4.0
-Yelahanka,1616.0,3.0,1.0,65.0,3.0
-Ulsoor,840.0,1.0,1.0,150.0,1.0
-Indira Nagar Stage 2,1196.0,2.0,1.0,96.0,2.0
-Hoskote,1069.0,2.0,0.0,38.0,3.0
-Electronic City Phase II,1160.0,2.0,1.0,33.5,2.0
-Devanahalli,1360.0,2.0,0.0,62.425,2.0
-Raja Rajeshwari Nagar,1560.0,2.0,2.0,62.4,3.0
-Gottigere,1435.0,2.0,3.0,62.0,3.0
-KUDLU MAIN ROAD,1464.0,3.0,2.0,56.0,3.0
-Nandi Durga Road,2500.0,3.0,1.0,250.0,3.0
-Hoodi,1575.0,3.0,2.0,66.39,3.0
-Kanakpura Road,1331.0,2.0,1.0,107.0,2.0
-Rajaji Nagar,3526.0,4.0,3.0,598.0,4.0
-Thanisandra,1265.0,2.0,2.0,82.0,2.0
-Yelahanka,890.0,2.0,0.0,40.0,2.0
-B Narayanapura,1460.0,2.0,3.0,73.0,3.0
-Nagawara Junction,3500.0,4.0,2.0,245.0,4.0
-Kundalahalli,735.0,2.0,1.0,57.99,2.0
-Hennur Road,2264.0,3.0,2.0,168.0,3.0
-2nd Phase JP Nagar,1070.0,2.0,2.0,38.0,2.0
-Kanakpura Road,1300.0,3.0,2.0,69.0,3.0
-Chandapura,1230.0,2.0,2.0,31.37,3.0
-Hoodi,1837.0,3.0,1.0,110.0,3.0
-Nagasandra,1650.0,3.0,2.0,95.0,3.0
-Ramamurthy Nagar,1208.0,2.0,2.0,43.5,3.0
-Thigalarapalya,3122.0,6.0,2.0,237.0,4.0
-Nallurhalli,1053.0,2.0,3.0,44.0,2.0
-Whitefield,1355.0,3.0,3.0,76.0,2.0
-Bhoganhalli,1444.0,2.0,1.0,75.97,2.0
-Sarjapur  Road,1400.0,2.0,2.0,68.0,2.0
-Kanakpura Road,1591.0,3.0,1.0,115.0,3.0
-Sadashiva Nagar,3761.0,3.0,2.0,660.0,3.0
-Electronic City Phase II,1056.0,2.0,1.0,39.07,2.0
-Nagavara,440.0,3.0,1.0,35.0,3.0
-Hennur,1041.0,2.0,2.0,40.6,2.0
-"Banashankari 6th Stage ,Subramanyapura",1690.0,3.0,2.0,100.0,3.0
-Nobo Nagar,1200.0,2.0,2.0,45.0,2.0
-Bellandur,1310.0,2.0,2.0,85.0,2.0
-R.T. Nagar,1500.0,2.0,2.0,45.0,2.0
-Yeshwanthpur,1676.0,3.0,0.0,92.13,3.0
-Thanisandra,662.0,1.0,0.0,38.0,1.0
-Thanisandra,1698.0,3.0,2.0,125.0,3.0
-Uttarahalli,1125.0,2.0,1.0,47.65,2.0
-Jigani,920.0,2.0,2.0,46.0,2.0
-Garudachar Palya,1325.0,2.0,2.0,60.0,3.0
-Ashwath Nagar,1625.0,3.0,2.0,95.0,3.0
-Kengeri,750.0,2.0,2.0,22.0,2.0
-Banashankari Stage VI,1392.0,3.0,1.0,69.46,3.0
-Kadugodi,1430.0,2.0,0.0,55.0,3.0
-Electronics City Phase 1,650.0,1.0,1.0,23.0,1.0
-Hormavu,1310.0,2.0,2.0,67.0,2.0
-Kambipura,883.0,2.0,1.0,39.0,2.0
-Thanisandra,1100.0,2.0,1.0,38.0,2.0
-5th Block Hbr Layout,1270.0,2.0,2.0,70.0,3.0
-NRI Layout,2150.0,4.0,2.0,115.0,4.0
-Tippenahalli,1200.0,2.0,0.0,55.0,2.0
-Yelahanka,654.0,1.0,1.0,37.0,1.0
-Chandapura,645.0,1.0,1.0,16.45,1.0
-Thigalarapalya,3362.0,5.0,2.0,249.0,4.0
-Bommasandra Industrial Area,1400.0,2.0,1.0,40.44,3.0
-2nd Stage Nagarbhavi,1500.0,3.0,2.0,230.0,4.0
-7th Phase JP Nagar,1190.0,2.0,1.0,49.98,2.0
-Old Airport Road,1145.0,2.0,2.0,75.0,2.0
-Kenchenhalli,1786.0,3.0,2.0,79.99,3.0
-Wilson Garden,1655.0,3.0,2.0,155.0,3.0
-Nagarbhavi,600.0,2.0,1.0,80.0,3.0
-Jigani,1250.0,3.0,2.0,58.0,3.0
-Hosur Road,1427.0,2.0,1.0,130.0,3.0
-Kanakpura Road,1698.0,2.0,1.0,105.0,2.0
-Whitefield,1452.0,2.0,2.0,46.29,3.0
-Amblipura,3150.0,4.0,3.0,180.0,4.0
-Thanisandra,1922.0,3.0,3.0,106.0,3.0
-Kanakpura Road,1591.0,3.0,1.0,120.0,3.0
-Whitefield,935.0,2.0,1.0,32.72,2.0
-Dodda Nekkundi Extension,1975.0,3.0,3.0,90.0,3.0
-Vidyaranyapura,3150.0,7.0,3.0,375.0,7.0
-Subramanyapura,975.0,2.0,1.0,65.0,2.0
-Vidyaranyapura,1100.0,2.0,1.0,41.0,2.0
-Hosa Road,1100.0,2.0,2.0,37.1,2.0
-Electronic City Phase II,1220.0,3.0,1.0,35.23,3.0
-Akshayanagara East,1595.0,3.0,2.0,70.39,3.0
-Kudlu Gate,812.0,2.0,1.0,38.25,2.0
-Hennur Road,1232.0,2.0,1.0,69.61,2.0
-Devanahalli Road,1532.0,3.0,3.0,92.0,3.0
-Hennur Road,1936.0,3.0,1.0,131.0,3.0
-Marathahalli,1550.0,3.0,2.0,83.0,3.0
-Kaggadasapura,1500.0,2.0,2.0,60.0,3.0
-Kanakpura Road,1691.2,3.0,1.0,115.0,3.0
-Ramamurthy Nagar,1200.0,2.0,1.0,78.0,2.0
-Whitefield,1650.0,3.0,2.0,60.0,3.0
-Belathur,1081.0,2.0,1.0,39.0,2.0
-Kanakpura Road,1843.0,3.0,2.0,95.84,3.0
-Gollahalli,1170.0,2.0,1.0,39.0,2.0
-Kanakpura Road,1100.0,2.0,1.0,58.0,3.0
-Hulimavu,1916.0,2.0,1.0,150.0,3.0
-Electronics City Phase 1,1800.0,3.0,2.0,93.0,3.0
-Bellandur,1735.0,3.0,3.0,105.0,3.0
-Kumaraswami Layout,1310.0,2.0,1.0,70.0,3.0
-Hagadur,1110.0,2.0,2.0,51.0,2.0
-Hosa Road,1512.0,3.0,2.0,103.0,3.0
-Vishwanatha Nagenahalli,900.0,3.0,2.0,80.0,5.0
-2nd Stage Nagarbhavi,600.0,3.0,1.0,95.0,4.0
-Whitefield,1180.0,2.0,1.0,77.0,2.0
-Hennur,1255.0,2.0,2.0,54.5,2.0
-Whitefield,1216.0,2.0,1.0,73.0,2.0
-Vijayanagar,492.0,1.0,1.0,40.0,1.0
-BHEL Layout,2400.0,4.0,1.0,170.0,6.0
-Binny Pete,1282.0,3.0,2.0,178.0,3.0
-Marathahalli,1650.0,3.0,2.0,85.0,3.0
-Nehru Nagar,1269.0,2.0,2.0,63.0,3.0
-Whitefield,1280.0,2.0,2.0,52.0,2.0
-Pulkeshi Nagar,588.0,1.0,0.0,88.2,1.0
-Bhoganhalli,1718.0,3.0,2.0,90.2,3.0
-Thanisandra,1491.0,3.0,1.0,88.0,3.0
-Koramangala,1300.0,2.0,3.0,110.0,2.0
-HSR Layout,1100.0,2.0,2.0,44.0,2.0
-Sahakara Nagar,1201.0,2.0,3.0,80.0,2.0
-Budigere,693.0,1.0,0.0,27.375,1.0
-Banashankari Stage III,1000.0,2.0,1.0,120.0,3.0
-Anandapura,1151.0,2.0,1.0,43.16,2.0
-Thanisandra,1185.5,2.0,0.0,58.68,2.0
-Hulimavu,3560.0,5.0,3.0,318.0,4.0
-Canara Bank Colony,1650.0,2.0,1.0,52.0,3.0
-Bellandur,1281.0,2.0,1.0,74.0,2.0
-Panduranga Nagar,1827.0,3.0,3.0,100.0,3.0
-Babusapalaya,1230.0,3.0,3.0,53.0,3.0
-Bommenahalli,1632.0,3.0,0.0,145.0,4.0
-HSR Layout,1400.0,3.0,2.0,56.0,3.0
-Marathahalli,1200.0,2.0,2.0,60.0,2.0
-Kasavanhalli,1069.0,2.0,2.0,55.0,2.0
-Uttarahalli,1250.0,2.0,2.0,50.0,3.0
-Hebbal,1320.0,3.0,3.0,226.0,3.0
-Old Airport Road,2774.0,4.0,3.0,208.0,4.0
-Gaurava Nagar,1240.0,2.0,2.0,46.0,3.0
-Kammagondahalli,1347.0,2.0,2.0,55.0,3.0
-Uttarahalli,1330.0,2.0,1.0,56.0,3.0
-Basavangudi,1200.0,2.0,3.0,120.0,2.0
-R.T. Nagar,1380.0,2.0,1.0,50.0,3.0
-Green Glen Layout,1530.0,3.0,2.0,105.0,3.0
-Harlur,1033.0,2.0,2.0,49.0,2.0
-Malleshwaram,1020.0,2.0,1.0,80.0,2.0
-Kammasandra,870.0,2.0,1.0,24.0,2.0
-Electronic City Phase II,2400.0,3.0,1.0,150.0,2.0
-Gowdanapalya,600.0,2.0,2.0,39.0,2.0
-Ankappa Layout,1670.0,3.0,2.0,75.0,3.0
-Sarjapur  Road,1026.0,2.0,1.0,60.55,2.0
-Shikaripalya,1350.0,3.0,1.0,60.0,3.0
-Singena Agrahara,1500.0,3.0,1.0,90.0,3.0
-Thanisandra,1140.0,2.0,1.0,36.0,2.0
-Ramamurthy Nagar,1200.0,2.0,1.0,48.0,2.0
-8th Phase JP Nagar,1245.0,2.0,1.0,59.0,2.0
-Talaghattapura,2106.0,3.0,2.0,126.0,3.0
-Rajaji Nagar,1640.0,3.0,3.0,220.0,3.0
-Bannerghatta Road,1218.0,2.0,1.0,73.0,2.0
-Brookefield,1089.0,2.0,1.0,49.0,2.0
-BTM Layout 2nd Stage 1st Phase,2400.0,5.0,2.0,395.0,4.0
-EPIP Zone,3035.0,5.0,0.0,200.0,4.0
-Thanisandra,1430.0,2.0,2.0,51.46,3.0
-Panathur,1000.0,2.0,2.0,40.0,2.0
-Whitefield,2064.0,5.0,2.0,225.0,4.0
-Postal Colony,1500.0,1.0,0.0,218.0,2.0
-Alfa Garden Layout,1050.0,2.0,2.0,38.0,2.0
-Kodichikkanahalli,1025.0,2.0,2.0,66.0,2.0
-Hennur Road,1232.0,2.0,1.0,83.0,2.0
-Indira Nagar,2200.0,4.0,2.0,200.0,4.0
-Harlur,1630.0,3.0,1.0,95.1,3.0
-Ulsoor,1200.0,2.0,0.0,60.0,2.0
-Thanisandra,1093.0,2.0,1.0,68.1,2.0
-Whitefield,1280.0,2.0,2.0,69.0,2.0
-Mysore Road,883.0,2.0,1.0,45.0,2.0
-Begur Road,1200.0,2.0,2.0,45.0,2.0
-Kathriguppe,1300.0,3.0,2.0,77.99,3.0
-Lakshminarayana Pura,1200.0,2.0,2.0,75.0,2.0
-Jigani,918.0,2.0,2.0,45.0,2.0
-Begur,1419.0,2.0,2.0,59.0,3.0
-Kanakpura Road,1703.0,3.0,2.0,126.0,3.0
-6th Phase JP Nagar,600.0,1.0,1.0,75.0,1.0
-Domlur Layout,900.0,2.0,2.0,160.0,2.0
-Alfa Garden Layout,1190.0,2.0,2.0,46.41,2.0
-Whitefield,1116.0,2.0,1.0,51.91,2.0
-Whitefield,1150.0,2.0,0.0,55.0,2.0
-Tumkur Road,1250.0,2.0,2.0,33.0,2.0
-Whitefield,1340.0,2.0,1.0,101.0,2.0
-Yelahanka,1614.0,2.0,1.0,100.0,3.0
-Harlur,2240.0,5.0,2.0,155.0,3.0
-Ramakrishnappa Layout,630.0,2.0,1.0,70.0,1.0
-Canara Bank Colony,1250.0,2.0,1.0,77.13,3.0
-Thyagraj Nagar,660.0,2.0,0.0,76.0,2.0
-Hormavu,1210.0,2.0,3.0,69.0,2.0
-Sidedahalli,1158.0,2.0,2.0,85.0,3.0
-Electronic City,1518.0,3.0,3.0,75.0,3.0
-Pai Layout,1510.0,2.0,2.0,65.0,3.0
-Parappana Agrahara,1194.0,2.0,2.0,47.0,2.0
-Ramamurthy Nagar,3700.0,4.0,1.0,225.0,4.0
-Harlur,1335.0,2.0,0.0,72.76,2.0
-Hennur Gardens,1464.0,2.0,1.0,135.0,3.0
-kg halli jalhalli west,980.0,3.0,1.0,80.0,3.0
-Balagere,656.0,1.0,1.0,53.0,1.0
-Electronic City,1070.0,2.0,1.0,55.0,2.0
-Old Madras Road,1165.0,2.0,1.0,51.42,2.0
-Begur Road,2500.0,6.0,0.0,122.5,4.0
-Marathahalli,1230.0,2.0,1.0,57.0,2.0
-Attur Layout,2400.0,4.0,2.0,200.0,3.0
-Bellandur,982.0,2.0,2.0,37.28,2.0
-Rajaji Nagar,1216.0,2.0,0.0,97.16,2.0
-JP Nagar,1048.0,2.0,1.0,44.0,2.0
-Choodasandra,1065.0,2.0,1.0,46.0,2.0
-Manayata Tech Park,1200.0,2.0,2.0,55.0,2.0
-Cox Town,1100.0,2.0,1.0,166.0,2.0
-Shettigere,650.0,1.0,1.0,26.0,1.0
-Whitefield,1635.0,2.0,2.0,85.0,3.0
-Hulimavu,1021.0,2.0,1.0,76.0,2.0
-9th Phase JP Nagar,1050.0,2.0,2.0,39.0,2.0
-7th Phase JP Nagar,1128.0,2.0,1.0,60.0,2.0
-HSR Layout,2400.0,3.0,3.0,88.0,3.0
-Anjanapura,600.0,2.0,0.0,55.0,1.0
-Tumkur Road,1416.0,3.0,1.0,94.0,3.0
-Whitefield,1200.0,2.0,1.0,45.0,2.0
-Talaghattapura,2254.0,3.0,2.0,170.0,3.0
-J.P.nagar 6th Phase.Sarakki Nagar,2690.0,4.0,2.0,185.0,4.0
-N R Layout,800.0,3.0,2.0,120.0,6.0
-Hennur Road,1976.0,3.0,3.0,65.21,3.0
-Yelahanka,602.0,1.0,1.0,38.0,1.0
-Banashankari,1020.0,2.0,1.0,42.83,2.0
-Bannerghatta Road,630.0,1.0,2.0,35.0,1.0
-Kudlu Gate,1707.0,3.0,0.0,99.745,3.0
-Bommasandra,1200.0,3.0,2.0,46.0,3.0
-Sarjapur  Road,1403.0,3.0,1.0,56.0,3.0
-Sarjapur  Road,1700.0,3.0,1.0,95.0,3.0
-Whitefield,1190.0,2.0,2.0,41.0,2.0
-Gottigere,1493.0,2.0,3.0,90.0,3.0
-Yeshwanthpur,668.0,1.0,1.0,36.85,1.0
-HRBR Layout,1200.0,2.0,1.0,170.0,4.0
-Kammasandra,1080.0,2.0,1.0,31.99,2.0
-Vijinapura,1290.0,2.0,2.0,71.95,2.0
-Whitefield,1346.0,2.0,1.0,100.0,3.0
-8th Phase JP Nagar,1062.0,2.0,1.0,42.47,2.0
-Banashankari Stage II,1245.0,2.0,1.0,125.0,2.0
-Varthur,1665.0,3.0,2.0,71.58,3.0
-Whitefield,1285.0,2.0,2.0,55.9,2.0
-B Narayanapura,1092.0,2.0,1.0,98.5,3.0
-Haralur Road,1300.0,2.0,2.0,75.0,2.0
-Horamavu Agara,1220.0,2.0,2.0,39.0,2.0
-Wajid layout thanisandra,3000.0,5.0,2.0,100.0,4.0
-Thanisandra,663.0,1.0,1.0,46.0,1.0
-Dasarahalli,2400.0,3.0,3.0,150.0,7.0
-Sri Balaji Krupa Layout,600.0,1.0,0.0,32.0,1.0
-Kengeri,750.0,2.0,1.0,35.5,2.0
-6th block Koramangala,1117.0,2.0,1.0,110.0,2.0
-RMV 2nd Stage,2000.0,4.0,0.0,120.0,4.0
-MS Pallya,2400.0,9.0,3.0,350.0,8.0
-Kothannur,1270.0,3.0,2.0,45.0,3.0
-HSR Layout,1140.0,2.0,2.0,46.0,2.0
-Kadugodi,1314.0,2.0,2.0,78.0,2.0
-Kasturi Nagar,1080.0,2.0,2.0,80.0,2.0
-Bannerghatta,1200.0,2.0,2.0,73.2,2.0
-Panathur,1140.0,2.0,1.0,51.2,2.0
-Old Madras Road,3715.0,6.0,0.0,200.5,4.0
-Bommasandra Industrial Area,1000.0,2.0,1.0,28.88,2.0
-Kundalahalli,1175.0,2.0,1.0,65.0,2.0
-Bommasandra Industrial Area,1220.0,2.0,1.0,35.2,3.0
-7th Phase JP Nagar,1680.0,3.0,2.0,125.0,3.0
-Kanakpura Road,1332.0,2.0,1.0,108.0,2.0
-Electronic City Phase II,1252.0,2.0,1.0,65.0,3.0
-Koramangala,1290.0,2.0,3.0,100.0,2.0
-Electronic City Phase II,1069.0,2.0,2.0,45.0,2.0
-Sarjapur  Road,1476.0,3.0,0.0,98.94,3.0
-Yelahanka,1285.0,2.0,2.0,56.0,2.0
-Dasarahalli,1200.0,2.0,2.0,42.0,2.0
-Hebbal,1244.0,3.0,0.0,48.0,2.0
-Kasturi Nagar,1567.0,2.0,2.0,92.0,2.0
-6th Phase JP Nagar,1192.0,2.0,3.0,75.0,2.0
-Hegde Nagar,2162.0,3.0,1.0,200.0,3.0
-Yelahanka,2145.0,3.0,3.0,125.0,3.0
-Budigere,1636.0,3.0,2.0,83.0,3.0
-Hosakerehalli,1410.0,2.0,2.0,53.58,3.0
-Kasavanhalli,1493.0,3.0,2.0,82.0,3.0
-Bank Of Baroda Colony,2350.0,5.0,0.0,325.0,5.0
-Malleshwaram,2215.0,3.0,2.0,330.0,3.0
-BTM 2nd Stage,1100.0,2.0,2.0,47.0,2.0
-Bannerghatta Road,1556.0,2.0,1.0,59.13,3.0
-Hennur Road,1030.0,2.0,1.0,46.5,2.0
-Mahalakshmi Layout,1200.0,3.0,1.0,160.0,4.0
-Kengeri,1150.0,1.0,0.0,52.0,1.0
-Sarjapura - Attibele Road,1073.0,2.0,2.0,31.77,2.0
-5th Phase JP Nagar,1550.0,3.0,3.0,75.0,3.0
-Duddanahalli,1340.0,2.0,2.0,47.0,3.0
-Billekahalli,1290.0,3.0,3.0,62.0,3.0
-Lakshminarayana Pura,1180.0,2.0,1.0,75.0,2.0
-TC Palaya,2400.0,6.0,3.0,370.0,6.0
-Bommasandra Industrial Area,1020.0,2.0,1.0,29.45,2.0
-Seegehalli,1525.0,3.0,2.0,65.0,3.0
-Bisuvanahalli,1075.0,2.0,1.0,43.0,3.0
-Kathriguppe,1365.0,2.0,2.0,75.08,3.0
-Kanakpura Road,1080.0,2.0,1.0,37.8,2.0
-3rd Block Koramangala,1750.0,3.0,3.0,170.0,3.0
-Marathahalli,1785.0,3.0,2.0,94.0,3.0
-Ramamurthy Nagar,2560.0,4.0,2.0,75.0,4.0
-Pai Layout,1075.0,2.0,2.0,35.0,2.0
-ITPL,1200.0,3.0,1.0,56.12,3.0
-Kannamangala,1865.0,3.0,1.0,139.0,3.0
-Rajarajeshwari nagar,1410.0,2.0,2.0,45.12,3.0
-Manorayana Palya,1140.0,2.0,2.0,52.0,2.0
-Kanakpura Road,1300.0,2.0,3.0,69.0,3.0
-M C Layout,2400.0,6.0,0.0,245.0,6.0
-Haralur Road,1810.0,3.0,2.0,100.0,3.0
-Padmanabhanagar,1200.0,2.0,1.0,60.0,2.0
-BCC Layout,1050.0,2.0,3.0,40.0,2.0
-Bannerghatta Road,2185.0,3.0,3.0,120.0,4.0
-Hosa Road,972.0,2.0,2.0,40.0,2.0
-BTM 2nd Stage,1250.0,3.0,1.0,50.0,3.0
-Margondanahalli,1152.0,1.0,0.0,66.0,2.0
-Banashankari,1650.0,3.0,2.0,90.75,3.0
-Uttarahalli,1737.0,2.0,3.0,95.0,3.0
-Tumkur Road,1354.0,3.0,1.0,90.0,3.0
-Chikkalasandra,1100.0,2.0,2.0,50.0,2.0
-Bannerghatta Road,1250.0,2.0,0.0,48.0,2.0
-Mallasandra,905.0,2.0,1.0,35.0,2.0
-HSR Layout,1127.0,2.0,1.0,68.0,2.0
-T G extension,1200.0,1.0,2.0,95.0,2.0
-Whitefield,630.5,1.0,0.0,32.15,1.0
-Rachenahalli,1200.0,2.0,2.0,50.0,2.0
-Nagarbhavi,1145.0,2.0,2.0,40.0,2.0
-Raja Rajeshwari Nagar,1278.0,2.0,1.0,53.76,3.0
-Electronic City,975.0,2.0,1.0,32.0,2.0
-Bannerghatta Road,1465.0,2.0,1.0,76.0,3.0
-JP Nagar,2500.0,3.0,2.0,135.0,3.0
-Canara Bank Layout,1600.0,3.0,3.0,90.0,3.0
-Uttarahalli,1250.0,2.0,3.0,50.0,3.0
-Hennur,1830.5,3.0,0.0,84.205,3.0
-Rachenahalli,3657.0,5.0,0.0,220.0,4.0
-Defence Layout,1200.0,3.0,1.0,130.0,3.0
-Shree Ananth Nagar Layout,1176.0,2.0,1.0,45.0,3.0
-Thanisandra,1732.0,3.0,3.0,85.73,3.0
-KUDLU MAIN ROAD,1464.0,2.0,2.0,56.0,2.0
-Thanisandra,1185.0,2.0,2.0,44.0,2.0
-Budigere,1153.0,2.0,2.0,56.0,2.0
-Sector 1 HSR Layout,1533.0,3.0,2.0,150.0,3.0
-Mathikere Extension,2000.0,2.0,1.0,160.0,4.0
-Thanisandra,1245.0,2.0,1.0,83.05,2.0
-Jakkur,1932.47,3.0,2.0,183.0,3.0
-Kengeri,1200.0,2.0,0.0,58.0,2.0
-Hoodi,1559.0,3.0,1.0,81.55,3.0
-Old Madras Road,935.0,2.0,0.0,37.77,2.0
-Electronic City Phase II,1400.0,2.0,2.0,40.45,3.0
-Neeladri Nagar,674.0,1.0,1.0,21.0,1.0
-Rajaji Nagar,2415.0,3.0,2.0,399.0,3.0
-Carmelaram,1770.0,3.0,2.0,99.0,3.0
-Electronics City Phase 1,950.0,2.0,1.0,33.0,2.0
-Uttarahalli,1315.0,2.0,2.0,74.0,3.0
-Brookefield,2400.0,5.0,2.0,325.0,5.0
-Sarjapur  Road,1403.0,3.0,3.0,51.63,3.0
-Sonnenahalli,1415.0,2.0,1.0,55.0,3.0
-Mysore Road,883.0,2.0,1.0,40.95,2.0
-Akshaya Nagar,1666.0,3.0,0.0,95.0,3.0
-Marathahalli,1215.0,2.0,2.0,58.86,2.0
-Uttarahalli,1150.0,2.0,1.0,45.99,2.0
-Electronic City,1070.0,2.0,1.0,58.0,2.0
-Marathahalli,1310.0,3.0,1.0,63.25,3.0
-Govindapura,1310.0,2.0,1.0,88.0,2.0
-Sarjapura - Attibele Road,1676.0,3.0,3.0,52.0,3.0
-Hulimavu,1255.0,2.0,2.0,74.0,2.0
-Choodasandra,725.0,2.0,2.0,36.0,2.0
-Rajaji Nagar,1640.0,3.0,2.0,229.0,3.0
-New Thippasandra,817.0,2.0,1.0,120.0,4.0
-Somasundara Palya,1275.0,2.0,2.0,52.0,3.0
-Kenchenahalli,500.0,3.0,2.0,65.0,5.0
-Haralur Road,1875.0,3.0,3.0,110.0,3.0
- Whitefield,905.0,1.0,1.0,52.0,1.0
-Kothanur,1145.0,2.0,2.0,56.0,2.0
-Kothanur,1130.0,2.0,2.0,55.0,2.0
-Hennur Road,1585.0,2.0,3.0,80.0,3.0
-Ganesha Block,1810.0,3.0,3.0,118.0,3.0
-Hoodi,1639.0,3.0,2.0,129.0,3.0
-Sarakki Nagar,3131.0,4.0,3.0,349.0,4.0
-Kanakpura Road,1665.0,3.0,2.0,86.58,3.0
-Cooke Town,565.0,1.0,1.0,35.0,1.0
-Frazer Town,1305.0,3.0,0.0,95.45,3.0
-Arekere,900.0,2.0,1.0,44.5,2.0
-Hanumantha Nagar,1270.0,2.0,1.0,175.0,4.0
-Thanisandra,1241.0,2.0,1.0,61.0,3.0
-Nagasandra,1310.0,3.0,3.0,95.0,4.0
-Bommasandra,1447.0,3.0,2.0,80.0,3.0
-CV Raman Nagar,1040.0,2.0,1.0,50.0,2.0
-Kanakpura Road,1452.0,3.0,3.0,54.2,3.0
-Roopena Agrahara,955.0,2.0,3.0,53.55,2.0
-Raja Rajeshwari Nagar,1260.0,2.0,1.0,67.39,2.0
-Old Madras Road,935.0,2.0,1.0,32.72,2.0
-NRI Layout,1731.0,3.0,3.0,64.11,3.0
-Iblur Village,1920.0,3.0,2.0,150.0,3.0
-Thyagaraja Nagar,660.0,1.0,0.0,95.0,1.0
-Whitefield,2134.0,4.0,2.0,118.0,3.0
-Lingadheeranahalli,1521.0,3.0,1.0,95.0,3.0
-Whitefield,1118.0,2.0,1.0,42.0,2.0
-Electronic City Phase II,1220.0,2.0,1.0,35.23,3.0
-7th Phase JP Nagar,1850.0,3.0,1.0,150.0,3.0
-Babusapalaya,1061.0,2.0,1.0,34.0,2.0
-Begur,1306.0,2.0,3.0,65.0,2.0
-Horamavu Agara,760.0,2.0,2.0,37.49,2.0
-Kanakpura Road,700.0,2.0,1.0,35.0,2.0
-Sector 2 HSR Layout,1600.0,3.0,2.0,90.0,3.0
-TC Palaya,1475.0,3.0,1.0,98.0,3.0
-Electronic City Phase II,1286.0,2.0,2.0,69.0,2.0
-Kereguddadahalli,950.0,2.0,1.0,32.0,2.0
-Kaverappa Layout,1540.0,3.0,3.0,85.0,3.0
-Talaghattapura,2273.0,3.0,2.0,145.0,3.0
-Sarjapur  Road,702.0,1.0,1.0,52.0,1.0
-Bommasandra,1035.0,2.0,1.0,41.73,2.0
-Tumkur Road,1586.0,3.0,1.0,100.0,3.0
-Seetharampalya,1360.0,2.0,2.0,73.0,3.0
-Vajarahalli,600.0,3.0,1.0,86.0,5.0
-Rajaji Nagar,1357.0,2.0,1.0,130.0,2.0
-T Dasarahalli,1200.0,3.0,1.0,90.0,3.0
-Kumaraswami Layout,1310.0,2.0,1.0,85.0,3.0
-Begur,1475.0,2.0,2.0,74.0,3.0
-OLd Gurappanapalya,1250.0,3.0,2.0,39.0,3.0
-K R C kothanur,1140.0,2.0,3.0,45.0,2.0
-Begur Road,1583.0,3.0,1.0,74.4,3.0
-Kanakpura Road,1100.0,2.0,1.0,52.97,3.0
-Mallasandra,1665.0,3.0,2.0,95.0,3.0
-Basapura,1100.0,2.0,1.0,60.0,2.0
-Whitefield,1132.0,2.0,1.0,79.28,2.0
-Brookefield,2400.0,3.0,3.0,140.0,4.0
-Kudlu,1027.0,2.0,2.0,42.0,2.0
-5th Block Hbr Layout,1312.0,2.0,3.0,69.0,2.0
-Cox Town,1730.0,3.0,3.0,140.0,3.0
-8th Phase JP Nagar,1046.0,2.0,1.0,48.0,2.0
-Whitefield,1725.0,3.0,2.0,106.0,3.0
-Murugeshpalya,1344.0,2.0,0.0,56.0,3.0
-HRBR Layout,1145.0,2.0,2.0,68.5,2.0
-Electronic City Phase II,1320.0,2.0,1.0,38.13,3.0
-Jalahalli,1083.0,2.0,1.0,32.49,2.0
-1st Phase JP Nagar,1566.0,2.0,0.0,180.0,2.0
-Hebbal,1760.0,2.0,2.0,130.0,3.0
-Haralur Road,1444.0,2.0,1.0,80.0,3.0
-Devi Nagar,2000.0,3.0,2.0,105.0,3.0
-Marathahalli,1315.0,2.0,2.0,60.0,3.0
-Hennur,1830.0,2.0,3.0,113.0,3.0
-Malleshwaram,2475.0,4.0,3.0,340.0,3.0
-Subramanyapura,985.0,2.0,1.0,62.5,2.0
-HBR Layout,675.0,3.0,1.0,59.0,4.0
-whitefiled,935.0,2.0,1.0,32.73,2.0
-Budigere,1820.0,3.0,2.0,93.0,3.0
-AECS Layout,1620.0,3.0,2.0,98.0,3.0
-Brookefield,1130.0,2.0,2.0,56.0,2.0
-Bannerghatta Road,1154.0,2.0,2.0,47.0,2.0
-Rajaji Nagar,2500.0,3.0,3.0,350.0,3.0
-Kenchenahalli,1150.0,2.0,2.0,58.0,2.0
-Haralur Road,1194.0,2.0,2.0,46.0,2.0
-Ramamurthy Nagar,950.0,2.0,1.0,50.79,2.0
-Whitefield,1330.0,2.0,2.0,55.0,3.0
-Yelahanka,1445.0,2.0,2.0,82.0,2.0
-Balagere,1012.0,2.0,1.0,54.59,2.0
-Sector 1 HSR Layout,600.0,2.0,1.0,120.0,2.0
- Mysore Highway,600.0,1.0,1.0,17.0,1.0
-Uttarahalli,1160.0,2.0,2.0,45.0,2.0
-Sarjapur,1044.0,2.0,2.0,36.0,2.0
-Nagappa Reddy Layout,1350.0,3.0,2.0,60.0,3.0
-"Near Electronic City, ",3200.0,5.0,1.0,150.0,4.0
-Kodichikkanahalli,900.0,2.0,1.0,35.0,2.0
-Kambipura,883.0,2.0,1.0,39.0,2.0
-R.T. Nagar,1200.0,2.0,3.0,45.0,2.0
-Electronic City,1220.0,2.0,1.0,35.23,3.0
-Thanisandra,1185.0,2.0,2.0,42.67,2.0
-Yelahanka,1120.0,2.0,2.0,55.0,2.0
-Hebbal Kempapura,1436.0,2.0,2.0,75.0,3.0
-Whitefield,1277.0,2.0,1.0,61.3,2.0
- Mysore Highway,535.0,1.0,1.0,35.0,1.0
-Bellandur,960.0,2.0,2.0,48.0,2.0
-Varthur,1112.0,2.0,2.0,40.0,2.0
-Bannerghatta Road,1400.0,3.0,0.0,68.0,3.0
-Whitefield,1836.0,3.0,2.0,125.0,3.0
-Maruthi Sevanagar,2000.0,3.0,1.0,180.0,4.0
-1st Block HBR Layout,2500.0,6.0,3.0,500.0,5.0
-Telecom Layout,1200.0,1.0,1.0,54.0,2.0
-Nehru Nagar,2363.0,5.0,2.0,120.0,4.0
-cooketown,1800.0,3.0,3.0,192.0,3.0
-Doddakammanahalli,1160.0,2.0,3.0,55.0,2.0
-Talaghattapura,2038.5,3.0,0.0,122.0,3.0
-Uttarahalli,980.0,2.0,1.0,45.0,2.0
-7th Phase JP Nagar,1050.0,2.0,1.0,71.0,2.0
-8th Phase JP Nagar,1230.0,2.0,2.0,43.5,3.0
-Varthur,1450.0,3.0,2.0,71.0,3.0
-Hiremath Layout,1490.0,2.0,1.0,92.0,3.0
-Margondanahalli,1000.0,2.0,0.0,57.0,2.0
- Devarachikkanahalli,991.0,2.0,2.0,40.0,2.0
-Govindpura,1578.0,3.0,1.0,73.9,3.0
-Kannamangala,957.0,2.0,1.0,58.0,2.0
-Akshaya Nagar,1410.0,2.0,2.0,80.0,3.0
-Haralur Road,2805.0,5.0,3.0,154.0,4.0
-Sarjapur  Road,1881.0,3.0,2.0,145.0,3.0
-Hulimavu,1450.0,3.0,3.0,72.0,3.0
-Kadugondanahalli,800.0,1.0,0.0,45.0,2.0
-Uttarahalli,1540.0,2.0,0.0,40.0,3.0
-KR Puram,1096.0,2.0,1.0,43.0,2.0
-Bommasandra,1260.0,3.0,1.0,49.36,3.0
-Uttarahalli,1175.0,2.0,1.0,47.0,2.0
-Kumaraswami Layout,600.0,2.0,1.0,72.0,2.0
-Church Street,2920.0,4.0,3.0,536.0,4.0
-Bhoganhalli,970.0,2.0,1.0,52.5,2.0
-Arekere,1222.0,2.0,2.0,45.0,2.0
-Balagere,1012.0,2.0,1.0,68.0,2.0
-Kundalahalli,1291.0,2.0,3.0,49.0,2.0
-Dairy Circle,3730.0,6.0,2.0,450.0,4.0
-Ambedkar Nagar,3500.0,4.0,2.0,550.0,4.0
-Sultan Palaya,870.0,2.0,1.0,65.0,2.0
-Panathur,1343.0,2.0,1.0,76.0,2.0
-Jigani,1252.0,3.0,3.0,55.0,3.0
-Rajaji Nagar,1357.0,2.0,1.0,115.0,2.0
-Hebbal,1000.0,2.0,2.0,45.0,2.0
-4th T block Jayanagar,2401.0,3.0,2.0,185.0,3.0
-Whitefield,1200.0,3.0,1.0,61.96,3.0
-Yemlur,1100.0,2.0,2.0,55.0,2.0
-Hebbal,1075.0,2.0,3.0,52.0,2.0
-Ardendale,3198.0,4.0,0.0,250.0,4.0
-Talaghattapura,2254.0,3.0,2.0,170.0,3.0
-near Ramanashree California resort,3600.0,4.0,1.0,160.0,6.0
-Seegehalli,1683.0,3.0,3.0,80.0,3.0
-Electronic City,919.0,2.0,2.0,34.0,2.0
-Uttarahalli,1350.0,2.0,2.0,47.24,3.0
-TC Palaya,1200.0,2.0,0.0,65.0,2.0
-Electronics City Phase 1,1595.0,3.0,2.0,75.0,3.0
-Anantapura,1200.0,2.0,2.0,37.0,2.0
-Banaswadi,1365.0,2.0,2.0,73.0,2.0
-Kaggadasapura,1225.0,2.0,2.0,48.0,2.0
-Sarjapur  Road,950.0,1.0,0.0,39.9,1.0
-Stage-4 Bommanahalli,1250.0,2.0,1.0,58.0,2.0
-Keshava Nagar,1623.0,3.0,3.0,155.0,3.0
-Byadarahalli,3155.0,3.0,2.0,315.0,3.0
-Bellandur,1281.0,2.0,2.0,87.0,2.0
-"Banasawadi, ",2312.0,3.0,2.0,156.0,3.0
-Kasavanhalli,1060.0,2.0,2.0,58.06,2.0
-Bhoganhalli,2171.0,4.0,2.0,111.0,4.0
-Hennur Road,1904.0,3.0,2.0,120.0,3.0
-Bommasandra Industrial Area,1160.0,2.0,1.0,33.51,2.0
-Bhoganhalli,1718.0,3.0,2.0,90.2,3.0
-Hoodi,1105.0,2.0,2.0,46.37,2.0
-Jalahalli,1478.0,2.0,2.0,125.0,2.0
-Sarjapur,1200.0,2.0,2.0,62.0,2.0
-Venkatapura,1300.0,3.0,2.0,46.0,3.0
-Gubbalala,1745.0,3.0,2.0,110.0,3.0
-Sahakara Nagar,1175.0,2.0,3.0,49.0,2.0
-Prithvi Layout,2100.0,3.0,3.0,125.0,3.0
-Electronic City,1070.0,2.0,1.0,53.0,2.0
-Thirumenahalli,1161.0,2.0,3.0,36.69,2.0
-Varthur Road,1033.0,2.0,2.0,32.0,2.0
-Chikka Banaswadi,1250.0,2.0,3.0,75.0,2.0
-Haralur Road,1580.0,3.0,1.0,73.0,3.0
-Bannerghatta Road,1050.0,2.0,1.0,65.0,2.0
-Nagavara,2430.0,4.0,3.0,180.0,3.0
-Sarjapura - Attibele Road,740.0,1.0,1.0,23.65,1.0
-Kumarapalli,1486.0,2.0,2.0,65.0,3.0
-Banashankari,1886.0,3.0,2.0,205.0,3.0
-Uttarahalli,1617.0,3.0,3.0,66.68,3.0
-Raja Rajeshwari Nagar,1608.0,2.0,2.0,85.0,2.0
-Kambipura,883.0,2.0,1.0,45.0,2.0
-Yelachenahalli,897.0,2.0,1.0,85.0,5.0
-Electronic City,1128.0,2.0,1.0,67.0,2.0
-Gottigere,990.0,2.0,1.0,40.0,2.0
-Kaggalipura,1150.0,2.0,1.0,55.0,3.0
-Anekal,620.0,2.0,1.0,22.0,2.0
-Gollahalli,1395.0,2.0,1.0,63.59,2.0
-NRI Layout,1789.0,3.0,3.0,75.0,3.0
-Margondanahalli,1625.0,3.0,0.0,80.0,3.0
-Horamavu Agara,1106.0,2.0,1.0,43.09,2.0
-Gangondanahalli,396.0,2.0,0.0,48.0,3.0
-Mysore Road,1175.0,2.0,2.0,70.5,2.0
-Thanisandra,1230.0,2.0,2.0,44.0,2.0
-Chennammana Kere,1095.0,2.0,2.0,55.85,2.0
-Uttarahalli,1160.0,2.0,2.0,40.6,2.0
-Bhagyalakshmi Avenue,540.0,1.0,1.0,22.5,1.0
-NGR Layout,1020.0,2.0,1.0,48.45,2.0
-Doddanekundi,1760.0,3.0,3.0,176.0,3.0
-Panathur,1370.0,2.0,2.0,61.5,3.0
-Channasandra,1195.0,2.0,1.0,56.0,3.0
-Ulsoor,1020.0,3.0,2.0,110.0,3.0
-3rd Block Hrbr Layout,1200.0,2.0,1.0,200.0,2.0
-Raja Rajeshwari Nagar,1070.0,2.0,1.0,50.0,2.0
-Mico Layout,3600.0,4.0,0.0,330.0,4.0
-Frazer Town,1420.0,2.0,0.0,120.0,2.0
-Tala Cauvery Layout,1580.0,3.0,3.0,100.0,3.0
-Whitefield,1190.0,2.0,3.0,57.0,2.0
-Sector 2 HSR Layout,1515.0,2.0,3.0,69.0,3.0
-Sarjapur  Road,1155.0,2.0,1.0,58.0,2.0
-Pai Layout,810.0,2.0,2.0,34.5,2.0
-Rachenahalli,1050.0,2.0,2.0,52.71,2.0
-Hosakerehalli,1085.0,2.0,1.0,41.23,2.0
-Yelahanka,1200.0,2.0,1.0,70.0,2.0
-Haralur Road,1243.0,2.0,2.0,46.0,2.0
-Horamavu Agara,1107.83,2.0,1.0,41.51,2.0
-Whitefield,1458.0,2.0,2.0,62.0,3.0
-Kumaraswami Layout,2400.0,7.0,1.0,125.0,7.0
-Yelachenahalli,1365.0,2.0,1.0,72.0,3.0
-Sarjapur  Road,1550.0,3.0,3.0,100.0,3.0
-Haralur Road,1464.0,3.0,2.0,56.0,3.0
-Kanakpura Road,2775.0,3.0,1.0,165.0,4.0
-Hebbal,2790.0,4.0,3.0,198.0,4.0
-BSM Extension,900.0,2.0,3.0,45.0,2.0
-Jalahalli,2113.0,3.0,2.0,155.0,3.0
-Anandapura,900.0,2.0,0.0,64.0,2.0
-Choodasandra,1180.0,2.0,1.0,71.22,2.0
-Kasavanhalli,2035.0,3.0,2.0,142.0,3.0
-Chandapura,778.0,2.0,0.0,25.29,2.0
-Raja Rajeshwari Nagar,1141.0,2.0,2.0,38.55,2.0
-Nagarbhavi,1850.0,3.0,2.0,88.0,3.0
-Huskur,1140.0,2.0,1.0,32.92,2.0
-Whitefield,3000.0,4.0,0.0,330.0,4.0
-Haralur Road,1230.0,2.0,1.0,78.0,2.0
-Kaggadasapura,1500.0,3.0,0.0,75.0,3.0
-HSR Layout,1120.0,2.0,1.0,70.0,2.0
-Yelahanka,1065.0,2.0,1.0,41.38,2.0
-Whitefield,1160.0,2.0,1.0,67.0,2.0
-Prithvi Layout,1352.0,3.0,1.0,93.0,2.0
-Bommasandra Industrial Area,1165.0,2.0,1.0,33.64,2.0
-Kanakpura Road,1100.0,3.0,2.0,58.0,3.0
-Kothannur,1197.0,2.0,1.0,47.8,2.0
-Whitefield,1173.0,2.0,1.0,58.0,2.0
-Kengeri,2400.0,5.0,2.0,253.0,4.0
-Kaggadasapura,2150.0,4.0,1.0,100.0,4.0
-Thubarahalli,1200.0,2.0,2.0,78.0,2.0
-9th Phase JP Nagar,1719.3,2.0,2.0,88.0,3.0
-Banjara Layout,3750.0,5.0,3.0,145.0,4.0
-Kodigehalli,500.0,1.0,0.0,55.0,2.0
-Ashwini layout,834.0,1.0,1.0,60.0,1.0
-Bannerghatta Road,1427.0,2.0,2.0,48.51,3.0
-Hoodi,1639.0,3.0,2.0,110.0,3.0
-Haralur Road,1194.0,2.0,2.0,47.0,2.0
-AGS Layout,1490.0,2.0,1.0,59.6,3.0
-Jigani,924.0,2.0,2.0,65.0,2.0
-2nd Phase Judicial Layout,1350.0,2.0,2.0,47.25,3.0
-Battarahalli,2700.0,3.0,0.0,75.0,4.0
-Whitefield,1205.0,2.0,2.0,58.0,2.0
-Kanakpura Road,1223.0,2.0,2.0,42.81,3.0
-HOSUR RMAIN ROAD,1464.0,3.0,2.0,56.0,3.0
-Rajasree Layout,1420.0,3.0,3.0,70.0,3.0
-4th Phase JP Nagar,2250.0,5.0,1.0,360.0,5.0
-Whitefield,2856.0,5.0,0.0,154.5,4.0
-Makali,485.0,1.0,1.0,15.0,1.0
-Kanakpura Road,1296.0,2.0,3.0,89.06,2.0
-5th Stage BEML Layout,2000.0,3.0,2.0,85.0,3.0
-1st Phase JP Nagar,1077.0,2.0,2.0,93.0,2.0
-Bellandur,3600.0,4.0,0.0,245.0,4.0
-Kanakpura Road,1430.0,2.0,2.0,78.0,2.0
-Aishwarya Crystal Layout,2250.0,3.0,1.0,113.0,3.0
-Budigere,1139.0,2.0,2.0,62.0,2.0
-Jalahalli,980.0,2.0,2.0,60.0,3.0
-Anantapura,1600.0,3.0,2.0,77.0,3.0
-Channasandra,1104.0,2.0,1.0,35.5,2.0
-Begur Road,1200.0,2.0,2.0,44.4,2.0
-Begur Road,1410.0,2.0,3.0,52.17,3.0
-Raja Rajeshwari Nagar,1120.0,2.0,2.0,37.97,2.0
-Yeshwanthpur,1855.0,3.0,3.0,140.0,3.0
-Attibele,1700.0,3.0,1.0,65.0,3.0
-Kada Agrahara,935.0,2.0,2.0,35.0,2.0
-Tumkur Road,1066.0,2.0,2.0,52.5,2.0
-Yelachenahalli,900.0,2.0,1.0,115.0,4.0
-TC Palaya,900.0,2.0,0.0,55.0,2.0
-1st Block Jayanagar,2400.0,4.0,2.0,450.0,4.0
-Himagiri Meadows,869.0,2.0,1.0,36.0,2.0
-Banaswadi,1008.0,2.0,2.0,52.0,2.0
-Kambipura,1082.0,2.0,1.0,45.0,3.0
-Electronics City Phase 1,940.0,2.0,2.0,49.0,2.0
-Hormavu,1400.0,2.0,0.0,75.0,2.0
-Vadarpalya,1141.0,2.0,0.0,62.0,2.0
-Talaghattapura,1575.0,3.0,2.0,80.0,3.0
-Sarjapur  Road,2750.0,5.0,1.0,240.0,4.0
-Uttarahalli,1345.0,2.0,1.0,67.0,2.0
-Yeshwanthpur,717.0,2.0,0.0,49.475,2.0
-8th Phase JP Nagar,1605.0,2.0,2.0,65.0,3.0
-Sarjapur  Road,1850.0,3.0,2.0,140.0,3.0
-Whitefield,1109.0,2.0,1.0,35.47,2.0
-Thanisandra,1183.0,2.0,1.0,77.3,2.0
-"Hoodi Circle, ",2107.0,4.0,3.0,95.0,4.0
-Kaggadasapura,1010.0,2.0,2.0,55.0,2.0
-Whitefield,1655.0,3.0,1.0,108.0,3.0
-Uttarahalli,1590.0,3.0,2.0,57.0,3.0
-Chelekare,1180.0,2.0,2.0,40.0,2.0
-Wilson Garden,735.0,1.0,1.0,75.0,1.0
-Brookefield,1200.0,2.0,2.0,75.0,2.0
-Hebbal Kempapura,1654.0,2.0,3.0,85.0,3.0
-Mahadevpura,1225.0,2.0,2.0,48.0,2.0
-Sultan Palaya,1100.0,2.0,2.0,40.0,2.0
-HSR Layout,3500.0,5.0,0.0,350.0,5.0
-Subramanyapura,929.0,2.0,2.0,49.0,2.0
-Whitefield,1495.0,2.0,0.0,67.0,3.0
-Sarjapur,3190.0,3.0,1.0,160.0,4.0
-EPIP Zone,1330.0,2.0,1.0,92.5,2.0
-Bikasipura,1654.0,3.0,3.0,82.0,3.0
-Banashankari Stage III,2100.0,3.0,1.0,147.0,4.0
-R.T. Nagar,1667.0,3.0,0.0,130.0,3.0
-T C Palya main Road,1175.0,2.0,1.0,48.72,2.0
-HRBR Layout,1265.0,2.0,1.0,78.0,2.0
-Hoodi,1132.0,2.0,1.0,89.37,2.0
-Nagarbhavi,956.0,2.0,1.0,49.0,2.0
-Hadosiddapura,1090.0,2.0,2.0,55.0,2.0
-Mahalakshmi Puram,3000.0,6.0,3.0,300.0,6.0
-Sarjapur  Road,1750.0,3.0,2.0,215.0,4.0
-KR Puram,2000.0,6.0,0.0,85.0,6.0
-Bhoganhalli,1703.0,3.0,2.0,120.0,3.0
-Bhoganhalli,1610.0,3.0,1.0,74.03,3.0
-Yelahanka New Town,1290.0,2.0,2.0,70.0,2.0
-HSR Layout,1203.0,2.0,2.0,72.0,2.0
-Electronic City Phase II,1000.0,2.0,1.0,28.88,2.0
-Sarjapur  Road,3418.0,4.0,0.0,222.0,4.0
-Tumkur Road,1027.0,2.0,1.0,67.0,2.0
-Yelahanka New Town,1200.0,2.0,1.0,130.0,2.0
-Baba Nagar,1200.0,3.0,3.0,96.25,3.0
-"beml layout, basaveshwara nagar",2400.0,2.0,1.0,360.0,3.0
-Kathriguppe,1300.0,3.0,2.0,77.99,3.0
-Thigalarapalya,2072.0,4.0,2.0,157.0,3.0
-Chandapura,1500.0,2.0,1.0,60.0,2.0
-Karuna Nagar,1200.0,2.0,1.0,34.0,3.0
-Bannerghatta Road,2932.0,5.0,0.0,195.0,4.0
-Vishwapriya Nagar,600.0,3.0,2.0,65.0,3.0
-Electronic City,435.0,1.0,1.0,21.0,1.0
-Chikka Tirupathi,2646.0,3.0,0.0,99.0,3.0
-Ullal Uppanagar,2400.0,5.0,2.0,75.0,6.0
-Nagarbhavi,710.0,2.0,2.0,40.0,1.0
-Ananth Nagar,1470.0,3.0,2.0,54.0,3.0
-Mathikere Extension,712.0,2.0,1.0,67.5,4.0
-Mysore Road,1360.0,3.0,0.0,47.6,3.0
-Haralur Road,1309.0,2.0,1.0,82.0,2.0
-Sarjapur  Road,1680.0,3.0,2.0,126.0,3.0
-Kaverappa Layout,1250.0,2.0,1.0,68.0,2.0
-Sanjay nagar,1000.0,2.0,2.0,70.0,2.0
-Yelahanka,1036.0,2.0,2.0,39.37,2.0
-8th Phase JP Nagar,1100.0,2.0,2.0,35.0,2.0
-6th block Koramangala,3000.0,3.0,2.0,400.0,3.0
-TC Palaya,1200.0,3.0,0.0,66.0,3.0
-Begur Road,1200.0,2.0,2.0,46.8,2.0
-Chennammanakere Achukattu,1260.0,2.0,1.0,75.0,2.0
-Harlur,1174.0,2.0,1.0,74.0,2.0
-Jigani,914.0,2.0,2.0,47.0,2.0
-Hagadur,1100.0,2.0,2.0,45.0,2.0
-Garudachar Palya,1320.0,2.0,2.0,60.6,3.0
-Kundalahalli,1724.0,3.0,2.0,127.0,3.0
-Haralur Road,1194.0,2.0,2.0,46.0,2.0
-Dodsworth Layout,1717.0,3.0,3.0,99.0,3.0
-Lakshminarayana Pura,1720.0,3.0,3.0,150.0,3.0
-TC Palaya,1200.0,2.0,0.0,66.5,3.0
-Padmanabhanagar,1360.0,2.0,3.0,75.0,3.0
-Yeshwanthpur,1385.0,2.0,2.0,76.18,3.0
-Marathahalli,1678.0,3.0,3.0,70.0,3.0
-Ramamohanapuram,2800.0,3.0,2.0,500.0,4.0
-Rajaji Nagar,2386.0,3.0,0.0,334.0,3.0
-Jigani,918.0,2.0,2.0,55.0,2.0
-Whitefield,1430.0,3.0,2.0,52.0,3.0
-Koramangala,2461.0,6.0,2.0,353.0,4.0
-Chandapura,922.0,2.0,1.0,36.0,2.0
-Jalahalli East,1020.0,2.0,1.0,42.48,2.0
-OMBR Layout,1855.0,3.0,2.0,145.0,3.0
-Thubarahalli,1185.0,2.0,2.0,65.0,2.0
-Vijaya Bank Layout,2400.0,2.0,1.0,150.0,3.0
-Devanahalli,1282.0,2.0,2.0,68.52,3.0
-HBR Layout,1200.0,2.0,2.0,60.0,2.0
-Uttarahalli,1150.0,2.0,1.0,46.0,2.0
-Ramanjaneyanagar,1385.0,2.0,2.0,48.48,3.0
-Kaikondrahalli,1605.0,3.0,3.0,105.0,3.0
-Konanakunte,884.0,1.0,0.0,58.0,2.0
-Harappanahalli,1311.0,2.0,2.0,48.0,2.0
-Mysore Road,883.0,2.0,1.0,40.0,2.0
-Sector 7 HSR Layout,2400.0,2.0,3.0,195.0,3.0
-1st Block BEL Layout,1540.0,3.0,2.0,85.0,3.0
-Kanakpura Road,900.0,2.0,2.0,41.0,2.0
-Kalkere Channasandra,1200.0,2.0,0.0,53.0,2.0
-Kengeri,1320.0,2.0,1.0,50.0,2.0
-Bommanahalli,1160.0,2.0,3.0,53.0,2.0
-Rachenahalli,1050.0,2.0,2.0,52.5,2.0
-Rajaji Nagar,1621.0,3.0,1.0,124.0,3.0
-Jigani,1252.0,3.0,3.0,70.0,3.0
-Thanisandra,3600.0,9.0,3.0,125.0,8.0
-Rukmaiah Layout,1655.0,3.0,2.0,86.06,3.0
-Raja Rajeshwari Nagar,1693.0,3.0,3.0,57.39,3.0
-Old Madras Road,2430.0,5.0,2.0,180.0,3.0
-Varthur,1045.0,2.0,1.0,40.65,2.0
-Sector 2 HSR Layout,1665.0,3.0,0.0,110.0,3.0
-Ckikkakammana Halli,902.0,2.0,2.0,42.0,2.0
-HBR Layout,1722.0,3.0,0.0,95.0,3.0
-Bharathi Nagar,1739.0,3.0,1.0,105.0,3.0
-Kothanur,1847.0,3.0,2.0,110.0,3.0
-Hennur Road,3203.5,4.0,0.0,224.5,4.0
-KUDLU MAIN ROAD,1464.0,3.0,2.0,56.0,3.0
-Ulsoor,2500.0,4.0,0.0,170.0,4.0
-Dodda Nekkundi,1390.0,2.0,2.0,60.0,2.0
-Yeshwanthpur,1541.0,2.0,2.0,130.0,2.0
-Varthur,1738.0,2.0,1.0,57.35,2.0
-Kammanahalli,1200.0,1.0,1.0,81.0,2.0
-Sarjapur  Road,1028.0,2.0,1.0,56.0,2.0
-Hennur Road,1232.0,2.0,1.0,87.0,2.0
-Electronic City Phase II,545.0,1.0,1.0,35.0,2.0
-Bannerghatta Road,1275.0,2.0,1.0,73.0,2.0
-Yelahanka,567.0,1.0,1.0,25.0,1.0
-BTM 2nd Stage,800.0,2.0,1.0,175.0,2.0
-Hennur Road,1020.0,2.0,3.0,47.0,2.0
-Yelahanka,1662.0,3.0,0.0,67.98,3.0
-Ramagondanahalli,2257.0,3.0,2.0,159.0,3.0
-Kithaganur,1200.0,3.0,1.0,70.0,3.0
-Bellandur,1211.0,2.0,1.0,63.0,2.0
-Nagavarapalya,1392.0,2.0,1.0,130.0,2.0
-Bisuvanahalli,850.0,2.0,1.0,27.0,2.0
-Billekahalli,1125.0,2.0,2.0,62.0,2.0
-Uttarahalli,1290.0,2.0,3.0,56.12,3.0
-Cottonpet,958.0,3.0,1.0,210.0,5.0
-Jayamahal,1175.0,2.0,1.0,70.0,2.0
-Doopanahalli,1625.0,3.0,1.0,150.0,3.0
-Panathur,1230.0,2.0,1.0,80.0,2.0
-Whitefield,1130.0,2.0,1.0,36.0,2.0
-Pampa Extension,1178.0,2.0,1.0,80.0,2.0
-BTM Layout,1776.0,2.0,3.0,75.0,3.0
-RR Nagar,648.0,1.0,1.0,34.0,1.0
-Yelahanka,1000.0,2.0,1.0,29.0,2.0
-Puttanahalli,1450.0,3.0,1.0,65.0,3.0
-KR Puram,800.0,1.0,1.0,130.0,2.0
-Laxminarayana Layout,1584.0,3.0,2.0,145.0,4.0
-Nagondanahalli,1178.0,2.0,3.0,47.0,2.0
- south,3420.0,3.0,2.0,410.0,4.0
-Kasavanhalli,1230.0,2.0,2.0,66.25,2.0
-Ejipura,2070.0,3.0,3.0,135.0,3.0
-Mariyannapalya,1125.0,2.0,2.0,46.0,2.0
-P&T Layout,1242.0,2.0,3.0,39.7,2.0
-Hiremath Layout,1715.0,3.0,2.0,95.0,3.0
-Whitefield,1180.0,2.0,2.0,41.0,2.0
-Raja Rajeshwari Nagar,1485.0,2.0,2.0,63.0,3.0
- Rachenahalli,412.5,1.0,0.0,19.8,1.0
-CMH Road,2665.0,3.0,1.0,350.0,3.0
-Yelahanka New Town,550.0,2.0,1.0,26.0,2.0
-Kothanur,1436.0,3.0,3.0,70.0,3.0
-Murugeshpalya,1500.0,2.0,0.0,70.0,3.0
-Lakshminarayana Pura,1569.0,3.0,2.0,150.0,3.0
-5th Phase JP Nagar,1080.0,2.0,1.0,53.0,2.0
-Whitefield,1312.0,2.0,2.0,55.0,2.0
-Hebbal,1100.0,2.0,1.0,54.0,2.0
-Ambedkar Nagar,1409.0,2.0,2.0,95.0,2.0
-Bank Of Baroda Colony,1350.0,2.0,1.0,185.0,2.0
-Raja Rajeshwari Nagar,3450.0,7.0,2.0,225.0,8.0
-BTM 2nd Stage,2200.0,3.0,3.0,220.0,3.0
-Shetty Halli,800.0,1.0,2.0,32.0,1.0
-Sampigehalli,1592.0,3.0,2.0,75.0,3.0
-Bellandur,1454.0,2.0,1.0,90.0,2.0
-Varthur,1180.0,2.0,2.0,55.0,2.0
-JP Nagar,3200.0,5.0,3.0,309.0,4.0
-Haralur Road,1520.0,2.0,2.0,96.0,3.0
-5th Phase JP Nagar,1030.0,2.0,2.0,57.0,2.0
-Thanisandra,1411.0,3.0,1.0,93.25,3.0
-Channasandra Layout,1210.0,2.0,2.0,40.0,2.0
-Sahakara Nagar,1270.0,2.0,1.0,69.85,2.0
-Electronic City Phase II,1000.0,2.0,1.0,28.88,2.0
-Hebbal,1645.0,3.0,2.0,121.0,3.0
-Yeshwanthpur,1677.0,3.0,0.0,92.13,3.0
-Marathahalli,3940.0,4.0,3.0,220.0,4.0
-BEL Road,1500.0,2.0,0.0,203.0,2.0
-7th Phase JP Nagar,1250.0,3.0,2.0,65.0,3.0
-Old Madras Road,1720.0,3.0,2.0,100.0,3.0
-Govindapura,1500.0,2.0,2.0,60.0,2.0
-Yelahanka,1620.0,3.0,2.0,90.0,3.0
-Kadugodi,1762.0,3.0,3.0,112.0,3.0
-Chikkasandra,1070.0,2.0,2.0,42.0,2.0
-Kasavanhalli,1349.0,2.0,2.0,78.0,2.0
-Kasavanhalli,1667.0,3.0,2.0,92.0,3.0
-Whitefield,1240.0,2.0,2.0,70.0,2.0
-Bannerghatta Road,1270.0,2.0,2.0,45.0,2.0
-Rajaji Nagar,660.0,1.0,0.0,75.0,1.0
-RMV Extension,1675.0,3.0,3.0,62.0,3.0
-Dooravani Nagar,1596.0,3.0,0.0,95.0,3.0
-Hulimavu,1320.0,2.0,2.0,65.0,3.0
-Whitefield,1277.0,2.0,1.0,77.0,2.0
-Horamavu Agara,950.0,2.0,3.0,39.0,2.0
-Uttarahalli,1163.0,2.0,2.0,68.0,2.0
-Harlur,2450.0,3.0,0.0,120.0,3.0
-Somasundara Palya,2400.0,3.0,3.0,140.0,4.0
-Kaggadasapura,1150.0,2.0,2.0,45.0,2.0
-Whitefield,1548.0,3.0,1.0,65.0,3.0
-BTM 1st Stage,1852.0,2.0,0.0,95.0,3.0
-Sarjapur  Road,1210.0,2.0,2.0,58.0,2.0
-Veerannapalya,950.0,2.0,2.0,45.0,2.0
-Electronics City Phase 1,1175.0,2.0,1.0,69.0,2.0
-Vittasandra,1404.0,2.0,1.0,68.8,2.0
-Banashankari,1650.0,3.0,2.0,101.0,3.0
-Sadanand Nagar,2700.0,3.0,3.0,200.0,3.0
-Electronics City Phase 1,1305.0,2.0,1.0,67.0,2.0
-Varthur Road,1255.0,2.0,2.0,52.76,2.0
-Bhoganhalli,2119.0,4.0,3.0,111.0,4.0
-Hebbal,1150.0,2.0,1.0,57.0,2.0
-TC Palaya,1350.0,2.0,1.0,75.0,3.0
-1st Phase JP Nagar,2180.0,3.0,2.0,210.0,3.0
-Devanahalli,1408.0,2.0,2.0,85.0,2.0
-Begur,1304.0,3.0,0.0,65.0,3.0
-Whitefield,1405.0,2.0,2.0,84.5,2.0
-Jalahalli,1313.0,2.0,2.0,68.0,2.0
-Raja Rajeshwari Nagar,1575.0,2.0,2.0,78.0,3.0
-Attibele,500.0,1.0,1.0,17.0,1.0
-Begur Road,1565.0,2.0,2.0,49.3,3.0
-Shantiniketan Layout,925.0,2.0,2.0,48.0,2.0
-Sarjapur  Road,1819.0,3.0,2.0,100.0,3.0
-Haralur Road,1810.0,3.0,2.0,100.0,3.0
-Kanakpura Road,1135.0,2.0,2.0,58.0,2.0
-Hosa Road,800.0,1.0,0.0,39.99,1.0
-Vishveshwarya Layout,2000.0,3.0,0.0,90.0,4.0
-Kammagondahalli,1263.0,2.0,1.0,51.5,2.0
-Horamavu Agara,1166.0,2.0,1.0,37.29,2.0
-Somasundara Palya,1178.0,2.0,0.0,78.0,2.0
-Rajaji Nagar,3730.0,4.0,3.0,370.0,4.0
-Doddakallasandra,1270.0,2.0,2.0,42.0,2.0
-Haralur Road,1520.0,2.0,2.0,85.0,3.0
-MCECHS  layout,1500.0,2.0,2.0,65.0,3.0
-7th Phase JP Nagar,1070.0,2.0,2.0,42.0,2.0
-Kanakpura Road,1204.0,2.0,1.0,82.0,2.0
-Kanakpura Road,1419.59,2.0,1.0,59.0,3.0
-Budigere,1820.0,3.0,2.0,89.0,3.0
-CV Raman Nagar,1070.0,2.0,1.0,55.0,2.0
-Bisuvanahalli,873.0,2.0,1.0,40.0,3.0
- Devarachikkanahalli,1417.0,2.0,2.0,76.0,3.0
-West of Chord Road,1200.0,2.0,1.0,160.0,2.0
-Dodda Banaswadi,1300.0,2.0,2.0,60.0,3.0
-Kanakpura Road,1070.0,2.0,2.0,37.45,2.0
-Thanisandra,2019.0,3.0,1.0,70.67,3.0
-Jigani,1300.0,3.0,3.0,150.0,3.0
-Electronic City,1410.0,2.0,2.0,38.0,3.0
-Indira Nagar,2200.0,3.0,2.0,160.0,3.0
-Hennur Road,2651.0,2.0,2.0,225.0,3.0
-Shanti Nagar,2600.0,4.0,2.0,523.0,4.0
-Chandapura,1305.0,3.0,1.0,33.28,3.0
-Hosa Road,1161.0,2.0,1.0,55.15,2.0
-Yelahanka,1560.0,2.0,2.0,98.0,3.0
-Whitefield,1386.0,3.0,1.0,57.46,3.0
-Sarjapur  Road,984.0,2.0,1.0,45.91,2.0
-2nd Block Bel Layout,1625.0,3.0,3.0,92.0,3.0
-Bommenahalli,1680.0,3.0,0.0,135.0,4.0
-Kudlu Gate,3850.0,6.0,0.0,205.0,4.0
-Billekahalli,1672.0,3.0,2.0,190.0,4.0
-Thanisandra,1430.0,2.0,2.0,51.48,3.0
-Hosakerehalli,1500.0,3.0,2.0,70.0,4.0
-Basapura,1045.0,2.0,2.0,42.0,2.0
-Koramangala,1900.0,3.0,3.0,150.0,3.0
-Chandra Layout,1260.0,2.0,2.0,85.05,3.0
-Bannerghatta,1100.0,2.0,1.0,66.0,2.0
-Hoodi Layout,1500.0,3.0,2.0,88.0,3.0
-Sarjapura - Attibele Road,3750.0,6.0,2.0,295.0,5.0
-Kanakpura Road,1450.0,3.0,3.0,51.0,3.0
-Chandapura,1190.0,2.0,2.0,30.35,3.0
-Domlur,1246.0,2.0,1.0,95.0,2.0
-Whitefield,3940.0,5.0,3.0,265.0,4.0
-Doddabommasandra,3150.0,5.0,2.0,145.0,8.0
-Dodda Nekkundi,1128.0,2.0,2.0,45.0,2.0
-Kundalahalli,1047.0,2.0,1.0,72.0,2.0
-Garudachar Palya,1154.0,2.0,1.0,51.8,2.0
-"Sarjapur Road, ",1936.0,3.0,2.0,139.0,3.0
-Crimson Layout,1250.0,2.0,2.0,60.0,2.0
-Raja Rajeshwari Nagar,1280.0,3.0,2.0,57.6,3.0
-CV Raman Nagar,1125.0,2.0,1.0,46.0,2.0
-Kurubarahalli,450.0,3.0,1.0,53.0,4.0
-Kanakpura Road,1080.0,2.0,1.0,37.8,2.0
-Margondanahalli,1200.0,2.0,1.0,65.0,2.0
-Old Madras Road,1480.0,3.0,2.0,95.0,3.0
-Sarjapur  Road,1000.0,2.0,1.0,67.0,2.0
-Sarjapur  Road,1691.0,3.0,2.0,113.0,3.0
-Venkateswara Nagar,600.0,1.0,0.0,20.0,1.0
-Chandapura,645.0,1.0,1.0,16.45,1.0
-Queens Road,1405.0,3.0,0.0,169.0,3.0
-Amruthahalli,1900.0,3.0,1.0,135.0,3.0
-Jigani,939.0,2.0,2.0,39.0,2.0
-Electronic City,1128.0,2.0,1.0,65.0,2.0
-Rajaji Nagar,2400.0,3.0,1.0,320.0,5.0
-Yelachenahalli,1700.0,3.0,2.0,130.0,3.0
-Bellandur,1138.0,3.0,2.0,128.0,3.0
-Begur Road,1200.0,2.0,2.0,43.2,2.0
-Electronic City Phase II,1140.0,2.0,1.0,32.92,2.0
-LB Shastri Nagar,2400.0,8.0,1.0,250.0,8.0
-Old Madras Road,2990.0,3.0,2.0,170.0,3.0
-Koramangala,2292.0,3.0,2.0,286.0,3.0
-Sarjapur,2970.0,3.0,3.0,130.0,4.0
-Nagappa Reddy Layout,1200.0,2.0,2.0,39.0,2.0
-Electronic City,1350.0,3.0,2.0,58.0,3.0
-Kasavanhalli,1476.0,3.0,0.0,89.0,3.0
-5th Block Jayanagar,500.0,2.0,1.0,75.0,3.0
-Tumkur Road,1500.0,3.0,3.0,95.0,3.0
-Jigani,1221.0,3.0,3.0,72.0,3.0
-Sector 7 HSR Layout,1760.0,3.0,2.0,160.0,3.0
-Srirampuram,1485.0,2.0,1.0,156.0,3.0
-Banashankari,2600.0,4.0,1.0,135.0,3.0
-Marathahalli,1583.0,3.0,3.0,109.0,3.0
-Electronic City,1000.0,2.0,1.0,29.7,2.0
-Bhoganhalli,2072.5,4.0,0.0,111.0,4.0
-Indira Nagar,1260.0,2.0,3.0,120.0,2.0
-Thanisandra,2050.0,3.0,2.0,150.0,3.0
-5th Phase JP Nagar,1010.0,2.0,2.0,57.0,2.0
-Coconut Grove Layout,1515.0,3.0,3.0,80.5,3.0
-Ardendale,2062.0,3.0,0.0,150.0,4.0
-Old Madras Road,1171.0,2.0,2.0,73.0,2.0
-Sidedahalli,900.0,1.0,1.0,52.3,1.0
-Hanumanth Nagar,1500.0,3.0,3.0,67.49,3.0
-Whitefield,1109.0,2.0,1.0,41.49,2.0
-Karuna Nagar,1163.0,3.0,2.0,180.0,3.0
-Ullal Road,3400.0,4.0,2.0,190.0,4.0
-Whitefield,1405.0,3.0,2.0,58.0,3.0
-Doddaballapur,2400.0,3.0,0.0,200.0,4.0
-Hegganahalli,1200.0,2.0,1.0,45.0,1.0
-Electronic City,1096.0,2.0,2.0,40.55,2.0
-Banashankari Stage III,1305.0,2.0,1.0,59.0,3.0
-HSR Layout,1372.0,2.0,1.0,61.0,2.0
-Hosur Road,1919.0,3.0,2.0,117.0,3.0
-Yelahanka New Town,1700.0,3.0,2.0,90.0,3.0
-Electronics City Phase 1,995.0,2.0,0.0,42.0,2.0
-Sahakara Nagar,1048.0,2.0,3.0,50.0,2.0
-Sarjapur  Road,1380.0,2.0,2.0,55.0,3.0
-Nagarbhavi,600.0,3.0,2.0,100.0,3.0
-Kaggadasapura,1105.0,2.0,1.0,39.5,2.0
-Bhoganhalli,1205.0,2.0,2.0,64.47,2.0
-Old Madras Road,1157.0,2.0,2.0,47.32,2.0
-Varthur,1091.0,2.0,1.0,33.82,2.0
-ISRO Layout,1370.0,2.0,2.0,87.0,3.0
-Sarjapur  Road,1194.0,2.0,1.0,51.0,2.0
-Yelahanka New Town,1541.0,3.0,3.0,80.0,3.0
-Roopena Agrahara,1300.0,3.0,2.0,47.0,3.0
-Hennur,1255.0,2.0,2.0,53.5,2.0
-Raja Rajeshwari Nagar,1196.0,2.0,2.0,40.54,2.0
-1st Block HRBR Layout,2400.0,7.0,3.0,355.0,7.0
-Marathahalli,1314.0,2.0,3.0,55.0,2.0
-Kurubarahalli,1200.0,3.0,0.0,70.0,3.0
-Ramagondanahalli,1251.0,2.0,1.0,47.0,2.0
-VGP Layout,1000.0,2.0,1.0,44.0,2.0
-Hoskote,1225.0,3.0,1.0,40.0,3.0
-Raja Rajeshwari Nagar,1450.0,2.0,1.0,67.0,3.0
-Thanisandra,1436.0,3.0,1.0,74.75,3.0
-Raja Rajeshwari Nagar,1196.0,2.0,2.0,51.15,2.0
-Ambalipura,1650.0,3.0,3.0,100.0,3.0
-7th Phase JP Nagar,1850.0,3.0,2.0,150.0,3.0
-Uttarahalli,1390.0,2.0,3.0,62.55,3.0
-Hoysalanagar,850.0,2.0,1.0,30.0,2.0
-Ramamurthy Nagar,1170.0,2.0,2.0,44.0,2.0
-GD Layout,1330.0,2.0,2.0,68.0,3.0
-Gnana Bharathi,3600.0,6.0,1.0,170.0,6.0
-Bommasandra,955.0,2.0,1.0,35.28,2.0
-Whitefield,1141.0,2.0,1.0,62.0,2.0
-Kothannur,1070.0,2.0,2.0,38.6,2.0
-Whitefield,1165.0,2.0,1.0,40.5,2.0
-J C Nagar,1525.0,3.0,3.0,65.0,3.0
-Bommasandra,955.0,2.0,1.0,37.97,2.0
-Haralur Road,1243.0,2.0,2.0,46.0,2.0
-Subramanyapura,960.0,2.0,1.0,55.0,2.0
-Cunningham Road,2700.0,3.0,1.0,501.0,3.0
-Whitefield,1200.0,2.0,1.0,45.0,2.0
-Yelahanka New Town,2200.0,2.0,0.0,180.0,2.0
-Thanisandra,1220.0,2.0,1.0,43.92,2.0
-Basavangudi,2350.0,3.0,3.0,300.0,3.0
-HRBR Layout,2800.0,3.0,2.0,250.0,3.0
-Thanisandra,1340.0,2.0,1.0,66.33,2.0
-Laggere,1200.0,1.0,1.0,125.0,1.0
-Shankarapuram,900.0,1.0,0.0,130.0,2.0
-Begur Road,1583.0,3.0,1.0,95.23,3.0
-"JP nagar 9th Phase, ",1531.0,3.0,2.0,72.0,3.0
-Bisuvanahalli,1075.0,2.0,1.0,35.0,3.0
-Kaggalipura,3150.0,5.0,1.0,212.0,4.0
-Whitefield,3537.0,5.0,3.0,210.0,4.0
-Sarjapur  Road,1163.0,2.0,2.0,62.0,3.0
-6th Phase JP Nagar,1180.0,2.0,3.0,80.0,2.0
-Sarjapur,625.0,1.0,1.0,19.0,1.0
-Rajanna Layout,1116.0,2.0,1.0,37.6,2.0
-Babusapalaya,1611.0,2.0,2.0,66.0,3.0
-Thanisandra,1265.0,2.0,1.0,78.0,2.0
-Electronics City Phase 1,920.0,2.0,2.0,33.0,2.0
-Electronic City,1025.0,1.0,1.0,26.63,2.0
-Brookefield,1476.0,3.0,2.0,105.0,3.0
-Akshaya Nagar,1388.0,2.0,3.0,57.0,2.0
-Thanisandra,1427.0,3.0,2.0,120.0,3.0
-Bennigana Halli,2000.0,3.0,1.0,145.0,3.0
-Raja Rajeshwari Nagar,1640.0,3.0,1.0,86.8,3.0
-Ashirvad Colony,1100.0,2.0,0.0,53.0,2.0
-Prakash Nagar,800.0,2.0,2.0,55.0,2.0
-Electronic City,1500.0,2.0,1.0,100.0,3.0
-Hennur,1255.0,2.0,2.0,56.5,2.0
-GM Palaya,1315.0,3.0,1.0,65.0,3.0
-Hennur,3517.0,4.0,0.0,161.5,4.0
-Uttarahalli,1065.0,2.0,2.0,42.59,3.0
-Vittasandra,1650.0,3.0,2.0,85.5,3.0
-Gubbalala,2500.0,3.0,1.0,88.0,3.0
-Nagasandra,1500.0,2.0,0.0,91.0,2.0
-Chandapura,1200.0,2.0,1.0,52.0,3.0
-Electronic City,1355.0,2.0,1.0,73.0,2.0
-HBR Layout,900.0,2.0,1.0,145.0,2.0
-Hulimavu,1188.0,2.0,3.0,46.0,2.0
-Vignana Nagar,1350.0,2.0,2.0,89.5,2.0
-Kereguddadahalli,1000.0,2.0,2.0,30.0,2.0
-Bannerghatta Road,1450.0,2.0,2.0,87.0,3.0
-Kanakpura Road,1500.0,2.0,2.0,69.0,2.0
-Kasavanhalli,1585.0,2.0,2.0,90.0,2.0
-Bommanahalli,1050.0,2.0,2.0,46.0,2.0
-Sarjapur  Road,1525.0,2.0,2.0,65.0,3.0
-Hennur Road,1933.0,3.0,2.0,140.0,3.0
-Whitefield,3758.0,3.0,1.0,300.0,3.0
-Tumkur Road,1240.0,2.0,1.0,79.0,3.0
-Talaghattapura,3554.0,4.0,1.0,340.0,3.0
-Padmanabhanagar,3680.0,4.0,2.0,440.0,5.0
-Uttarahalli,1002.0,2.0,1.0,40.08,2.0
-Hormavu,1250.0,2.0,2.0,60.0,2.0
-Akshayanagara West,1205.0,2.0,2.0,60.0,2.0
-Kanakpura Road,1665.0,3.0,2.0,86.91,3.0
-Whitefield,2785.0,5.0,3.0,295.0,4.0
-Hosa Road,615.0,1.0,1.0,28.29,1.0
-Subash Nagar,900.0,2.0,0.0,55.0,2.0
-Hoodi,1400.0,2.0,1.0,82.0,2.0
-Whitefield,1116.0,2.0,3.0,51.91,2.0
-Amruthnagar,1150.0,2.0,1.0,48.0,2.0
-Sanne Amanikere,1455.0,2.0,1.0,45.0,3.0
-Yelahanka New Town,650.0,1.0,2.0,33.0,1.0
-Chandapura,1323.0,2.0,1.0,42.0,3.0
-Hennur Road,1040.0,2.0,2.0,50.0,2.0
-Banashankari,1450.0,2.0,2.0,50.75,2.0
-Vasanthapura,1022.0,2.0,2.0,40.0,2.0
-Yelenahalli,1600.0,3.0,3.0,61.37,3.0
-Shampura,920.0,2.0,0.0,90.0,4.0
-Hennur Road,980.0,2.0,1.0,51.0,2.0
-TC Palaya,1000.0,2.0,0.0,64.0,2.0
-Dommasandra,850.0,2.0,1.0,25.4,2.0
-Benson Town,1805.0,3.0,2.0,280.0,3.0
-Hoodi,1420.0,2.0,2.0,75.0,2.0
-Kadugodi,1711.0,3.0,3.0,75.0,3.0
-Ittamadu,1080.0,2.0,2.0,50.0,2.0
-Gottigere,1613.0,3.0,3.0,72.0,3.0
-Talaghattapura,951.0,2.0,2.0,30.43,2.0
-Sarjapur  Road,3913.0,5.0,0.0,176.0,4.0
-Dinnur,1100.0,2.0,0.0,65.0,2.0
-Kothannur,1100.0,2.0,2.0,40.0,2.0
-Sarjapur  Road,1044.0,2.0,1.0,34.77,2.0
-Whitefield,1100.0,2.0,2.0,65.0,2.0
-Green Glen Layout,1751.0,3.0,2.0,115.0,3.0
-Benson Town,3200.0,4.0,0.0,350.0,3.0
-Domlur,2100.0,3.0,2.0,145.0,3.0
-JP Nagar,1197.0,2.0,1.0,47.88,2.0
-Varthur,1600.0,3.0,2.0,63.2,3.0
-Banashankari,2500.0,4.0,3.0,95.0,4.0
-Sarjapur,1404.0,2.0,0.0,53.35,3.0
-Rajaji Nagar,2849.0,5.0,0.0,300.0,5.0
-Iblur Village,3596.0,5.0,1.0,297.0,4.0
-Rajaji Nagar,2390.0,3.0,2.0,415.0,3.0
-Vijayanagar,2400.0,6.0,3.0,125.0,5.0
-Sri Venkateshpura Layout,1050.0,2.0,1.0,49.5,2.0
-Chokkahalli,2000.0,3.0,1.0,90.0,3.0
-Lingadheeranahalli,1684.0,3.0,1.0,120.0,3.0
-Outer Ring Road East,1738.0,3.0,0.0,110.0,3.0
-Richmond Town,2150.0,4.0,0.0,240.0,3.0
-Koramangala,3500.0,5.0,2.0,425.0,4.0
-R.T. Nagar,2000.0,4.0,2.0,320.0,4.0
-Hormavu,1310.0,2.0,3.0,60.0,2.0
-Uttarahalli,1345.0,2.0,1.0,57.0,3.0
-Electronic City Phase II,1125.0,2.0,1.0,32.49,2.0
-Sarjapur  Road,1190.0,2.0,1.0,50.0,2.0
-Kanakpura Road,1530.0,3.0,0.0,66.4,3.0
-Giri Nagar,2400.0,6.0,1.0,400.0,6.0
-Sarjapur  Road,1128.0,2.0,2.0,59.0,2.0
-Gollahalli,1325.0,2.0,1.0,47.0,3.0
-Kumaraswami Layout,3000.0,4.0,2.0,400.0,7.0
-Bhoopsandra,2050.0,3.0,2.0,135.0,3.0
-Amruthahalli,1200.0,2.0,1.0,55.0,2.0
-Banashankari Stage II,500.0,2.0,1.0,55.0,2.0
-Whitefield,3445.0,5.0,3.0,270.0,4.0
-Sarjapur  Road,1863.0,3.0,2.0,104.0,4.0
-Sarjapur  Road,2383.0,5.0,1.0,215.0,4.0
-Battarahalli,1135.0,2.0,3.0,43.0,2.0
-Channasandra,1310.0,2.0,2.0,45.0,3.0
-Roopena Agrahara,1215.0,2.0,2.0,49.86,3.0
-Begur Road,1500.0,2.0,3.0,55.0,3.0
-Horamavu Agara,1756.0,3.0,2.0,92.0,3.0
-Thanisandra,1183.0,2.0,2.0,58.56,2.0
-Electronic City,1070.0,2.0,1.0,60.0,2.0
-Hebbal Kempapura,1600.0,3.0,3.0,170.0,3.0
-JP Nagar,1120.0,2.0,2.0,33.6,2.0
-Dasanapura,708.0,2.0,1.0,31.15,2.0
-Anekal,1200.0,2.0,1.0,36.1,2.0
-Ambalipura,1800.0,3.0,3.0,110.0,3.0
-Horamavu Banaswadi,1156.0,2.0,2.0,46.9,2.0
-Akshaya Nagar,1092.0,2.0,1.0,60.0,2.0
-Basavangudi,1500.0,2.0,1.0,143.0,3.0
-Kothanur,1580.0,3.0,3.0,76.0,3.0
-Sarjapur  Road,1846.0,3.0,2.0,140.0,3.0
-Kanakpura Road,1322.0,2.0,3.0,70.0,2.0
-Hessarghatta,1330.0,3.0,2.0,65.0,3.0
-Doddakannelli,780.0,3.0,0.0,75.0,3.0
-Chandapura,877.0,2.0,3.0,42.0,2.0
-KR Puram,1140.0,2.0,1.0,43.32,2.0
-Whitefield,750.0,2.0,1.0,52.7,2.0
-NRI Layout,2700.0,5.0,1.0,95.75,4.0
-Kannamangala,2422.0,4.0,3.0,135.0,4.0
-Panathur,1085.0,2.0,1.0,36.0,2.0
-Bommenahalli,1632.0,3.0,0.0,140.0,4.0
-Bisuvanahalli,1075.0,2.0,1.0,41.0,3.0
-TC Palaya,1000.0,2.0,0.0,70.0,2.0
-Ejipura,1200.0,2.0,1.0,60.0,2.0
-Electronic City,1200.0,2.0,1.0,34.65,2.0
-Budigere,1444.0,2.0,2.0,70.0,2.0
-Yelahanka,1305.0,2.0,1.0,78.0,2.0
-Rustam Bagh Layout,1170.0,2.0,2.0,86.0,2.0
-Murugeshpalya,1550.0,3.0,2.0,74.0,3.0
-Thanisandra,3671.0,4.0,1.0,220.0,4.0
-Hosur Road,760.0,1.0,2.0,21.28,1.0
-Marathahalli,1270.0,2.0,2.0,80.0,2.0
-Vijayanagar,2047.0,3.0,2.0,136.0,3.0
-KR Puram,2800.0,6.0,1.0,110.0,7.0
-Green Glen Layout,1575.0,3.0,2.0,125.0,3.0
-Kanakpura Road,525.0,1.0,1.0,30.0,1.0
-Whitefield,1015.0,2.0,3.0,56.0,2.0
-Abbigere,2500.0,6.0,0.0,81.0,6.0
-Ramagondanahalli,1151.0,2.0,2.0,42.5,2.0
-Bannerghatta Road,1012.0,2.0,1.0,44.0,2.0
-Doctors Layout,1450.0,3.0,2.0,75.0,3.0
-Raja Rajeshwari Nagar,1530.0,3.0,2.0,57.0,3.0
-Vittasandra,1404.0,2.0,2.0,70.0,2.0
-Kanakpura Road,1700.0,3.0,2.0,75.0,3.0
-Kothannur,1350.0,2.0,2.0,42.0,2.0
+location,total_sqft,bath,balcony,bhk,price,price_per_square_foot
+Akshaya Nagar,1700.0,3.0,1.0,3.0,80.0,0.047058823529411764
+Hosur Road,1733.0,2.0,3.0,3.0,85.0,0.04904789382573572
+Electronic City Phase II,1252.0,2.0,1.0,3.0,65.0,0.051916932907348244
+Rajaji Nagar,2648.0,5.0,0.0,4.0,251.5,0.09497734138972809
+Varthur,1000.0,1.0,1.0,1.0,70.0,0.07
+Thanisandra,1411.0,3.0,1.0,3.0,93.15,0.06601700921332389
+Electronics City Phase 1,1085.0,2.0,1.0,2.0,46.0,0.0423963133640553
+Raja Rajeshwari Nagar,1303.0,2.0,1.0,2.0,55.79,0.04281657712970069
+Hormavu,1206.0,2.0,1.0,2.0,55.0,0.04560530679933665
+Whitefield,1457.0,2.0,2.0,3.0,105.0,0.0720658888126287
+Old Madras Road,2990.0,5.0,1.0,3.0,173.0,0.05785953177257525
+Green Glen Layout,1715.0,3.0,3.0,3.0,112.0,0.0653061224489796
+Kasavanhalli,1747.0,3.0,1.0,3.0,110.0,0.06296508299942759
+Rachenahalli,680.0,1.0,1.0,1.0,46.0,0.06764705882352941
+Sarjapur  Road,1197.0,2.0,1.0,2.0,56.86,0.047502088554720136
+Kengeri,750.0,2.0,1.0,2.0,38.0,0.050666666666666665
+Kanakpura Road,1691.2,3.0,1.0,3.0,115.0,0.06799905392620624
+Electronic City,1060.0,2.0,1.0,2.0,60.0,0.05660377358490566
+Hennur,1160.0,2.0,1.0,2.0,49.0,0.04224137931034483
+Thanisandra,2000.0,3.0,2.0,3.0,99.0,0.0495
+Chikkalasandra,1290.0,2.0,2.0,2.0,72.0,0.05581395348837209
+Ramamurthy Nagar,600.0,1.0,1.0,1.0,43.0,0.07166666666666667
+7th Phase JP Nagar,1300.0,2.0,2.0,3.0,52.0,0.04
+Kanakpura Road,525.0,1.0,0.0,1.0,27.0,0.05142857142857143
+Hosa Road,2500.0,3.0,2.0,3.0,100.0,0.04
+Hegde Nagar,2006.8,4.0,2.0,3.0,196.0,0.09766792904125972
+Raja Rajeshwari Nagar,3600.0,9.0,3.0,9.0,240.0,0.06666666666666667
+Marathahalli,1144.0,2.0,2.0,2.0,65.0,0.056818181818181816
+BTM 2nd Stage,1070.0,2.0,1.0,2.0,48.0,0.044859813084112146
+Electronics City Phase 1,995.0,2.0,0.0,2.0,46.0,0.04623115577889447
+Kalena Agrahara,1425.0,2.0,1.0,3.0,70.0,0.04912280701754386
+Kanakpura Road,1299.0,2.0,1.0,2.0,89.63,0.06899923017705928
+Uttarahalli,1360.0,2.0,2.0,3.0,47.59,0.03499264705882353
+Whitefield,1697.0,3.0,2.0,3.0,108.0,0.06364172068355922
+Begur Road,1410.0,2.0,3.0,3.0,50.06,0.03550354609929078
+Kadugodi,1314.0,2.0,3.0,2.0,68.2,0.05190258751902588
+Raja Rajeshwari Nagar,1587.0,3.0,1.0,3.0,73.8,0.04650283553875236
+Budigere,1820.0,3.0,2.0,3.0,85.4,0.04692307692307693
+Raja Rajeshwari Nagar,1295.0,2.0,2.0,2.0,55.47,0.042833976833976835
+Hulimavu,1242.0,2.0,3.0,2.0,51.0,0.04106280193236715
+Old Airport Road,3504.0,4.0,0.0,4.0,262.0,0.0747716894977169
+Yelahanka,567.0,1.0,1.0,1.0,25.0,0.04409171075837742
+Mysore Road,1005.0,2.0,0.0,2.0,35.175,0.034999999999999996
+Bellandur,1060.0,2.0,1.0,2.0,65.0,0.06132075471698113
+Marathahalli,1208.0,2.0,2.0,2.0,70.0,0.057947019867549666
+Thanisandra,2019.0,3.0,1.0,3.0,70.67,0.035002476473501735
+Hebbal,2790.0,5.0,3.0,4.0,204.0,0.07311827956989247
+Talaghattapura,2254.0,3.0,2.0,3.0,170.0,0.07542147293700088
+Old Airport Road,1875.0,2.0,2.0,3.0,110.0,0.058666666666666666
+Budigere,664.0,1.0,1.0,1.0,35.4,0.053313253012048194
+Sarjapur  Road,1577.0,3.0,2.0,3.0,65.0,0.04121750158528852
+BTM 2nd Stage,2400.0,3.0,2.0,4.0,400.0,0.16666666666666666
+Lakshminarayana Pura,1200.0,2.0,1.0,2.0,75.0,0.0625
+Banashankari,1181.0,2.0,1.0,2.0,75.0,0.06350550381033022
+Thanisandra,1573.0,3.0,2.0,3.0,115.0,0.07310870947234584
+Bhoganhalli,910.2,2.0,1.0,2.0,80.64,0.08859591298615689
+Devanahalli,1408.0,2.0,2.0,2.0,85.0,0.060369318181818184
+Balagere,1012.0,2.0,1.0,2.0,64.0,0.06324110671936758
+Kanakapura,1938.0,3.0,3.0,3.0,113.0,0.058307533539731685
+Thanisandra,1411.0,3.0,1.0,3.0,93.25,0.06608788093550673
+7th Phase JP Nagar,1040.0,2.0,1.0,2.0,41.59,0.03999038461538462
+Kaggadasapura,1200.0,2.0,2.0,2.0,53.0,0.04416666666666667
+Sarjapur  Road,1346.0,2.0,1.0,2.0,74.03,0.055
+Sarjapur  Road,1242.0,2.0,1.0,2.0,78.0,0.06280193236714976
+Chandapura,645.0,1.0,1.0,1.0,16.45,0.025503875968992246
+Kadugodi,1762.0,3.0,3.0,3.0,109.0,0.061861520998864925
+Bannerghatta Road,2400.0,4.0,1.0,4.0,344.0,0.14333333333333334
+Jakkur,1452.19,2.0,1.0,2.0,100.0,0.06886151261198603
+Whitefield,1220.0,2.0,1.0,2.0,55.0,0.045081967213114756
+Bannerghatta Road,1535.0,3.0,3.0,3.0,60.0,0.03908794788273615
+Sarjapur,535.0,1.0,1.0,2.0,20.0,0.037383177570093455
+Electronic City,1128.0,2.0,1.0,2.0,68.0,0.06028368794326241
+Chandapura,650.0,1.0,1.0,2.0,17.0,0.026153846153846153
+Uttarahalli,1045.0,2.0,1.0,2.0,45.0,0.0430622009569378
+Koramangala,1320.0,2.0,1.0,2.0,165.0,0.125
+Thigalarapalya,2072.0,4.0,2.0,3.0,150.0,0.07239382239382239
+Brookefield,1746.0,3.0,3.0,3.0,115.0,0.06586483390607102
+Budigere,693.0,1.0,0.0,1.0,27.375,0.039502164502164504
+Uttarahalli,1100.0,1.0,2.0,2.0,45.0,0.04090909090909091
+Marathahalli,1200.0,2.0,1.0,2.0,67.0,0.05583333333333333
+TC Palaya,1082.0,2.0,2.0,2.0,64.0,0.059149722735674676
+Bellandur,1260.0,2.0,2.0,2.0,83.5,0.06626984126984127
+Whitefield,1276.0,2.0,1.0,2.0,69.5,0.05446708463949843
+Hormavu,1200.0,2.0,3.0,2.0,68.0,0.056666666666666664
+Begur Road,1500.0,2.0,3.0,3.0,70.0,0.04666666666666667
+Uttarahalli,1125.0,1.0,2.0,2.0,45.0,0.04
+Thanisandra,1847.0,3.0,2.0,3.0,123.0,0.06659447753113157
+Uttarahalli,1345.0,2.0,1.0,3.0,57.0,0.04237918215613383
+Hormavu,1020.0,2.0,2.0,2.0,45.75,0.04485294117647059
+Haralur Road,1140.0,2.0,1.0,2.0,42.0,0.03684210526315789
+Bellandur,1220.0,2.0,2.0,2.0,60.0,0.04918032786885246
+CV Raman Nagar,1225.0,2.0,2.0,2.0,47.88,0.039085714285714286
+Bisuvanahalli,1075.0,3.0,2.0,3.0,36.0,0.03348837209302326
+Hebbal Kempapura,1200.0,3.0,0.0,3.0,125.0,0.10416666666666667
+Jigani,1245.0,3.0,3.0,3.0,66.0,0.05301204819277108
+Akshaya Nagar,1430.0,2.0,2.0,3.0,75.0,0.05244755244755245
+Hosa Road,1538.0,3.0,1.0,3.0,107.0,0.06957087126137841
+Hulimavu,3035.0,5.0,3.0,3.0,220.0,0.07248764415156507
+Kanakpura Road,1296.0,2.0,2.0,2.0,105.0,0.08101851851851852
+Electronic City,1165.0,2.0,1.0,2.0,33.65,0.02888412017167382
+Thigalarapalya,1418.0,2.0,2.0,2.0,103.0,0.07263751763046544
+Hosakerehalli,2400.0,5.0,0.0,5.0,250.0,0.10416666666666667
+Sahakara Nagar,1270.0,2.0,1.0,2.0,96.0,0.07559055118110236
+TC Palaya,2000.0,3.0,1.0,3.0,76.0,0.038
+Kanakpura Road,700.0,2.0,1.0,2.0,36.0,0.05142857142857143
+Kothanur,1140.0,2.0,2.0,2.0,56.0,0.04912280701754386
+Hebbal,1250.0,2.0,1.0,2.0,55.55,0.04444
+Kanakpura Road,1452.0,3.0,3.0,3.0,60.98,0.04199724517906336
+Bannerghatta Road,1510.0,2.0,3.0,3.0,110.0,0.0728476821192053
+Hosa Road,1665.0,2.0,3.0,3.0,125.0,0.07507507507507508
+Yeshwanthpur,1876.0,3.0,3.0,3.0,160.0,0.08528784648187633
+Thanisandra,1411.0,3.0,2.0,3.0,100.0,0.07087172218284904
+Electronic City,1360.0,2.0,1.0,3.0,71.0,0.05220588235294118
+Kudlu Gate,1564.0,2.0,1.0,3.0,92.0,0.058823529411764705
+Harlur,2138.0,3.0,2.0,3.0,110.0,0.05144995322731525
+Kundalahalli,1175.0,2.0,1.0,2.0,65.0,0.05531914893617021
+TC Palaya,1500.0,2.0,0.0,2.0,75.0,0.05
+Kanakpura Road,1070.0,2.0,2.0,2.0,37.45,0.035
+Whitefield,2173.0,3.0,2.0,3.0,128.0,0.05890473999079614
+5th Phase JP Nagar,600.0,1.0,1.0,1.0,30.0,0.05
+Whitefield,2010.0,3.0,2.0,3.0,91.0,0.04527363184079602
+Kanakpura Road,1283.0,2.0,2.0,2.0,63.22,0.04927513639906469
+Akshaya Nagar,1420.0,2.0,2.0,3.0,75.0,0.0528169014084507
+Anekal,967.0,2.0,1.0,3.0,45.0,0.04653567735263702
+Kalena Agrahara,800.0,2.0,1.0,2.0,40.0,0.05
+Whitefield,825.0,1.0,1.0,1.0,44.9,0.054424242424242424
+9th Phase JP Nagar,600.0,3.0,2.0,3.0,85.0,0.14166666666666666
+Whitefield,1215.0,2.0,1.0,2.0,62.0,0.05102880658436214
+Sarjapur,913.0,2.0,1.0,2.0,36.0,0.03943044906900329
+Hosa Road,800.0,1.0,0.0,1.0,39.99,0.049987500000000004
+Kanakpura Road,1938.0,3.0,3.0,3.0,92.69,0.04782765737874097
+Talaghattapura,2099.0,3.0,3.0,3.0,147.0,0.07003334921391138
+Electronics City Phase 1,640.0,1.0,1.0,1.0,45.0,0.0703125
+Yelahanka,1322.0,2.0,2.0,2.0,86.0,0.06505295007564296
+Talaghattapura,1062.0,2.0,1.0,2.0,42.48,0.039999999999999994
+Hennur Road,1480.0,2.0,2.0,2.0,65.0,0.04391891891891892
+Channasandra,1093.0,2.0,1.0,2.0,37.0,0.03385178408051235
+Electronics City Phase 1,1550.0,2.0,2.0,3.0,82.0,0.05290322580645161
+Haralur Road,1850.0,3.0,0.0,3.0,110.0,0.05945945945945946
+Akshaya Nagar,2000.0,1.0,0.0,1.0,200.0,0.1
+Bommasandra,1035.0,2.0,1.0,2.0,41.73,0.04031884057971014
+Bannerghatta Road,1400.0,3.0,0.0,3.0,68.0,0.04857142857142857
+Yelahanka,1491.0,3.0,2.0,3.0,85.0,0.05700871898054997
+Mysore Road,947.55,2.0,1.0,2.0,80.0,0.08442826236082529
+Marathahalli,1710.0,3.0,2.0,3.0,100.0,0.05847953216374269
+Whitefield,1200.0,2.0,1.0,2.0,45.0,0.0375
+Malleshwaram,2600.0,3.0,1.0,3.0,237.0,0.09115384615384615
+Thanisandra,1185.0,2.0,2.0,2.0,43.66,0.036843881856540084
+Whitefield,1840.0,3.0,2.0,3.0,140.0,0.07608695652173914
+Electronic City,921.0,2.0,1.0,2.0,34.0,0.03691639522258415
+Rajaji Nagar,3100.0,4.0,3.0,4.0,550.0,0.1774193548387097
+Budigere,1139.0,2.0,2.0,2.0,56.85,0.04991220368744513
+Hosakerehalli,2480.0,4.0,1.0,3.0,265.0,0.10685483870967742
+Yelahanka,1282.0,2.0,1.0,3.0,48.72,0.038003120124804994
+Jigani,1199.7,3.0,2.0,4.0,160.0,0.13336667500208385
+Yelahanka,1102.0,2.0,0.0,2.0,52.0,0.047186932849364795
+Electronic City,2093.0,4.0,1.0,4.0,104.0,0.049689440993788817
+Kudlu Gate,1535.0,3.0,2.0,3.0,83.0,0.054071661237785014
+Sarjapur  Road,1249.0,3.0,2.0,3.0,44.71,0.035796637309847876
+Nagarbhavi,1350.0,2.0,2.0,3.0,54.6,0.04044444444444444
+Haralur Road,1300.0,2.0,2.0,2.0,75.0,0.057692307692307696
+Haralur Road,1194.0,2.0,2.0,2.0,46.0,0.038525963149078725
+Yelahanka,2710.0,3.0,1.0,3.0,251.0,0.09261992619926199
+Electronic City,1500.0,2.0,1.0,3.0,78.25,0.05216666666666667
+Subramanyapura,960.0,2.0,1.0,2.0,55.0,0.057291666666666664
+Chikkalasandra,1224.0,2.0,2.0,2.0,45.0,0.03676470588235294
+Hebbal Kempapura,1485.0,3.0,3.0,2.0,132.0,0.08888888888888889
+7th Phase JP Nagar,1680.0,3.0,2.0,3.0,125.0,0.0744047619047619
+Hosakerehalli,925.0,2.0,1.0,2.0,46.5,0.05027027027027027
+HSR Layout,1140.0,2.0,2.0,2.0,46.0,0.04035087719298246
+Subramanyapura,985.0,2.0,1.0,2.0,62.5,0.06345177664974619
+TC Palaya,900.0,2.0,0.0,2.0,55.0,0.06111111111111111
+Hennur Road,1703.0,3.0,0.0,3.0,101.0,0.059307105108631825
+Varthur,1360.0,2.0,3.0,3.0,85.0,0.0625
+Kanakapura,1460.0,2.0,3.0,3.0,43.79,0.029993150684931507
+Yelahanka,1590.0,2.0,2.0,3.0,54.0,0.033962264150943396
+Attibele,656.0,2.0,1.0,2.0,25.0,0.038109756097560975
+Rajaji Nagar,1200.0,2.0,0.0,2.0,150.0,0.125
+7th Phase JP Nagar,1850.0,3.0,2.0,3.0,140.0,0.07567567567567568
+Electronic City Phase II,1089.0,2.0,0.0,2.0,32.67,0.030000000000000002
+Whitefield,1608.0,2.0,3.0,3.0,63.0,0.03917910447761194
+Whitefield,1280.0,2.0,2.0,2.0,75.0,0.05859375
+Kanakapura,711.0,1.0,1.0,1.0,36.0,0.05063291139240506
+Basavangudi,1050.0,2.0,1.0,2.0,103.0,0.0980952380952381
+Old Airport Road,2774.0,4.0,3.0,4.0,197.0,0.07101658255227108
+Kothanur,1302.0,2.0,1.0,2.0,68.5,0.05261136712749616
+KR Puram,1200.0,2.0,0.0,2.0,90.0,0.075
+Begur Road,1200.0,2.0,2.0,2.0,45.6,0.038
+Raja Rajeshwari Nagar,1100.0,2.0,1.0,2.0,55.0,0.05
+Balagere,1020.07,2.0,1.0,2.0,68.38,0.06703461527150097
+Hosa Road,1161.0,2.0,1.0,2.0,55.15,0.047502153316106806
+Haralur Road,1243.0,2.0,2.0,2.0,46.0,0.03700724054706356
+Brookefield,1594.0,3.0,2.0,3.0,140.0,0.08782936010037641
+Rachenahalli,1550.0,3.0,3.0,3.0,73.5,0.047419354838709675
+Whitefield,1250.0,2.0,2.0,2.0,72.0,0.0576
+5th Phase JP Nagar,1390.0,2.0,2.0,2.0,65.0,0.046762589928057555
+KR Puram,3000.0,4.0,2.0,4.0,235.0,0.07833333333333334
+Sarjapur  Road,1309.0,2.0,3.0,2.0,69.5,0.05309396485867074
+Yelahanka,1036.0,2.0,2.0,2.0,39.37,0.0380019305019305
+Panathur,1370.0,2.0,2.0,3.0,61.5,0.04489051094890511
+Whitefield,1256.0,2.0,0.0,2.0,73.0,0.058121019108280256
+Chandapura,1230.0,2.0,2.0,3.0,31.37,0.025504065040650406
+9th Phase JP Nagar,890.0,2.0,2.0,2.0,45.0,0.05056179775280899
+Sarjapur  Road,984.0,2.0,1.0,2.0,45.91,0.04665650406504065
+Frazer Town,3436.0,5.0,0.0,4.0,345.0,0.10040745052386496
+Yelahanka New Town,488.0,1.0,1.0,1.0,20.0,0.040983606557377046
+Electronic City,1500.0,2.0,1.0,3.0,100.0,0.06666666666666667
+Electronic City,890.0,2.0,2.0,2.0,45.0,0.05056179775280899
+Hebbal,2470.0,5.0,2.0,4.0,247.0,0.1
+Raja Rajeshwari Nagar,1250.0,2.0,2.0,2.0,68.0,0.0544
+Hennur Road,1255.0,2.0,1.0,2.0,84.0,0.06693227091633466
+Haralur Road,1810.0,3.0,2.0,3.0,112.0,0.061878453038674036
+Yeshwanthpur,1170.0,2.0,2.0,2.0,57.0,0.04871794871794872
+Sarjapur  Road,1215.0,2.0,2.0,2.0,110.0,0.09053497942386832
+Electronic City,1600.0,3.0,2.0,3.0,104.0,0.065
+HSR Layout,1372.0,2.0,1.0,2.0,61.0,0.04446064139941691
+Akshaya Nagar,1720.0,3.0,1.0,3.0,134.0,0.07790697674418605
+Haralur Road,1255.0,3.0,1.0,3.0,90.0,0.07171314741035857
+Sarjapur  Road,2206.0,4.0,1.0,3.0,180.0,0.0815956482320943
+Raja Rajeshwari Nagar,1419.0,2.0,2.0,2.0,48.0,0.03382663847780127
+Bannerghatta Road,1520.0,2.0,3.0,3.0,80.0,0.05263157894736842
+Varthur,1280.0,2.0,0.0,2.0,65.0,0.05078125
+Anekal,1140.0,2.0,2.0,2.0,52.0,0.0456140350877193
+Bhoganhalli,1703.0,3.0,2.0,3.0,120.0,0.07046388725778038
+Thanisandra,1200.0,2.0,2.0,2.0,46.0,0.03833333333333333
+Whitefield,1255.0,2.0,3.0,2.0,77.0,0.06135458167330677
+Indira Nagar,1740.0,3.0,2.0,3.0,191.0,0.10977011494252874
+Kanakpura Road,1450.0,3.0,3.0,3.0,56.0,0.038620689655172416
+Electronic City,1355.0,2.0,1.0,2.0,67.0,0.04944649446494465
+Vijayanagar,864.0,2.0,0.0,2.0,45.0,0.052083333333333336
+Hebbal Kempapura,2302.0,4.0,2.0,4.0,300.0,0.13032145960034752
+Whitefield,2025.0,4.0,2.0,3.0,115.0,0.056790123456790124
+Sarjapur,3508.0,6.0,2.0,4.0,425.0,0.12115165336374002
+Anekal,1200.0,1.0,1.0,2.0,36.0,0.03
+Rachenahalli,996.0,2.0,1.0,2.0,67.0,0.06726907630522089
+Sarjapur  Road,2180.0,4.0,3.0,3.0,180.0,0.08256880733944955
+Yelahanka,1653.0,3.0,2.0,3.0,120.0,0.07259528130671507
+Hoodi,1660.0,3.0,2.0,3.0,128.0,0.07710843373493977
+Thanisandra,1146.0,2.0,1.0,2.0,38.0,0.03315881326352531
+Devanahalli,3210.0,4.0,0.0,4.0,192.0,0.059813084112149535
+Channasandra,1200.0,3.0,1.0,3.0,67.77,0.056475
+Rachenahalli,1050.0,2.0,2.0,2.0,52.71,0.0502
+Marathahalli,1358.0,2.0,1.0,2.0,81.0,0.05964653902798233
+Electronic City,1296.0,2.0,2.0,2.0,65.0,0.05015432098765432
+Indira Nagar,1145.0,2.0,2.0,2.0,100.0,0.08733624454148471
+Electronic City,1287.0,3.0,1.0,3.0,55.0,0.042735042735042736
+Hosakerehalli,1085.0,2.0,1.0,2.0,41.23,0.038
+Panathur,1199.0,2.0,1.0,2.0,85.0,0.07089241034195162
+Whitefield,1173.0,2.0,1.0,2.0,58.0,0.0494458653026428
+Sarjapur  Road,2900.0,3.0,2.0,3.0,285.0,0.09827586206896552
+Sarjapur  Road,1600.0,3.0,1.0,3.0,85.0,0.053125
+Raja Rajeshwari Nagar,1235.0,2.0,1.0,2.0,75.0,0.06072874493927125
+Electronic City,1108.0,2.0,1.0,2.0,67.15,0.06060469314079423
+Haralur Road,1056.0,2.0,1.0,2.0,61.0,0.05776515151515151
+Whitefield,1115.0,2.0,1.0,2.0,55.0,0.04932735426008968
+Kaggadasapura,1175.0,2.0,2.0,2.0,50.0,0.0425531914893617
+Electronic City,1025.0,2.0,1.0,2.0,53.9,0.052585365853658535
+Ramagondanahalli,1251.0,2.0,1.0,2.0,47.4,0.03788968824940048
+Whitefield,709.0,1.0,0.0,1.0,34.735,0.04899153737658674
+Hulimavu,1125.0,2.0,2.0,2.0,50.0,0.044444444444444446
+Bellandur,1200.0,2.0,1.0,2.0,52.0,0.043333333333333335
+Kaggadasapura,1495.0,3.0,2.0,3.0,60.0,0.04013377926421405
+Horamavu Agara,1166.0,2.0,1.0,2.0,37.29,0.0319811320754717
+Hosa Road,675.0,3.0,1.0,3.0,70.0,0.1037037037037037
+Sarjapur  Road,2070.0,4.0,2.0,3.0,160.0,0.07729468599033816
+Malleshwaram,2476.0,3.0,3.0,3.0,337.0,0.13610662358642972
+Jalahalli,1313.0,2.0,2.0,2.0,68.0,0.05178979436405179
+Varthur,1090.0,2.0,2.0,2.0,48.0,0.044036697247706424
+Devanahalli,1020.0,2.0,1.0,1.0,49.87,0.0488921568627451
+Jigani,1221.0,3.0,2.0,3.0,65.0,0.05323505323505324
+Harlur,2820.0,4.0,0.0,4.0,153.5,0.05443262411347518
+Kanakpura Road,1080.0,2.0,1.0,2.0,37.8,0.034999999999999996
+Basavangudi,1560.0,2.0,2.0,2.0,145.0,0.09294871794871795
+Bisuvanahalli,850.0,1.0,1.0,2.0,32.0,0.03764705882352941
+7th Phase JP Nagar,3600.0,3.0,2.0,4.0,410.0,0.11388888888888889
+Yelahanka,1040.0,2.0,1.0,2.0,48.86,0.04698076923076923
+Hennur,1255.0,2.0,2.0,2.0,53.5,0.042629482071713146
+Kengeri Satellite Town,1635.0,2.0,0.0,3.0,78.0,0.047706422018348627
+Jigani,1221.0,3.0,3.0,3.0,72.0,0.05896805896805897
+Sarjapur  Road,1550.0,2.0,2.0,3.0,98.0,0.06322580645161291
+HSR Layout,1126.0,2.0,1.0,2.0,69.0,0.06127886323268206
+Kengeri Satellite Town,635.0,1.0,1.0,2.0,22.0,0.03464566929133858
+Gottigere,1120.0,2.0,2.0,2.0,50.0,0.044642857142857144
+Electronic City,1210.0,2.0,1.0,2.0,55.0,0.045454545454545456
+Hegde Nagar,1200.0,2.0,0.0,2.0,75.0,0.0625
+Thanisandra,3600.0,9.0,3.0,8.0,125.0,0.034722222222222224
+Whitefield,1200.0,2.0,3.0,2.0,70.0,0.058333333333333334
+Kengeri,1436.0,2.0,2.0,3.0,55.0,0.0383008356545961
+Sarjapur  Road,2497.0,3.0,2.0,3.0,140.0,0.05606728073688426
+Electronic City Phase II,1140.0,2.0,1.0,2.0,32.92,0.02887719298245614
+Raja Rajeshwari Nagar,1151.0,2.0,2.0,2.0,39.02,0.03390095569070374
+TC Palaya,1200.0,2.0,1.0,2.0,70.0,0.058333333333333334
+Kaggadasapura,1050.0,2.0,2.0,2.0,48.0,0.045714285714285714
+Electronic City,1150.0,2.0,2.0,2.0,35.0,0.030434782608695653
+Whitefield,1280.0,2.0,1.0,2.0,75.0,0.05859375
+Begur Road,1634.0,3.0,1.0,3.0,83.33,0.05099755201958384
+Whitefield,805.0,2.0,2.0,2.0,35.0,0.043478260869565216
+Kengeri Satellite Town,654.0,1.0,1.0,1.0,22.0,0.03363914373088685
+R.T. Nagar,2000.0,4.0,2.0,4.0,320.0,0.16
+Marathahalli,1469.0,3.0,1.0,3.0,89.0,0.0605854322668482
+Jalahalli,1395.0,3.0,3.0,3.0,82.0,0.05878136200716846
+Marathahalli,1600.0,3.0,3.0,3.0,58.0,0.03625
+Hosa Road,1470.0,2.0,2.0,3.0,84.22,0.05729251700680272
+Attibele,1700.0,3.0,1.0,3.0,65.0,0.03823529411764706
+Bellandur,3600.0,4.0,0.0,4.0,260.0,0.07222222222222222
+Hoodi,1108.0,2.0,1.0,2.0,87.0,0.07851985559566788
+Vijayanagar,2100.0,6.0,1.0,4.0,252.0,0.12
+Ramagondanahalli,1151.0,2.0,2.0,2.0,48.77,0.04237185056472633
+Whitefield,2403.0,5.0,0.0,4.0,360.0,0.149812734082397
+Rajaji Nagar,2367.0,3.0,2.0,3.0,320.0,0.13519222644697929
+Sarjapur  Road,1229.0,2.0,2.0,2.0,70.0,0.05695687550854353
+Kasavanhalli,2035.0,3.0,2.0,3.0,142.0,0.06977886977886978
+Haralur Road,1140.0,2.0,2.0,2.0,43.0,0.037719298245614034
+Hosur Road,1194.0,2.0,0.0,2.0,69.0,0.05778894472361809
+Whitefield,1216.0,2.0,1.0,2.0,83.0,0.06825657894736842
+Whitefield,1350.0,3.0,2.0,3.0,54.0,0.04
+Jalahalli,2086.0,3.0,2.0,3.0,160.0,0.07670182166826463
+Ramagondanahalli,1251.0,2.0,1.0,2.0,53.0,0.042366107114308556
+Sarjapur  Road,3335.0,4.0,3.0,4.0,300.0,0.08995502248875563
+Bannerghatta Road,1302.5,2.0,0.0,2.0,67.73,0.052000000000000005
+Channasandra,1093.0,2.0,1.0,2.0,34.0,0.03110704483074108
+Yelahanka,1025.0,2.0,1.0,2.0,44.0,0.042926829268292686
+Marathahalli,1230.0,2.0,2.0,2.0,80.0,0.06504065040650407
+Yelahanka,2317.0,4.0,3.0,3.0,140.0,0.06042296072507553
+Electronic City Phase II,1160.0,2.0,1.0,2.0,52.2,0.045000000000000005
+Brookefield,1589.0,3.0,2.0,3.0,74.0,0.04657016991818754
+Thanisandra,760.0,1.0,2.0,1.0,50.3,0.06618421052631579
+Varthur,1250.0,3.0,0.0,3.0,71.0,0.0568
+Hegde Nagar,3500.0,5.0,2.0,4.0,450.0,0.12857142857142856
+Kudlu Gate,1535.0,3.0,2.0,3.0,86.0,0.056026058631921824
+Kaggadasapura,1215.0,2.0,3.0,2.0,43.0,0.03539094650205761
+Rajaji Nagar,2367.0,3.0,3.0,3.0,375.0,0.15842839036755388
+Yelahanka,1322.0,2.0,2.0,2.0,75.0,0.056732223903177004
+Banashankari,1040.0,2.0,3.0,2.0,45.0,0.04326923076923077
+9th Phase JP Nagar,1080.0,2.0,2.0,2.0,37.0,0.03425925925925926
+Raja Rajeshwari Nagar,1693.0,3.0,1.0,3.0,71.38,0.042161842882457175
+Kanakpura Road,700.0,2.0,1.0,2.0,35.0,0.05
+Bhoganhalli,1053.4,3.0,1.0,3.0,88.91,0.08440288589329788
+Kanakpura Road,1419.59,2.0,1.0,3.0,59.0,0.041561295867116564
+Whitefield,1639.5,3.0,0.0,3.0,92.63,0.05649893260140287
+Whitefield,1655.0,3.0,1.0,3.0,108.0,0.06525679758308157
+9th Phase JP Nagar,1571.0,3.0,2.0,3.0,65.0,0.041374920432845325
+Hulimavu,1450.0,3.0,3.0,3.0,72.0,0.0496551724137931
+Old Airport Road,1184.0,2.0,1.0,2.0,78.0,0.06587837837837837
+Yeshwanthpur,1185.0,2.0,2.0,2.0,75.84,0.064
+Gottigere,1235.0,2.0,2.0,2.0,63.0,0.05101214574898785
+Subramanyapura,958.0,2.0,1.0,2.0,33.53,0.035
+Electronic City Phase II,1320.0,2.0,1.0,3.0,38.12,0.028878787878787875
+Hosur Road,1656.0,2.0,1.0,2.0,120.0,0.07246376811594203
+BTM 2nd Stage,1100.0,2.0,2.0,2.0,70.0,0.06363636363636363
+Marathahalli,615.0,1.0,1.0,1.0,44.0,0.07154471544715447
+Marathahalli,1710.0,3.0,2.0,3.0,135.0,0.07894736842105263
+Hebbal,1255.0,2.0,1.0,3.0,90.0,0.07171314741035857
+Bellandur,1685.0,3.0,3.0,3.0,101.0,0.0599406528189911
+Kudlu,1600.0,3.0,3.0,3.0,79.0,0.049375
+Bisuvanahalli,1075.0,2.0,1.0,3.0,31.0,0.02883720930232558
+Jigani,927.0,2.0,2.0,2.0,55.0,0.0593311758360302
+Kasavanhalli,1147.0,2.0,1.0,2.0,60.0,0.05231037489102005
+Thanisandra,1732.0,3.0,3.0,3.0,85.73,0.049497690531177835
+Bannerghatta Road,1270.0,2.0,2.0,2.0,45.0,0.03543307086614173
+Raja Rajeshwari Nagar,1128.0,2.0,2.0,2.0,38.24,0.03390070921985816
+Whitefield,1200.0,3.0,2.0,3.0,67.75,0.05645833333333333
+Begur Road,2462.0,6.0,2.0,4.0,150.0,0.060926076360682375
+Bannerghatta Road,2700.0,5.0,0.0,5.0,158.0,0.05851851851851852
+Hoodi,1425.0,2.0,2.0,2.0,80.0,0.056140350877192984
+Jakkur,1858.0,3.0,1.0,3.0,98.3,0.052906350914962326
+Chandapura,645.0,1.0,1.0,1.0,16.45,0.025503875968992246
+Bhoganhalli,1718.0,3.0,2.0,3.0,90.2,0.05250291036088475
+Kanakpura Road,1560.0,3.0,0.0,3.0,92.0,0.05897435897435897
+Begur Road,1170.0,2.0,2.0,2.0,46.0,0.039316239316239315
+Panathur,1075.0,2.0,2.0,2.0,60.0,0.05581395348837209
+Jakkur,1150.0,3.0,2.0,3.0,65.0,0.05652173913043478
+Electronics City Phase 1,940.0,2.0,1.0,2.0,40.0,0.0425531914893617
+Tumkur Road,1137.5,2.0,0.0,2.0,48.905,0.04299340659340659
+Kanakapura,2130.0,4.0,0.0,4.0,120.0,0.056338028169014086
+Sarjapur  Road,539.0,1.0,1.0,1.0,45.0,0.08348794063079777
+Whitefield,1216.0,2.0,1.0,2.0,69.0,0.05674342105263158
+Thigalarapalya,2072.0,4.0,2.0,3.0,155.0,0.07480694980694981
+Somasundara Palya,1600.0,3.0,3.0,3.0,69.0,0.043125
+Hegde Nagar,1500.0,3.0,2.0,3.0,135.0,0.09
+Hosur Road,1345.0,2.0,2.0,2.0,106.0,0.07881040892193308
+9th Phase JP Nagar,1240.0,2.0,2.0,3.0,42.85,0.03455645161290323
+Hoodi,780.0,3.0,1.0,3.0,62.0,0.07948717948717948
+Tumkur Road,1250.0,2.0,2.0,2.0,33.0,0.0264
+Hebbal,2470.0,5.0,2.0,4.0,192.0,0.07773279352226721
+Chandapura,1107.0,2.0,1.0,3.0,43.0,0.03884372177055104
+Hennur Road,1165.0,2.0,1.0,2.0,52.0,0.04463519313304721
+Thigalarapalya,1418.0,2.0,2.0,2.0,101.0,0.07122708039492243
+Varthur,1055.0,2.0,2.0,2.0,45.35,0.042985781990521325
+Kanakpura Road,700.0,2.0,1.0,2.0,34.99,0.049985714285714286
+Bommanahalli,1250.0,2.0,2.0,3.0,42.5,0.034
+Sarjapur  Road,1216.0,2.0,2.0,2.0,70.0,0.05756578947368421
+TC Palaya,1240.0,2.0,1.0,2.0,60.0,0.04838709677419355
+Hennur Road,2089.0,3.0,2.0,3.0,140.0,0.06701771182383916
+Whitefield,2225.0,2.0,1.0,3.0,125.0,0.056179775280898875
+Begur Road,1334.0,2.0,3.0,2.0,42.69,0.032001499250374814
+Vittasandra,1404.0,2.0,1.0,2.0,71.0,0.05056980056980057
+Kanakapura,1254.0,2.0,2.0,3.0,70.0,0.05582137161084529
+Jakkur,1300.0,2.0,2.0,2.0,80.0,0.06153846153846154
+Devanahalli,658.0,1.0,1.0,1.0,26.91,0.04089665653495441
+Balagere,1205.0,2.0,1.0,2.0,70.0,0.058091286307053944
+Raja Rajeshwari Nagar,1700.0,2.0,2.0,3.0,86.0,0.05058823529411765
+Yelahanka,1614.0,2.0,1.0,3.0,100.0,0.061957868649318466
+Hormavu,1050.0,2.0,1.0,2.0,77.0,0.07333333333333333
+Vittasandra,1246.0,2.0,1.0,2.0,67.5,0.05417335473515249
+Haralur Road,1194.0,2.0,2.0,2.0,46.0,0.038525963149078725
+Whitefield,1295.0,2.0,1.0,2.0,64.5,0.04980694980694981
+Old Madras Road,3715.0,6.0,0.0,4.0,212.5,0.05720053835800808
+Electronics City Phase 1,755.0,1.0,1.0,1.0,42.41,0.056172185430463574
+KR Puram,1140.0,2.0,1.0,2.0,43.32,0.038
+Basavangudi,1100.0,2.0,3.0,2.0,93.0,0.08454545454545455
+Chikkalasandra,1230.0,2.0,2.0,3.0,53.51,0.04350406504065041
+Gottigere,891.0,2.0,1.0,2.0,25.0,0.028058361391694726
+Malleshwaram,2475.0,4.0,3.0,3.0,300.0,0.12121212121212122
+Banashankari,1175.0,2.0,1.0,2.0,41.13,0.03500425531914894
+Hormavu,1180.0,2.0,2.0,2.0,50.0,0.0423728813559322
+Hosur Road,1427.0,2.0,1.0,3.0,80.63,0.056503153468815695
+Sarjapur,2302.5,4.0,0.0,4.0,80.59,0.03500108577633008
+Electronic City,1150.0,2.0,1.0,2.0,38.0,0.03304347826086956
+Jalahalli,1478.0,2.0,2.0,2.0,125.0,0.08457374830852503
+Whitefield,1356.0,2.0,1.0,2.0,94.84,0.0699410029498525
+Mahadevpura,1601.0,3.0,2.0,3.0,95.0,0.05933791380387258
+HSR Layout,1203.0,2.0,2.0,2.0,60.0,0.04987531172069826
+Koramangala,1370.0,2.0,2.0,2.0,125.0,0.09124087591240876
+Jakkur,1260.0,2.0,0.0,2.0,71.195,0.05650396825396825
+Vittasandra,1246.0,2.0,1.0,2.0,64.5,0.05176565008025682
+Mahadevpura,1120.0,2.0,2.0,2.0,53.0,0.04732142857142857
+Whitefield,2882.0,5.0,1.0,4.0,158.0,0.054823039555863984
+Kothanur,1070.0,2.0,1.0,2.0,45.5,0.04252336448598131
+R.T. Nagar,1380.0,2.0,1.0,3.0,50.0,0.036231884057971016
+TC Palaya,1200.0,2.0,0.0,2.0,60.0,0.05
+Devanahalli,1260.0,2.0,2.0,2.0,66.78,0.053
+Whitefield,2268.0,3.0,2.0,4.0,163.0,0.0718694885361552
+BTM 2nd Stage,1750.0,3.0,3.0,3.0,172.0,0.09828571428571428
+Electronics City Phase 1,940.0,2.0,2.0,2.0,49.0,0.052127659574468084
+Kengeri,600.0,3.0,1.0,3.0,90.0,0.15
+KR Puram,1050.0,2.0,2.0,2.0,55.0,0.05238095238095238
+Hennur,1100.0,2.0,1.0,2.0,44.55,0.040499999999999994
+Electronic City,1089.0,2.0,2.0,2.0,45.0,0.04132231404958678
+Bannerghatta Road,1460.0,2.0,1.0,3.0,90.0,0.06164383561643835
+Koramangala,1320.0,2.0,1.0,2.0,160.0,0.12121212121212122
+Kundalahalli,1047.0,2.0,1.0,2.0,82.62,0.07891117478510029
+KR Puram,1150.0,2.0,1.0,2.0,42.0,0.036521739130434785
+Ramamurthy Nagar,1208.0,2.0,2.0,3.0,43.5,0.036009933774834434
+Sarjapur  Road,1180.0,2.0,2.0,3.0,45.0,0.038135593220338986
+Raja Rajeshwari Nagar,1145.0,2.0,2.0,2.0,45.79,0.03999126637554585
+Kudlu,1570.0,2.0,2.0,3.0,65.94,0.041999999999999996
+HSR Layout,1142.0,2.0,2.0,2.0,65.0,0.05691768826619965
+Attibele,900.0,1.0,1.0,2.0,25.0,0.027777777777777776
+Sarjapur  Road,3040.0,4.0,2.0,4.0,135.0,0.044407894736842105
+Bisuvanahalli,1080.0,2.0,2.0,3.0,65.0,0.06018518518518518
+Uttarahalli,1345.0,2.0,1.0,3.0,57.0,0.04237918215613383
+Electronic City,1130.0,2.0,1.0,2.0,32.63,0.02887610619469027
+Bisuvanahalli,1180.0,2.0,1.0,3.0,46.0,0.03898305084745763
+Raja Rajeshwari Nagar,1255.0,2.0,1.0,2.0,53.87,0.04292430278884462
+Chandapura,1025.0,2.0,2.0,2.0,27.68,0.027004878048780486
+Sarjapur  Road,1115.0,2.0,2.0,2.0,50.0,0.04484304932735426
+Kanakpura Road,1300.0,2.0,1.0,2.0,89.76,0.06904615384615385
+Jakkur,1125.0,2.0,2.0,2.0,65.0,0.057777777777777775
+Old Madras Road,935.0,2.0,1.0,2.0,32.72,0.03499465240641711
+Yeshwanthpur,1430.0,3.0,2.0,3.0,72.0,0.05034965034965035
+Bhoganhalli,1458.0,3.0,1.0,3.0,78.45,0.05380658436213992
+KR Puram,1100.0,2.0,2.0,2.0,43.0,0.03909090909090909
+Hebbal,1175.0,2.0,0.0,2.0,54.05,0.046
+Uttarahalli,1345.0,2.0,1.0,2.0,67.0,0.04981412639405204
+Kodichikkanahalli,1025.0,2.0,2.0,2.0,66.0,0.06439024390243903
+Whitefield,2210.0,3.0,2.0,3.0,156.0,0.07058823529411765
+Devanahalli,698.5,1.0,0.0,1.0,28.57,0.040901932712956335
+Thigalarapalya,3122.0,6.0,2.0,4.0,245.0,0.07847533632286996
+Electronic City,1355.0,2.0,1.0,2.0,72.9,0.053800738007380076
+Whitefield,1500.0,3.0,1.0,3.0,130.0,0.08666666666666667
+Hormavu,1143.0,2.0,1.0,2.0,53.0,0.04636920384951881
+Ramamurthy Nagar,1200.0,2.0,1.0,2.0,78.0,0.065
+Marathahalli,1102.0,2.0,2.0,2.0,53.67,0.04870235934664247
+Kadugodi,3000.0,4.0,0.0,4.0,134.0,0.04466666666666667
+Electronics City Phase 1,2040.0,3.0,2.0,3.0,137.0,0.06715686274509804
+Vijayanagar,1178.0,2.0,3.0,2.0,82.0,0.06960950764006792
+Electronics City Phase 1,1175.0,2.0,1.0,2.0,57.0,0.04851063829787234
+Uttarahalli,1330.0,2.0,1.0,3.0,57.0,0.04285714285714286
+Bellandur,1685.0,3.0,3.0,3.0,100.0,0.05934718100890208
+Uttarahalli,1279.0,2.0,2.0,2.0,48.0,0.03752931978107897
+Marathahalli,1220.0,2.0,1.0,2.0,56.5,0.046311475409836066
+R.T. Nagar,1235.0,2.0,2.0,2.0,65.0,0.05263157894736842
+Hebbal,1255.0,3.0,2.0,3.0,77.68,0.061896414342629484
+Yelahanka,1590.0,2.0,1.0,3.0,54.0,0.033962264150943396
+Gottigere,1460.0,2.0,2.0,3.0,65.0,0.04452054794520548
+Panathur,1210.0,2.0,1.0,2.0,77.93,0.06440495867768596
+Electronic City Phase II,1502.0,3.0,3.0,3.0,50.0,0.033288948069241014
+Hennur Road,2060.0,3.0,1.0,3.0,149.0,0.07233009708737864
+7th Phase JP Nagar,980.0,2.0,1.0,2.0,86.0,0.08775510204081632
+R.T. Nagar,1500.0,2.0,0.0,2.0,230.0,0.15333333333333332
+JP Nagar,1100.0,2.0,2.0,2.0,70.0,0.06363636363636363
+Banashankari,1650.0,3.0,2.0,3.0,90.75,0.055
+Electronic City,1400.0,3.0,1.0,3.0,90.0,0.06428571428571428
+Doddathoguru,1107.0,2.0,3.0,2.0,44.0,0.03974706413730804
+Bannerghatta Road,3000.0,4.0,2.0,4.0,140.0,0.04666666666666667
+Whitefield,2500.0,4.0,1.0,4.0,420.0,0.168
+Kengeri,750.0,2.0,1.0,2.0,40.0,0.05333333333333334
+Kaggadasapura,1150.0,2.0,3.0,2.0,42.0,0.036521739130434785
+Raja Rajeshwari Nagar,1580.0,2.0,2.0,3.0,66.85,0.04231012658227848
+Hennur Road,1445.0,3.0,1.0,3.0,86.56,0.059903114186851215
+Frazer Town,1870.0,3.0,3.0,3.0,180.0,0.0962566844919786
+Chikkalasandra,1355.0,3.0,2.0,3.0,54.2,0.04
+Hegde Nagar,1569.0,3.0,1.0,3.0,101.0,0.06437221159974506
+Gottigere,812.0,1.0,1.0,1.0,26.0,0.03201970443349754
+Green Glen Layout,940.0,2.0,1.0,2.0,56.8,0.06042553191489362
+HSR Layout,1430.0,2.0,1.0,3.0,65.0,0.045454545454545456
+Frazer Town,1700.01,3.0,1.0,3.0,180.0,0.10588173010746996
+Kanakpura Road,1550.0,3.0,3.0,3.0,67.0,0.043225806451612905
+Bommanahalli,1000.0,2.0,2.0,2.0,29.9,0.0299
+Sarjapur  Road,675.0,1.0,1.0,1.0,27.0,0.04
+Horamavu Agara,1557.0,3.0,1.0,3.0,70.0,0.0449582530507386
+Kanakpura Road,700.0,2.0,1.0,2.0,40.0,0.05714285714285714
+Hebbal,1328.0,2.0,2.0,3.0,60.0,0.045180722891566265
+7th Phase JP Nagar,1212.0,3.0,1.0,2.0,42.0,0.034653465346534656
+Thanisandra,1573.0,3.0,1.0,3.0,90.0,0.05721551176096631
+Hegde Nagar,1718.0,3.0,2.0,3.0,119.0,0.06926658905704307
+Sarjapur  Road,2500.0,4.0,3.0,4.0,225.0,0.09
+Thanisandra,2050.0,3.0,1.0,3.0,145.0,0.07073170731707316
+Gottigere,1385.0,3.0,2.0,3.0,64.0,0.046209386281588445
+JP Nagar,1300.0,2.0,1.0,2.0,90.87,0.0699
+Doddathoguru,1875.0,3.0,1.0,3.0,55.0,0.029333333333333333
+Whitefield,1495.0,2.0,0.0,3.0,67.0,0.044816053511705686
+Hebbal,2470.0,4.0,2.0,4.0,203.0,0.08218623481781377
+Koramangala,2461.0,6.0,2.0,4.0,353.0,0.14343762698090207
+Budigere,764.0,1.0,1.0,1.0,32.0,0.041884816753926704
+Electronic City,1025.0,2.0,1.0,2.0,46.0,0.0448780487804878
+Kanakpura Road,3500.0,6.0,2.0,4.0,225.0,0.06428571428571428
+Hennur,1830.0,2.0,3.0,3.0,113.0,0.06174863387978142
+Sarjapur  Road,2145.0,3.0,3.0,3.0,190.0,0.08857808857808858
+Kanakpura Road,1300.0,2.0,3.0,3.0,69.0,0.05307692307692308
+7th Phase JP Nagar,1460.0,2.0,2.0,3.0,100.0,0.0684931506849315
+Hennur,1255.0,2.0,2.0,2.0,54.5,0.04342629482071713
+Thanisandra,1200.0,2.0,1.0,2.0,53.5,0.044583333333333336
+Kundalahalli,1120.0,2.0,1.0,2.0,53.76,0.048
+Rajaji Nagar,1640.0,3.0,3.0,3.0,230.0,0.1402439024390244
+Rajaji Nagar,3436.0,6.0,3.0,4.0,475.0,0.13824214202561116
+Jigani,1252.0,3.0,3.0,3.0,61.0,0.048722044728434506
+Bommasandra,842.0,2.0,2.0,2.0,30.0,0.035629453681710214
+Haralur Road,1455.0,2.0,1.0,2.0,145.0,0.09965635738831616
+Bannerghatta Road,892.0,2.0,1.0,2.0,39.0,0.043721973094170405
+Bannerghatta Road,970.0,2.0,1.0,2.0,57.0,0.058762886597938144
+TC Palaya,1475.0,3.0,1.0,3.0,98.0,0.06644067796610169
+5th Phase JP Nagar,1075.0,2.0,2.0,2.0,60.0,0.05581395348837209
+Koramangala,1100.0,2.0,2.0,2.0,85.0,0.07727272727272727
+Uttarahalli,1250.0,2.0,3.0,3.0,50.0,0.04
+Budigere,1820.0,3.0,2.0,3.0,85.2,0.046813186813186816
+Banashankari,1200.0,3.0,2.0,3.0,74.52,0.062099999999999995
+Begur Road,2464.5,6.0,0.0,4.0,118.0,0.04787989450192737
+Jakkur,1950.0,3.0,2.0,3.0,131.0,0.06717948717948719
+Electronics City Phase 1,360.0,1.0,0.0,1.0,16.9,0.04694444444444444
+Balagere,645.0,1.0,1.0,1.0,55.0,0.08527131782945736
+Hulimavu,1231.0,2.0,1.0,2.0,84.5,0.0686433793663688
+Dodda Nekkundi,1100.0,2.0,1.0,2.0,41.15,0.037409090909090906
+Green Glen Layout,1750.0,3.0,2.0,3.0,120.0,0.06857142857142857
+Yeshwanthpur,1852.0,3.0,2.0,3.0,160.0,0.08639308855291576
+Uttarahalli,1089.0,2.0,1.0,2.0,43.55,0.03999081726354453
+Subramanyapura,958.0,2.0,1.0,2.0,34.49,0.03600208768267223
+Raja Rajeshwari Nagar,1240.0,2.0,2.0,2.0,42.04,0.03390322580645161
+Rajaji Nagar,2733.0,5.0,2.0,4.0,259.0,0.09476765459202342
+8th Phase JP Nagar,1605.0,2.0,2.0,3.0,65.0,0.040498442367601244
+Bellandur,1400.0,2.0,2.0,3.0,44.81,0.03200714285714286
+Sarjapur  Road,1016.0,2.0,1.0,2.0,45.0,0.04429133858267716
+Hebbal,1645.0,3.0,2.0,3.0,117.0,0.07112462006079028
+Haralur Road,2805.0,4.0,3.0,4.0,154.0,0.054901960784313725
+Jigani,2400.0,3.0,2.0,3.0,149.0,0.06208333333333333
+Kasavanhalli,1799.0,3.0,3.0,3.0,90.0,0.0500277932184547
+Mysore Road,883.0,2.0,1.0,2.0,37.0,0.04190260475651189
+Mysore Road,1248.52,3.0,2.0,3.0,115.0,0.09210905712363439
+Kanakpura Road,1050.0,2.0,1.0,2.0,36.75,0.035
+7th Phase JP Nagar,1530.0,2.0,1.0,2.0,108.0,0.07058823529411765
+Begur Road,1615.0,3.0,2.0,3.0,60.0,0.03715170278637771
+Balagere,1205.0,2.0,1.0,2.0,79.0,0.06556016597510374
+Jakkur,1300.0,2.0,1.0,2.0,85.0,0.06538461538461539
+Hennur Road,1290.0,2.0,1.0,3.0,94.5,0.07325581395348837
+5th Phase JP Nagar,1190.0,2.0,2.0,2.0,61.8,0.05193277310924369
+7th Phase JP Nagar,1415.0,3.0,1.0,3.0,65.0,0.045936395759717315
+Hegde Nagar,1570.0,3.0,1.0,3.0,105.0,0.06687898089171974
+Haralur Road,1243.0,2.0,2.0,2.0,46.0,0.03700724054706356
+Sarjapur  Road,1457.0,3.0,3.0,3.0,85.0,0.05833905284831846
+Whitefield,1109.0,2.0,1.0,2.0,35.47,0.031983769161406675
+Kudlu,1092.0,2.0,2.0,2.0,44.0,0.040293040293040296
+Rajaji Nagar,2559.0,3.0,2.0,3.0,403.0,0.15748339194998046
+Lakshminarayana Pura,1180.0,2.0,1.0,2.0,75.0,0.0635593220338983
+Lakshminarayana Pura,1165.0,2.0,2.0,2.0,75.0,0.06437768240343347
+Thigalarapalya,2072.0,4.0,2.0,3.0,152.0,0.07335907335907337
+Thanisandra,1427.0,3.0,2.0,3.0,120.0,0.08409250175192712
+Kothanur,1581.0,3.0,3.0,3.0,76.0,0.0480708412397217
+Kalena Agrahara,980.0,2.0,1.0,2.0,40.0,0.04081632653061224
+Whitefield,1720.0,3.0,3.0,3.0,98.97,0.057540697674418606
+Hoodi,1196.0,2.0,0.0,2.0,71.74,0.05998327759197324
+7th Phase JP Nagar,1575.0,2.0,2.0,3.0,120.0,0.0761904761904762
+Kanakpura Road,700.0,2.0,1.0,2.0,35.0,0.05
+7th Phase JP Nagar,1385.0,2.0,2.0,3.0,58.17,0.042
+Thanisandra,2259.0,5.0,2.0,4.0,135.0,0.05976095617529881
+Kanakpura Road,1699.0,3.0,3.0,3.0,81.94,0.04822836962919364
+Electronic City,1128.0,2.0,1.0,2.0,65.0,0.057624113475177305
+Kanakpura Road,900.0,2.0,1.0,2.0,41.0,0.04555555555555556
+7th Phase JP Nagar,750.0,1.0,2.0,1.0,47.0,0.06266666666666666
+Kanakpura Road,1100.0,3.0,2.0,3.0,53.0,0.04818181818181818
+Vijayanagar,606.0,1.0,0.0,1.0,34.78,0.05739273927392739
+Vittasandra,1743.0,3.0,2.0,3.0,85.0,0.04876649454962708
+Kasavanhalli,1100.0,2.0,1.0,2.0,68.0,0.06181818181818182
+Yelahanka,660.0,1.0,0.0,1.0,48.0,0.07272727272727272
+Hebbal,1420.0,2.0,1.0,2.0,99.26,0.06990140845070422
+Bommanahalli,1160.0,2.0,3.0,2.0,53.0,0.045689655172413794
+Green Glen Layout,1250.0,2.0,0.0,2.0,75.0,0.06
+Sarjapur  Road,1863.0,3.0,2.0,4.0,104.0,0.055823939881910895
+Rachenahalli,1530.0,2.0,2.0,3.0,74.4,0.04862745098039216
+Talaghattapura,1868.0,3.0,1.0,3.0,135.0,0.07226980728051392
+Hebbal,2400.0,4.0,1.0,3.0,180.0,0.075
+Yelahanka,1225.0,2.0,2.0,2.0,62.0,0.05061224489795919
+Kasavanhalli,1870.0,3.0,1.0,3.0,200.0,0.10695187165775401
+Nagarbhavi,1850.0,3.0,2.0,3.0,88.0,0.04756756756756757
+Thigalarapalya,2072.0,4.0,2.0,3.0,153.0,0.07384169884169885
+Begur Road,1215.0,2.0,2.0,2.0,43.13,0.03549794238683128
+Gottigere,1600.0,2.0,2.0,3.0,55.0,0.034375
+Hennur,2502.0,4.0,2.0,4.0,170.0,0.06794564348521183
+Channasandra,1330.0,2.0,2.0,3.0,51.83,0.03896992481203007
+Electronics City Phase 1,1116.0,2.0,1.0,2.0,33.0,0.02956989247311828
+Sarjapur  Road,1157.0,2.0,1.0,3.0,75.0,0.06482281763180639
+Hennur Road,1735.0,3.0,3.0,3.0,78.0,0.044956772334293946
+Whitefield,1140.0,2.0,2.0,2.0,40.0,0.03508771929824561
+Begur Road,1933.0,3.0,2.0,3.0,98.0,0.05069839627521987
+Panathur,1198.0,2.0,1.0,2.0,86.26,0.07200333889816361
+Chandapura,520.0,1.0,1.0,1.0,14.04,0.027
+Talaghattapura,2254.0,3.0,2.0,3.0,170.0,0.07542147293700088
+Yelahanka,1537.0,3.0,3.0,3.0,120.0,0.07807417046193885
+Uttarahalli,1040.0,2.0,2.0,2.0,36.4,0.034999999999999996
+Frazer Town,896.0,1.0,0.0,1.0,100.0,0.11160714285714286
+Kanakapura,1151.0,2.0,1.0,2.0,59.0,0.051259774109470024
+Sarjapur,850.0,2.0,2.0,2.0,32.0,0.03764705882352941
+Hennur,2557.0,4.0,0.0,4.0,170.0,0.06648416112631991
+Brookefield,941.0,2.0,2.0,2.0,48.0,0.05100956429330499
+Kalena Agrahara,1804.0,3.0,2.0,3.0,155.0,0.08592017738359202
+Yeshwanthpur,671.0,1.0,1.0,1.0,36.85,0.05491803278688525
+Electronic City,550.0,1.0,1.0,2.0,15.0,0.02727272727272727
+Bhoganhalli,1718.0,3.0,2.0,3.0,90.2,0.05250291036088475
+Channasandra,1050.0,2.0,1.0,2.0,35.0,0.03333333333333333
+Marathahalli,1170.0,2.0,3.0,2.0,53.0,0.0452991452991453
+Hebbal,1349.0,2.0,1.0,2.0,98.0,0.072646404744255
+Malleshwaram,2215.0,3.0,1.0,3.0,275.0,0.12415349887133183
+7th Phase JP Nagar,1275.0,2.0,1.0,2.0,87.0,0.06823529411764706
+Thanisandra,1743.0,3.0,2.0,3.0,93.25,0.05349971313826735
+Hebbal,1645.0,3.0,2.0,3.0,117.0,0.07112462006079028
+Kanakpura Road,950.0,2.0,1.0,2.0,57.0,0.06
+Raja Rajeshwari Nagar,1530.0,3.0,2.0,3.0,57.0,0.03725490196078431
+Sarjapur  Road,1044.0,2.0,1.0,2.0,34.77,0.03330459770114943
+Ramagondanahalli,1295.0,2.0,2.0,2.0,95.0,0.07335907335907337
+Varthur,1180.0,2.0,2.0,2.0,55.0,0.046610169491525424
+Ramamurthy Nagar,1200.0,2.0,3.0,2.0,42.0,0.035
+Hoodi,1430.0,2.0,2.0,2.0,110.0,0.07692307692307693
+Hulimavu,1276.0,2.0,2.0,2.0,76.0,0.05956112852664577
+Vijayanagar,1046.0,2.0,1.0,2.0,75.0,0.07170172084130019
+Whitefield,1495.0,2.0,2.0,2.0,79.5,0.053177257525083614
+Hosur Road,1464.0,3.0,2.0,3.0,56.0,0.03825136612021858
+Electronics City Phase 1,635.0,1.0,0.0,1.0,26.0,0.04094488188976378
+Green Glen Layout,3250.0,4.0,3.0,4.0,230.0,0.07076923076923076
+Vidyaranyapura,770.0,3.0,2.0,4.0,65.25,0.08474025974025974
+Rajaji Nagar,1800.0,3.0,2.0,3.0,240.0,0.13333333333333333
+Jakkur,1396.0,2.0,1.0,3.0,86.51,0.061969914040114614
+Whitefield,1059.0,2.0,1.0,2.0,57.0,0.053824362606232294
+Marathahalli,1248.0,2.0,1.0,2.0,130.0,0.10416666666666667
+Whitefield,1200.0,2.0,1.0,2.0,45.84,0.038200000000000005
+Whitefield,1200.0,3.0,1.0,3.0,56.0,0.04666666666666667
+Yelahanka,1315.0,2.0,3.0,2.0,75.0,0.057034220532319393
+Hennur Road,1482.0,2.0,2.0,3.0,83.73,0.05649797570850203
+Bannerghatta Road,1650.0,3.0,0.0,3.0,122.0,0.07393939393939394
+Begur Road,1410.0,2.0,3.0,3.0,53.58,0.038
+Frazer Town,1305.0,3.0,0.0,3.0,95.45,0.07314176245210728
+Hebbal,3067.0,4.0,3.0,4.0,230.0,0.0749918487120965
+Electronic City Phase II,1160.0,2.0,1.0,2.0,33.5,0.028879310344827585
+7th Phase JP Nagar,1250.0,3.0,2.0,3.0,65.0,0.052
+Vittasandra,1650.0,3.0,2.0,3.0,85.5,0.05181818181818182
+Hosur Road,1590.0,2.0,2.0,3.0,126.0,0.07924528301886792
+Chikkalasandra,1310.0,2.0,1.0,3.0,52.4,0.04
+Hegde Nagar,1835.0,2.0,0.0,3.0,92.0,0.05013623978201635
+Attibele,1200.0,3.0,0.0,3.0,110.0,0.09166666666666666
+Gottigere,1000.0,2.0,1.0,2.0,35.0,0.035
+Raja Rajeshwari Nagar,1128.0,2.0,1.0,2.0,48.79,0.04325354609929078
+Bommanahalli,1250.0,3.0,2.0,3.0,55.0,0.044
+Bannerghatta Road,1215.0,2.0,1.0,2.0,65.0,0.053497942386831275
+Attibele,418.0,1.0,1.0,1.0,12.0,0.028708133971291867
+TC Palaya,1000.0,2.0,0.0,2.0,70.0,0.07
+Electronic City Phase II,1125.0,2.0,1.0,2.0,32.49,0.028880000000000003
+KR Puram,866.28,2.0,0.0,2.0,36.38,0.04199565960197627
+Kundalahalli,1397.0,3.0,2.0,3.0,104.0,0.0744452397995705
+Haralur Road,1243.0,2.0,1.0,2.0,46.0,0.03700724054706356
+Thanisandra,1185.0,2.0,2.0,2.0,43.51,0.03671729957805907
+Yelahanka,1847.0,3.0,3.0,3.0,92.0,0.04981050351922036
+Old Madras Road,1425.0,2.0,2.0,3.0,94.0,0.06596491228070175
+Akshaya Nagar,1225.0,2.0,0.0,2.0,68.0,0.05551020408163265
+Raja Rajeshwari Nagar,1608.0,3.0,1.0,3.0,67.98,0.04227611940298508
+Whitefield,1277.0,2.0,1.0,2.0,77.0,0.060297572435395456
+HSR Layout,1100.0,2.0,2.0,2.0,44.0,0.04
+Whitefield,1436.0,2.0,3.0,3.0,62.15,0.04327994428969359
+Nagarbhavi,1020.0,2.0,2.0,2.0,55.0,0.05392156862745098
+Sarjapur  Road,1385.0,3.0,1.0,3.0,55.0,0.039711191335740074
+Whitefield,1320.0,2.0,1.0,2.0,99.26,0.0751969696969697
+Kaggadasapura,1200.0,2.0,2.0,2.0,40.0,0.03333333333333333
+Thigalarapalya,1400.0,2.0,2.0,2.0,105.0,0.075
+Kasavanhalli,1585.0,2.0,2.0,2.0,90.0,0.056782334384858045
+HSR Layout,1140.0,2.0,2.0,2.0,46.0,0.04035087719298246
+Ramamurthy Nagar,1525.0,3.0,1.0,3.0,100.0,0.06557377049180328
+Sarjapur  Road,3418.0,3.0,0.0,4.0,235.0,0.06875365710942072
+Koramangala,1355.0,2.0,2.0,2.0,95.0,0.07011070110701106
+Hosa Road,1016.0,2.0,1.0,2.0,39.95,0.03932086614173229
+Bannerghatta Road,1365.0,3.0,1.0,3.0,76.18,0.055809523809523816
+Rachenahalli,1050.0,2.0,2.0,2.0,52.07,0.04959047619047619
+Sarjapur  Road,1350.0,2.0,2.0,2.0,68.0,0.05037037037037037
+Yelahanka,1200.0,2.0,2.0,2.0,60.0,0.05
+Panathur,1085.0,2.0,1.0,2.0,36.0,0.03317972350230415
+Sarjapur  Road,1019.0,2.0,1.0,2.0,62.0,0.06084396467124632
+Electronics City Phase 1,1555.0,2.0,1.0,3.0,82.0,0.052733118971061095
+Horamavu Agara,1623.0,3.0,1.0,3.0,89.0,0.05483672211953173
+Uttarahalli,1175.0,2.0,2.0,2.0,47.0,0.04
+Jakkur,1785.0,3.0,2.0,3.0,130.0,0.07282913165266107
+Dodda Nekkundi,1252.0,2.0,1.0,3.0,71.0,0.05670926517571885
+Kengeri,1200.0,2.0,0.0,2.0,58.0,0.04833333333333333
+Whitefield,1730.0,3.0,2.0,3.0,125.0,0.07225433526011561
+Ramagondanahalli,1635.0,3.0,1.0,3.0,62.0,0.037920489296636085
+Hosa Road,1525.84,3.0,1.0,3.0,117.0,0.0766790751323861
+Thigalarapalya,2072.0,4.0,2.0,3.0,157.0,0.07577220077220077
+Hosur Road,1145.0,2.0,2.0,3.0,60.0,0.05240174672489083
+Nagarbhavi,1050.0,2.0,1.0,2.0,80.0,0.0761904761904762
+Electronic City Phase II,1125.0,2.0,1.0,2.0,32.63,0.029004444444444447
+Electronics City Phase 1,1028.0,2.0,1.0,2.0,51.0,0.04961089494163424
+R.T. Nagar,800.0,1.0,0.0,2.0,170.0,0.2125
+Kundalahalli,1047.0,2.0,1.0,2.0,83.0,0.07927411652340019
+Thanisandra,1702.0,3.0,2.0,3.0,120.0,0.07050528789659224
+Raja Rajeshwari Nagar,1140.0,2.0,1.0,2.0,49.39,0.04332456140350877
+Bellandur,1465.0,3.0,3.0,2.0,90.0,0.06143344709897611
+Electronic City Phase II,1165.0,2.0,1.0,2.0,33.64,0.028875536480686696
+Subramanyapura,1130.0,2.0,3.0,3.0,45.19,0.03999115044247788
+Sarjapur  Road,2180.0,3.0,2.0,3.0,240.0,0.11009174311926606
+Electronic City,630.0,1.0,1.0,1.0,34.65,0.055
+Bellandur,1310.0,2.0,2.0,2.0,72.0,0.0549618320610687
+8th Phase JP Nagar,1098.0,2.0,1.0,2.0,43.91,0.039990892531876134
+Begur Road,2400.0,4.0,2.0,4.0,152.0,0.06333333333333334
+Rajaji Nagar,1640.0,3.0,3.0,3.0,220.0,0.13414634146341464
+Bannerghatta Road,1255.0,2.0,2.0,2.0,65.26,0.052000000000000005
+Hulimavu,1818.0,3.0,1.0,3.0,135.0,0.07425742574257425
+Kanakpura Road,1100.0,3.0,2.0,3.0,58.0,0.05272727272727273
+Sarjapur  Road,1380.0,2.0,1.0,3.0,52.0,0.03768115942028986
+Indira Nagar,1470.0,2.0,2.0,2.0,170.0,0.11564625850340136
+Sarjapur,2020.0,3.0,3.0,3.0,85.0,0.04207920792079208
+Rajaji Nagar,2390.0,3.0,2.0,3.0,410.0,0.17154811715481172
+Anekal,1200.0,2.0,1.0,2.0,36.1,0.030083333333333333
+Rajaji Nagar,1800.0,3.0,3.0,3.0,260.0,0.14444444444444443
+Electronic City,660.0,1.0,1.0,2.0,23.1,0.035
+Kengeri Satellite Town,1120.0,2.0,2.0,2.0,49.0,0.04375
+Electronic City Phase II,1065.0,2.0,1.0,2.0,56.13,0.05270422535211268
+Uttarahalli,1330.0,2.0,1.0,3.0,56.0,0.042105263157894736
+R.T. Nagar,1500.0,2.0,2.0,2.0,45.0,0.03
+Whitefield,3480.0,4.0,0.0,3.0,284.0,0.08160919540229886
+Somasundara Palya,1260.0,2.0,1.0,2.0,60.0,0.047619047619047616
+Electronic City Phase II,1155.0,2.0,1.0,2.0,57.0,0.04935064935064935
+BTM 2nd Stage,2400.0,2.0,0.0,3.0,360.0,0.15
+Hoodi,1512.0,3.0,2.0,3.0,75.77,0.05011243386243386
+Bellandur,1262.0,2.0,2.0,2.0,47.0,0.03724247226624406
+Electronics City Phase 1,1330.0,2.0,2.0,3.0,44.0,0.03308270676691729
+Hebbal,1150.0,2.0,1.0,2.0,57.0,0.049565217391304345
+Electronic City,919.0,2.0,2.0,2.0,34.0,0.036996735582154515
+Kasavanhalli,1495.0,2.0,2.0,2.0,110.0,0.07357859531772576
+Whitefield,2023.0,4.0,2.0,3.0,130.0,0.06426099851705389
+Hennur Road,1030.0,2.0,1.0,2.0,46.5,0.04514563106796116
+Mysore Road,1175.0,2.0,1.0,2.0,73.5,0.0625531914893617
+Hosur Road,1194.0,2.0,1.0,2.0,71.64,0.06
+Jigani,943.0,2.0,2.0,2.0,48.0,0.05090137857900318
+R.T. Nagar,2800.0,4.0,0.0,4.0,400.0,0.14285714285714285
+9th Phase JP Nagar,1035.0,2.0,1.0,2.0,45.0,0.043478260869565216
+Thigalarapalya,1418.0,2.0,2.0,2.0,104.0,0.07334273624823695
+Banashankari,1400.0,2.0,1.0,3.0,78.0,0.055714285714285716
+Bellandur,1846.0,3.0,2.0,3.0,135.0,0.07313109425785481
+Whitefield,905.0,1.0,1.0,1.0,55.0,0.06077348066298342
+Bannerghatta Road,1550.0,2.0,2.0,3.0,75.0,0.04838709677419355
+Electronic City,1152.0,2.0,1.0,2.0,64.5,0.055989583333333336
+Bannerghatta Road,1920.0,3.0,3.0,3.0,122.0,0.06354166666666666
+Kanakapura,1017.0,2.0,1.0,2.0,66.0,0.06489675516224189
+KR Puram,1035.0,2.0,2.0,2.0,40.0,0.03864734299516908
+Harlur,1174.0,2.0,1.0,2.0,78.0,0.06643952299829642
+Kengeri,540.0,1.0,1.0,1.0,22.5,0.041666666666666664
+Bisuvanahalli,1075.0,2.0,1.0,3.0,46.0,0.04279069767441861
+Varthur,1760.0,2.0,1.0,2.0,85.0,0.048295454545454544
+Devanahalli,1360.0,2.0,0.0,2.0,62.425,0.045900735294117645
+Old Madras Road,2425.0,3.0,1.0,3.0,197.0,0.08123711340206186
+Brookefield,1595.0,3.0,3.0,3.0,88.0,0.05517241379310345
+Raja Rajeshwari Nagar,1140.0,2.0,2.0,2.0,38.65,0.033903508771929824
+Hebbal,2790.0,4.0,3.0,4.0,198.0,0.07096774193548387
+Whitefield,1639.0,3.0,2.0,3.0,107.0,0.0652837095790116
+Sarjapur  Road,1128.0,2.0,2.0,2.0,59.0,0.05230496453900709
+Electronic City,940.0,2.0,1.0,2.0,41.0,0.043617021276595745
+Hennur Road,1976.0,3.0,3.0,3.0,65.21,0.033001012145748986
+Whitefield,3100.0,4.0,2.0,4.0,465.0,0.15
+Kaggadasapura,775.0,2.0,2.0,2.0,29.5,0.03806451612903226
+Yelahanka,1792.0,3.0,1.0,3.0,104.0,0.05803571428571429
+Talaghattapura,2106.0,3.0,2.0,3.0,126.0,0.05982905982905983
+Haralur Road,1560.0,3.0,1.0,3.0,90.0,0.057692307692307696
+Thanisandra,1114.0,2.0,1.0,2.0,39.0,0.03500897666068223
+Sarjapur  Road,1115.0,2.0,1.0,2.0,50.0,0.04484304932735426
+Electronic City,919.0,2.0,2.0,2.0,40.0,0.04352557127312296
+Doddathoguru,907.0,2.0,1.0,2.0,40.0,0.044101433296582136
+Banashankari,1470.0,2.0,1.0,3.0,88.64,0.060299319727891154
+Vittasandra,1259.0,2.0,1.0,2.0,67.4,0.053534551231135825
+Sarjapur  Road,1450.0,2.0,1.0,3.0,75.0,0.05172413793103448
+Hegde Nagar,2006.0,4.0,2.0,3.0,196.0,0.09770687936191426
+Ramamurthy Nagar,3500.0,5.0,2.0,5.0,150.0,0.04285714285714286
+Hosa Road,1332.0,2.0,1.0,3.0,86.12,0.06465465465465466
+Attibele,1000.0,2.0,1.0,2.0,42.0,0.042
+Whitefield,1290.0,2.0,0.0,2.0,90.0,0.06976744186046512
+Bommanahalli,1416.0,2.0,1.0,3.0,85.0,0.06002824858757062
+Thanisandra,1093.0,2.0,2.0,2.0,70.0,0.06404391582799634
+Kudlu Gate,1185.0,2.0,1.0,2.0,50.0,0.04219409282700422
+Kadugodi,1150.0,2.0,2.0,2.0,42.0,0.036521739130434785
+Electronic City Phase II,1020.0,2.0,2.0,2.0,32.0,0.03137254901960784
+Yelahanka,1614.0,3.0,2.0,3.0,93.0,0.05762081784386617
+Vittasandra,1238.0,2.0,1.0,2.0,67.0,0.05411954765751212
+Whitefield,1285.0,2.0,2.0,2.0,55.9,0.04350194552529183
+Indira Nagar,850.0,1.0,2.0,1.0,60.0,0.07058823529411765
+Hoodi,2090.0,4.0,0.0,4.0,95.1,0.04550239234449761
+Horamavu Agara,1265.0,2.0,1.0,3.0,65.0,0.05138339920948617
+Kanakpura Road,1300.0,3.0,2.0,3.0,69.0,0.05307692307692308
+Whitefield,1585.0,3.0,1.0,3.0,84.0,0.05299684542586751
+Hebbal,2388.0,3.0,1.0,3.0,195.0,0.08165829145728644
+Sarjapur,1242.5,2.0,0.0,2.0,43.49,0.035002012072434606
+Ambalipura,1615.0,2.0,3.0,3.0,150.0,0.09287925696594428
+Tumkur Road,1246.0,2.0,1.0,2.0,82.0,0.06581059390048154
+Akshaya Nagar,1000.0,2.0,1.0,2.0,38.0,0.038
+Electronic City Phase II,1320.0,2.0,1.0,3.0,38.13,0.028886363636363637
+Thanisandra,1188.0,2.0,1.0,2.0,39.0,0.03282828282828283
+Hormavu,1075.0,2.0,1.0,2.0,53.7,0.04995348837209303
+Hennur Road,1552.0,3.0,3.0,3.0,75.0,0.04832474226804124
+Koramangala,1320.0,2.0,2.0,2.0,110.0,0.08333333333333333
+Kanakpura Road,1328.0,2.0,2.0,2.0,107.0,0.08057228915662651
+Thigalarapalya,2215.0,4.0,2.0,3.0,162.0,0.07313769751693003
+Sarjapur  Road,1700.0,3.0,3.0,3.0,110.0,0.06470588235294118
+Yelahanka,3600.0,6.0,1.0,6.0,200.0,0.05555555555555555
+Electronic City Phase II,630.0,1.0,1.0,1.0,40.0,0.06349206349206349
+Ramamurthy Nagar,1100.0,2.0,0.0,2.0,68.0,0.06181818181818182
+Bellandur,1717.0,3.0,2.0,3.0,110.0,0.064065230052417
+Akshaya Nagar,1200.0,2.0,2.0,2.0,45.0,0.0375
+Kanakapura,1489.0,2.0,1.0,3.0,70.0,0.04701141705842848
+Bhoganhalli,2119.0,4.0,2.0,4.0,111.0,0.052383199622463426
+Kundalahalli,1260.0,2.0,0.0,2.0,58.0,0.046031746031746035
+Electronic City,1470.0,2.0,1.0,3.0,44.1,0.030000000000000002
+Bhoganhalli,1760.0,3.0,2.0,3.0,128.0,0.07272727272727272
+Yeshwanthpur,2500.0,5.0,2.0,6.0,185.0,0.074
+Bellandur,1410.0,3.0,2.0,2.0,92.0,0.06524822695035461
+Yelahanka,1270.0,2.0,2.0,2.0,78.0,0.06141732283464567
+Old Madras Road,935.0,2.0,1.0,2.0,32.72,0.03499465240641711
+Bellandur,924.0,2.0,2.0,2.0,35.11,0.037997835497835496
+Electronic City Phase II,925.0,2.0,1.0,3.0,49.82,0.05385945945945946
+Bannerghatta Road,1750.0,3.0,0.0,3.0,130.0,0.07428571428571429
+Bommasandra,1200.0,3.0,2.0,3.0,46.0,0.03833333333333333
+Whitefield,1897.0,3.0,2.0,3.0,130.0,0.06852925672113865
+Yeshwanthpur,682.0,2.0,1.0,3.0,130.0,0.1906158357771261
+Basavangudi,2150.0,3.0,2.0,3.0,265.0,0.12325581395348838
+Whitefield,1200.0,2.0,2.0,2.0,46.13,0.038441666666666666
+Rachenahalli,1050.0,2.0,2.0,2.0,55.5,0.05285714285714286
+Hennur Road,1015.0,2.0,2.0,2.0,50.0,0.04926108374384237
+Hennur Road,2400.0,5.0,3.0,4.0,500.0,0.20833333333333334
+Kengeri,1150.0,1.0,0.0,1.0,52.0,0.04521739130434783
+Electronic City Phase II,1065.0,2.0,1.0,2.0,30.75,0.028873239436619718
+HSR Layout,1467.0,2.0,1.0,2.0,55.0,0.03749147920927062
+Jakkur,1050.0,2.0,1.0,2.0,49.87,0.04749523809523809
+Hennur Road,2350.0,3.0,2.0,3.0,174.0,0.07404255319148936
+Kanakpura Road,1660.0,3.0,3.0,3.0,75.0,0.045180722891566265
+Kudlu Gate,1183.0,2.0,1.0,2.0,79.54,0.06723584108199493
+Whitefield,1720.0,3.0,3.0,3.0,100.0,0.05813953488372093
+Whitefield,709.0,1.0,0.0,1.0,34.385,0.04849788434414668
+Nagarbhavi,1225.0,2.0,3.0,2.0,58.0,0.0473469387755102
+Raja Rajeshwari Nagar,1303.0,2.0,2.0,2.0,44.17,0.03389869531849578
+Yelahanka,1100.0,2.0,1.0,2.0,70.0,0.06363636363636363
+Lakshminarayana Pura,1179.0,2.0,1.0,2.0,75.0,0.06361323155216285
+Hebbal,3520.0,5.0,2.0,3.0,320.0,0.09090909090909091
+Raja Rajeshwari Nagar,1070.0,2.0,1.0,2.0,50.0,0.04672897196261682
+Hebbal,1760.0,2.0,2.0,3.0,123.0,0.06988636363636364
+Thanisandra,1697.0,3.0,2.0,3.0,110.0,0.0648202710665881
+Bellandur,1690.0,2.0,2.0,3.0,116.0,0.06863905325443787
+Hebbal,1053.0,2.0,1.0,2.0,48.0,0.045584045584045586
+Bannerghatta Road,1465.0,2.0,1.0,3.0,75.0,0.051194539249146756
+Raja Rajeshwari Nagar,1530.0,3.0,3.0,3.0,61.2,0.04
+Thanisandra,1241.0,2.0,1.0,3.0,68.0,0.0547945205479452
+KR Puram,1000.0,2.0,0.0,2.0,60.0,0.06
+Bommasandra,1034.0,2.0,3.0,2.0,40.0,0.03868471953578337
+Dodda Nekkundi,1200.0,2.0,2.0,2.0,71.0,0.059166666666666666
+Rachenahalli,1204.0,2.0,3.0,2.0,38.5,0.03197674418604651
+Kanakpura Road,525.0,1.0,1.0,1.0,30.0,0.05714285714285714
+Thanisandra,1185.0,2.0,2.0,2.0,42.67,0.0360084388185654
+Electronic City,1150.0,2.0,1.0,2.0,38.08,0.03311304347826087
+Haralur Road,1810.0,3.0,2.0,3.0,126.0,0.06961325966850829
+Sarjapur  Road,1435.0,3.0,2.0,3.0,90.0,0.0627177700348432
+Nagarbhavi,1212.0,2.0,0.0,2.0,50.0,0.041254125412541254
+HSR Layout,1590.0,2.0,2.0,3.0,135.0,0.08490566037735849
+Kengeri,927.0,2.0,2.0,2.0,37.0,0.039913700107874865
+Bisuvanahalli,1075.0,2.0,1.0,3.0,50.0,0.046511627906976744
+Ramagondanahalli,1295.0,2.0,2.0,2.0,95.0,0.07335907335907337
+Whitefield,1074.0,2.0,1.0,2.0,42.79,0.03984171322160149
+Kaggadasapura,1105.0,2.0,1.0,2.0,38.67,0.034995475113122176
+Harlur,1750.0,3.0,2.0,3.0,136.0,0.07771428571428571
+Chandapura,1505.0,2.0,2.0,3.0,42.0,0.027906976744186046
+Electronic City,1200.0,2.0,1.0,2.0,34.65,0.028874999999999998
+Bisuvanahalli,1180.0,2.0,1.0,3.0,60.0,0.05084745762711865
+Marathahalli,1360.0,2.0,1.0,2.0,103.0,0.07573529411764705
+Kaggadasapura,1100.0,2.0,3.0,2.0,58.0,0.05272727272727273
+Whitefield,1192.0,2.0,1.0,2.0,71.0,0.05956375838926174
+Attibele,1000.0,3.0,1.0,3.0,90.0,0.09
+Kaggadasapura,1045.0,2.0,2.0,2.0,55.0,0.05263157894736842
+Ramamurthy Nagar,1300.0,2.0,2.0,3.0,52.0,0.04
+Sarjapur  Road,1129.0,2.0,1.0,2.0,69.0,0.06111603188662533
+Yelahanka,2675.0,4.0,2.0,4.0,140.0,0.052336448598130844
+Hulimavu,1200.0,2.0,1.0,2.0,50.0,0.041666666666666664
+Indira Nagar,2070.0,3.0,2.0,3.0,225.0,0.10869565217391304
+Sarjapur  Road,1220.0,3.0,3.0,3.0,56.0,0.04590163934426229
+Dodda Nekkundi,1999.0,3.0,2.0,3.0,132.0,0.06603301650825413
+JP Nagar,2000.0,3.0,2.0,3.0,250.0,0.125
+Electronic City,1025.0,2.0,1.0,2.0,54.5,0.05317073170731707
+Electronic City,1033.0,2.0,2.0,3.0,28.41,0.02750242013552759
+Kasavanhalli,2170.0,3.0,2.0,3.0,151.0,0.0695852534562212
+Vittasandra,1246.0,2.0,1.0,2.0,65.4,0.05248796147672553
+Begur Road,1500.0,2.0,3.0,3.0,54.0,0.036
+Kengeri Satellite Town,650.0,2.0,1.0,4.0,58.0,0.08923076923076922
+Thanisandra,1262.0,2.0,1.0,3.0,83.0,0.06576862123613313
+Hosa Road,625.0,1.0,1.0,1.0,43.68,0.069888
+5th Phase JP Nagar,1075.0,2.0,2.0,2.0,60.0,0.05581395348837209
+Marathahalli,1600.0,3.0,2.0,3.0,56.0,0.035
+Whitefield,1116.0,2.0,1.0,2.0,51.91,0.046514336917562724
+Whitefield,1140.0,2.0,2.0,2.0,39.0,0.034210526315789476
+Whitefield,1185.0,2.0,2.0,2.0,56.0,0.04725738396624472
+Bommasandra,950.0,2.0,1.0,2.0,25.0,0.02631578947368421
+Yelahanka,1234.0,2.0,2.0,2.0,80.0,0.06482982171799027
+Harlur,936.0,2.0,1.0,2.0,45.0,0.04807692307692308
+Vidyaranyapura,1100.0,2.0,2.0,3.0,72.0,0.06545454545454546
+Whitefield,1600.0,3.0,2.0,3.0,95.0,0.059375
+Rajaji Nagar,1621.0,3.0,1.0,3.0,124.0,0.07649599012954966
+Hoodi,1132.0,2.0,0.0,2.0,67.9,0.05998233215547704
+Yelahanka,3042.0,4.0,0.0,4.0,131.0,0.0430637738330046
+Haralur Road,1225.0,2.0,1.0,2.0,67.38,0.05500408163265306
+Vijayanagar,1380.0,2.0,0.0,2.0,225.0,0.16304347826086957
+Raja Rajeshwari Nagar,1090.0,2.0,2.0,2.0,57.0,0.05229357798165138
+Indira Nagar,2400.0,4.0,2.0,4.0,525.0,0.21875
+Yelahanka,1275.0,2.0,2.0,3.0,95.0,0.07450980392156863
+Whitefield,1562.0,3.0,2.0,3.0,103.0,0.06594110115236876
+Bommasandra,920.0,2.0,1.0,2.0,37.2,0.04043478260869565
+Electronic City,940.0,2.0,1.0,2.0,54.0,0.0574468085106383
+Hennur Road,1561.0,3.0,2.0,3.0,95.0,0.060858424087123636
+CV Raman Nagar,1000.0,2.0,1.0,2.0,38.5,0.0385
+Sahakara Nagar,1914.0,3.0,3.0,3.0,179.0,0.09352142110762801
+Electronic City,870.0,2.0,2.0,2.0,24.0,0.027586206896551724
+Banashankari,1420.0,3.0,1.0,3.0,66.0,0.04647887323943662
+Whitefield,3450.0,4.0,2.0,3.0,208.0,0.06028985507246377
+Begur Road,1200.0,2.0,2.0,2.0,45.0,0.0375
+Electronic City,550.0,1.0,1.0,2.0,16.0,0.02909090909090909
+Hebbal,1100.0,2.0,1.0,2.0,60.0,0.05454545454545454
+Attibele,460.0,1.0,1.0,1.0,13.0,0.02826086956521739
+Bellandur,2500.0,4.0,2.0,3.0,112.0,0.0448
+Thanisandra,1697.0,3.0,2.0,3.0,115.0,0.06776664702416028
+8th Phase JP Nagar,1125.0,2.0,2.0,2.0,36.94,0.032835555555555555
+Kaggadasapura,1256.0,2.0,2.0,3.0,50.0,0.03980891719745223
+Attibele,400.0,1.0,1.0,1.0,10.25,0.025625
+Hennur Road,1250.0,2.0,1.0,3.0,77.88,0.062304
+Bellandur,1457.0,2.0,2.0,2.0,85.0,0.05833905284831846
+Hebbal,1645.0,3.0,2.0,3.0,120.0,0.0729483282674772
+Kanakpura Road,525.0,1.0,1.0,1.0,30.0,0.05714285714285714
+Whitefield,2321.0,4.0,1.0,3.0,157.0,0.06764325721671693
+Kengeri,750.0,2.0,1.0,2.0,36.0,0.048
+Sarjapur  Road,1272.5,2.0,0.0,3.0,40.72,0.032
+Hennur Road,1748.0,3.0,0.0,3.0,103.0,0.05892448512585812
+Electronic City Phase II,1125.0,2.0,1.0,2.0,32.49,0.028880000000000003
+Raja Rajeshwari Nagar,1751.0,3.0,3.0,3.0,72.0,0.041119360365505425
+Bellandur,1310.0,2.0,2.0,2.0,85.0,0.0648854961832061
+Malleshwaram,2000.0,3.0,2.0,3.0,250.0,0.125
+Raja Rajeshwari Nagar,600.0,1.0,1.0,1.0,22.0,0.03666666666666667
+Yelahanka New Town,1400.0,2.0,2.0,3.0,80.0,0.05714285714285714
+Sarjapur  Road,1476.0,3.0,0.0,3.0,98.94,0.06703252032520325
+Electronic City,1090.0,2.0,1.0,1.0,31.48,0.028880733944954128
+Yelahanka New Town,1599.0,3.0,2.0,3.0,80.0,0.050031269543464665
+TC Palaya,1200.0,2.0,0.0,3.0,66.0,0.055
+Vittasandra,1650.0,3.0,1.0,3.0,84.0,0.05090909090909091
+Electronic City,1353.0,2.0,3.0,2.0,75.0,0.05543237250554324
+Varthur,1112.0,2.0,2.0,2.0,40.0,0.03597122302158273
+Thigalarapalya,1418.0,2.0,2.0,2.0,105.0,0.07404795486600846
+Raja Rajeshwari Nagar,1279.0,2.0,1.0,3.0,53.76,0.04203283815480844
+Hegde Nagar,1835.0,3.0,3.0,3.0,88.0,0.04795640326975477
+Yelahanka,1065.0,2.0,1.0,2.0,40.84,0.03834741784037559
+Bannerghatta Road,1655.0,2.0,2.0,3.0,62.89,0.038
+Hosa Road,880.0,2.0,0.0,2.0,50.0,0.056818181818181816
+Hebbal,1760.0,3.0,2.0,3.0,123.0,0.06988636363636364
+Lakshminarayana Pura,1210.0,2.0,2.0,2.0,75.0,0.06198347107438017
+Hegde Nagar,1835.0,3.0,3.0,3.0,89.0,0.048501362397820165
+Electronic City,1070.0,2.0,1.0,2.0,55.0,0.0514018691588785
+Malleshwaram,900.0,2.0,1.0,2.0,72.0,0.08
+Rajaji Nagar,2533.0,3.0,3.0,3.0,425.0,0.16778523489932887
+Haralur Road,1200.0,2.0,2.0,2.0,46.0,0.03833333333333333
+Bommasandra,1295.0,2.0,1.0,3.0,50.28,0.038826254826254826
+Begur Road,1200.0,2.0,2.0,2.0,44.4,0.037
+Yelahanka,3206.0,5.0,0.0,4.0,270.0,0.0842170929507174
+Kanakpura Road,1665.0,3.0,2.0,3.0,86.58,0.052
+Bommasandra,1000.0,2.0,1.0,2.0,35.0,0.035
+7th Phase JP Nagar,1270.0,2.0,1.0,2.0,83.0,0.06535433070866142
+Kanakapura,1120.0,2.0,2.0,2.0,39.2,0.035
+Budigere,1444.0,2.0,2.0,2.0,70.0,0.04847645429362881
+Mysore Road,1029.5,2.0,0.0,2.0,50.855,0.0493977659057795
+Thanisandra,1430.0,2.0,2.0,3.0,51.48,0.036
+Somasundara Palya,1650.0,3.0,0.0,3.0,126.0,0.07636363636363637
+Kengeri Satellite Town,930.0,1.0,1.0,1.0,30.0,0.03225806451612903
+Whitefield,2856.0,5.0,0.0,4.0,145.5,0.050945378151260504
+Hegde Nagar,3734.0,5.0,1.0,4.0,430.0,0.11515800749866095
+Bisuvanahalli,1075.0,2.0,1.0,3.0,37.0,0.03441860465116279
+Thanisandra,933.0,1.0,1.0,1.0,61.0,0.06538049303322616
+Old Madras Road,1480.0,2.0,2.0,3.0,84.0,0.05675675675675676
+Rachenahalli,1050.0,2.0,2.0,2.0,52.5,0.05
+Frazer Town,1180.0,2.0,1.0,2.0,105.0,0.08898305084745763
+Electronic City,890.0,2.0,1.0,2.0,40.0,0.0449438202247191
+CV Raman Nagar,1392.0,2.0,1.0,2.0,98.0,0.07040229885057471
+Marathahalli,1200.0,2.0,2.0,2.0,58.0,0.04833333333333333
+Raja Rajeshwari Nagar,1187.0,2.0,2.0,2.0,40.14,0.03381634372367313
+TC Palaya,900.0,2.0,0.0,2.0,55.0,0.06111111111111111
+Kundalahalli,1065.0,2.0,1.0,2.0,70.0,0.06572769953051644
+Hebbal,3067.0,4.0,2.0,4.0,230.0,0.0749918487120965
+Kothanur,1400.0,2.0,2.0,2.0,65.0,0.04642857142857143
+Brookefield,2440.0,5.0,2.0,4.0,425.0,0.17418032786885246
+Sarjapur  Road,1691.0,3.0,2.0,3.0,93.01,0.05500295683027794
+Sarjapur  Road,1130.0,2.0,2.0,2.0,55.0,0.048672566371681415
+Raja Rajeshwari Nagar,1196.0,2.0,2.0,2.0,40.54,0.03389632107023411
+Electronics City Phase 1,1205.0,2.0,2.0,2.0,60.0,0.04979253112033195
+Whitefield,1267.0,2.0,1.0,2.0,90.33,0.07129439621152328
+Raja Rajeshwari Nagar,1168.0,2.0,1.0,2.0,66.0,0.05650684931506849
+Electronic City,1130.0,2.0,1.0,2.0,32.63,0.02887610619469027
+TC Palaya,1200.0,2.0,0.0,3.0,66.0,0.055
+Sarjapur  Road,1580.0,3.0,3.0,3.0,125.0,0.07911392405063292
+Jalahalli,1400.0,3.0,0.0,3.0,77.0,0.055
+Hosa Road,1079.0,2.0,1.0,2.0,32.37,0.03
+Sarjapur  Road,1117.0,2.0,3.0,2.0,29.99,0.026848701880035807
+Akshaya Nagar,1360.0,2.0,2.0,3.0,85.0,0.0625
+Electronic City Phase II,1020.0,2.0,1.0,2.0,30.6,0.030000000000000002
+7th Phase JP Nagar,980.0,2.0,2.0,2.0,69.0,0.07040816326530612
+Whitefield,1190.0,2.0,2.0,2.0,67.0,0.05630252100840336
+Yelahanka,1250.0,2.0,2.0,2.0,54.0,0.0432
+Brookefield,1410.0,2.0,0.0,3.0,80.0,0.05673758865248227
+Raja Rajeshwari Nagar,1128.0,2.0,2.0,2.0,40.0,0.03546099290780142
+Bellandur,1205.0,2.0,3.0,2.0,66.0,0.054771784232365145
+Electronic City Phase II,1065.0,2.0,1.0,2.0,30.88,0.028995305164319248
+Electronic City,975.0,2.0,1.0,2.0,32.0,0.03282051282051282
+Haralur Road,1810.0,3.0,2.0,3.0,100.0,0.055248618784530384
+Hebbal,3500.0,3.0,3.0,3.0,395.0,0.11285714285714285
+Hormavu,1310.0,2.0,3.0,2.0,60.0,0.04580152671755725
+Lakshminarayana Pura,1145.0,2.0,1.0,2.0,75.0,0.06550218340611354
+Old Madras Road,1165.0,2.0,1.0,2.0,52.0,0.04463519313304721
+Hormavu,1093.0,2.0,1.0,2.0,32.78,0.02999085086916743
+Koramangala,1890.0,2.0,1.0,3.0,100.0,0.05291005291005291
+Sarjapur  Road,1390.0,2.0,2.0,2.0,62.0,0.04460431654676259
+Basavangudi,600.0,1.0,0.0,1.0,97.5,0.1625
+Uttarahalli,1000.0,2.0,2.0,2.0,39.5,0.0395
+R.T. Nagar,1100.0,3.0,0.0,2.0,125.0,0.11363636363636363
+Sarjapur  Road,1026.0,2.0,1.0,2.0,60.8,0.059259259259259255
+8th Phase JP Nagar,1062.0,2.0,1.0,2.0,42.47,0.03999058380414312
+Sarjapur  Road,1157.0,2.0,1.0,3.0,57.84,0.04999135695764909
+Yelahanka,1400.0,2.0,2.0,3.0,80.54,0.057528571428571436
+Uttarahalli,1002.0,2.0,1.0,2.0,40.08,0.04
+KR Puram,1752.0,3.0,2.0,3.0,145.0,0.08276255707762557
+7th Phase JP Nagar,1050.0,2.0,1.0,2.0,75.0,0.07142857142857142
+Kalena Agrahara,1804.0,3.0,2.0,3.0,175.0,0.09700665188470066
+Yeshwanthpur,1160.0,2.0,2.0,2.0,64.08,0.055241379310344826
+Electronic City,1070.0,2.0,1.0,2.0,58.0,0.05420560747663551
+Begur Road,1410.0,2.0,3.0,3.0,44.42,0.031503546099290784
+Haralur Road,1920.0,3.0,1.0,3.0,115.0,0.059895833333333336
+Hosa Road,1537.52,3.0,1.0,3.0,110.0,0.07154378479629533
+Bisuvanahalli,1075.0,2.0,1.0,3.0,42.0,0.03906976744186046
+Varthur,1210.0,2.0,2.0,2.0,54.0,0.04462809917355372
+Chandapura,582.5,1.0,0.0,1.0,15.135,0.02598283261802575
+Sarjapur  Road,1660.0,3.0,2.0,3.0,116.0,0.06987951807228916
+Hoodi,1181.0,2.0,2.0,2.0,55.0,0.04657070279424217
+Kanakpura Road,1100.0,3.0,1.0,3.0,58.0,0.05272727272727273
+Hennur,1259.0,2.0,2.0,2.0,57.0,0.04527402700555997
+Haralur Road,1300.0,2.0,1.0,2.0,75.0,0.057692307692307696
+Kudlu Gate,1215.0,2.0,1.0,2.0,45.0,0.037037037037037035
+Thanisandra,1564.0,3.0,1.0,3.0,101.0,0.06457800511508952
+Ramagondanahalli,1635.0,3.0,1.0,3.0,57.0,0.03486238532110092
+Ramagondanahalli,1251.0,2.0,1.0,2.0,47.0,0.037569944044764186
+Harlur,1033.0,2.0,2.0,2.0,49.0,0.04743465634075508
+Budigere,664.0,1.0,1.0,1.0,35.0,0.05271084337349398
+Electronic City,1140.0,2.0,1.0,2.0,70.93,0.06221929824561404
+Hormavu,1081.5,2.0,0.0,2.0,38.665,0.03575127138233934
+Uttarahalli,1390.0,2.0,3.0,3.0,62.55,0.045
+Kothanur,1074.0,2.0,2.0,2.0,54.0,0.05027932960893855
+Sarjapur  Road,2650.0,3.0,2.0,3.0,260.0,0.09811320754716982
+Kanakpura Road,1843.0,3.0,2.0,3.0,88.0,0.04774823657080846
+Jigani,1352.0,3.0,1.0,3.0,65.0,0.04807692307692308
+Raja Rajeshwari Nagar,1335.0,2.0,1.0,3.0,56.0,0.041947565543071164
+Koramangala,1900.0,2.0,1.0,2.0,200.0,0.10526315789473684
+Uttarahalli,1270.0,2.0,1.0,3.0,55.25,0.04350393700787401
+Bellandur,1251.0,2.0,3.0,2.0,47.0,0.037569944044764186
+Kasavanhalli,1230.0,2.0,2.0,2.0,66.25,0.05386178861788618
+Hennur Road,1933.0,3.0,2.0,3.0,140.0,0.07242628039317124
+Raja Rajeshwari Nagar,1023.0,2.0,2.0,2.0,42.0,0.04105571847507331
+Hebbal Kempapura,1300.0,2.0,2.0,2.0,102.0,0.07846153846153846
+Kaggadasapura,1180.0,2.0,2.0,2.0,65.0,0.05508474576271186
+Hosa Road,1089.0,2.0,1.0,2.0,32.67,0.030000000000000002
+Tumkur Road,728.5,1.0,0.0,1.0,31.315,0.04298558682223748
+Nagarbhavi,1250.0,3.0,0.0,4.0,175.0,0.14
+Kanakpura Road,1558.67,2.0,2.0,3.0,65.0,0.04170222048284755
+Rajaji Nagar,1380.0,3.0,3.0,3.0,130.0,0.09420289855072464
+Uttarahalli,1155.0,2.0,2.0,2.0,40.43,0.035004329004329
+Sarjapur  Road,1115.0,2.0,2.0,2.0,50.0,0.04484304932735426
+Kasavanhalli,1158.0,2.0,2.0,2.0,67.0,0.05785837651122625
+7th Phase JP Nagar,1650.0,3.0,2.0,3.0,110.0,0.06666666666666667
+Raja Rajeshwari Nagar,1258.0,2.0,1.0,2.0,63.53,0.05050079491255962
+Thanisandra,1917.0,3.0,3.0,3.0,122.0,0.06364110589462701
+Yeshwanthpur,674.0,1.0,1.0,1.0,36.85,0.05467359050445104
+Indira Nagar,1200.0,2.0,2.0,2.0,93.0,0.0775
+Hosur Road,1345.0,2.0,2.0,2.0,106.0,0.07881040892193308
+Harlur,1752.12,3.0,2.0,3.0,135.0,0.07704951715635916
+Devanahalli,1080.0,2.0,1.0,2.0,44.0,0.040740740740740744
+Hebbal,3450.0,5.0,2.0,3.0,260.0,0.07536231884057971
+Sarjapur,1124.0,2.0,1.0,2.0,30.35,0.027001779359430607
+Frazer Town,2350.0,4.0,3.0,3.0,285.0,0.12127659574468085
+Bannerghatta Road,1650.0,3.0,1.0,3.0,94.0,0.05696969696969697
+Hosakerehalli,3600.0,6.0,1.0,8.0,145.0,0.04027777777777778
+Electronic City,770.0,1.0,1.0,2.0,36.0,0.046753246753246755
+Uttarahalli,1002.0,2.0,1.0,2.0,40.08,0.04
+Green Glen Layout,1630.0,3.0,2.0,3.0,68.0,0.04171779141104295
+Hennur Road,1186.0,2.0,2.0,3.0,55.33,0.04665261382799325
+Bannerghatta Road,1340.0,2.0,3.0,2.0,85.0,0.06343283582089553
+Kanakpura Road,1450.0,3.0,3.0,3.0,55.0,0.03793103448275862
+Kanakpura Road,1230.0,2.0,1.0,2.0,85.0,0.06910569105691057
+Panathur,1210.0,2.0,1.0,2.0,77.0,0.06363636363636363
+Kanakapura,1290.0,2.0,3.0,3.0,51.1,0.0396124031007752
+Kaggadasapura,1361.0,2.0,2.0,2.0,79.0,0.05804555473916238
+Hosakerehalli,2378.0,3.0,1.0,3.0,262.0,0.11017661900756939
+Bhoganhalli,1444.0,2.0,1.0,2.0,75.97,0.052610803324099724
+Rachenahalli,2721.0,3.0,2.0,3.0,113.0,0.04152884968761485
+Malleshwaram,2006.0,3.0,0.0,3.0,297.0,0.14805583250249252
+Raja Rajeshwari Nagar,1375.0,2.0,1.0,3.0,54.99,0.03999272727272728
+Kengeri,1470.0,3.0,3.0,3.0,50.0,0.034013605442176874
+Thigalarapalya,1418.0,2.0,2.0,2.0,105.0,0.07404795486600846
+Budigere,1139.0,2.0,2.0,2.0,56.5,0.04960491659350307
+Dodda Nekkundi,850.0,2.0,3.0,2.0,28.0,0.03294117647058824
+Subramanyapura,985.0,2.0,1.0,2.0,58.0,0.05888324873096447
+Horamavu Agara,1000.0,2.0,1.0,2.0,46.0,0.046
+Sarjapur,3190.0,3.0,1.0,4.0,160.0,0.050156739811912224
+Sarjapur  Road,2900.0,4.0,2.0,4.0,240.0,0.08275862068965517
+Sarjapur  Road,2275.0,4.0,2.0,3.0,185.0,0.08131868131868132
+Kengeri Satellite Town,1200.0,3.0,0.0,4.0,110.0,0.09166666666666666
+Sarjapur,1917.0,3.0,0.0,4.0,60.0,0.03129890453834116
+Hosa Road,1063.0,2.0,1.0,2.0,32.79,0.030846660395108184
+Sarjapur,1170.0,2.0,2.0,3.0,35.41,0.030264957264957263
+Green Glen Layout,3150.0,4.0,3.0,4.0,218.0,0.0692063492063492
+HSR Layout,1145.0,2.0,2.0,2.0,48.0,0.04192139737991266
+Kaggadasapura,2400.0,4.0,3.0,5.0,130.0,0.05416666666666667
+Kasavanhalli,1563.05,3.0,1.0,3.0,105.0,0.06717635392341896
+Somasundara Palya,1600.0,3.0,3.0,3.0,69.0,0.043125
+Yeshwanthpur,3027.0,4.0,3.0,3.0,260.0,0.08589362405021474
+KR Puram,2000.0,6.0,0.0,6.0,85.0,0.0425
+Vidyaranyapura,1120.0,2.0,1.0,2.0,70.0,0.0625
+Whitefield,1186.0,2.0,3.0,2.0,55.0,0.046374367622259695
+Hennur,960.0,2.0,1.0,2.0,48.0,0.05
+Mysore Road,883.0,2.0,1.0,2.0,45.0,0.05096262740656852
+Yelahanka,1076.0,2.0,1.0,2.0,78.0,0.0724907063197026
+Anekal,625.0,1.0,1.0,2.0,25.0,0.04
+KR Puram,1200.0,2.0,1.0,2.0,72.0,0.06
+Whitefield,1150.0,2.0,2.0,2.0,40.21,0.03496521739130435
+Jakkur,1290.0,2.0,1.0,2.0,100.0,0.07751937984496124
+Bannerghatta Road,1711.0,3.0,2.0,3.0,125.0,0.07305669199298656
+Kodichikkanahalli,1400.0,3.0,3.0,3.0,66.0,0.047142857142857146
+7th Phase JP Nagar,1680.0,3.0,2.0,3.0,125.0,0.0744047619047619
+Hennur,1482.0,3.0,1.0,3.0,110.0,0.07422402159244265
+TC Palaya,1200.0,2.0,0.0,3.0,66.0,0.055
+Hebbal,2526.0,2.0,2.0,3.0,250.0,0.09897070467141726
+Uttarahalli,1350.0,2.0,2.0,3.0,47.24,0.034992592592592596
+Rachenahalli,985.0,2.0,1.0,2.0,49.97,0.05073096446700508
+Electronic City Phase II,1800.0,3.0,3.0,3.0,92.0,0.051111111111111114
+Raja Rajeshwari Nagar,1580.0,3.0,3.0,3.0,53.56,0.033898734177215194
+Electronic City,435.0,1.0,1.0,1.0,22.0,0.05057471264367816
+Channasandra,1000.0,2.0,2.0,2.0,35.0,0.035
+Sarjapur  Road,915.0,2.0,1.0,2.0,38.0,0.041530054644808745
+Yelahanka,1517.0,3.0,2.0,3.0,76.3,0.05029663810151615
+Rachenahalli,1050.0,2.0,2.0,2.0,52.5,0.05
+Whitefield,1141.0,2.0,1.0,2.0,62.0,0.05433829973707274
+Sarjapur  Road,1350.0,2.0,1.0,2.0,85.0,0.06296296296296296
+Hennur Road,1305.0,2.0,1.0,3.0,77.0,0.05900383141762452
+Banashankari,1020.0,2.0,1.0,2.0,42.83,0.04199019607843137
+Electronic City Phase II,1090.0,2.0,1.0,2.0,28.34,0.026
+Dodda Nekkundi,3800.0,4.0,2.0,4.0,600.0,0.15789473684210525
+Devanahalli,1340.0,2.0,1.0,2.0,65.0,0.048507462686567165
+Chandapura,1190.0,2.0,2.0,3.0,30.35,0.02550420168067227
+Vijayanagar,1019.0,2.0,1.0,2.0,58.0,0.05691854759568204
+Hennur,1041.0,2.0,2.0,2.0,40.6,0.03900096061479347
+Harlur,1174.0,2.0,1.0,2.0,74.0,0.06303236797274275
+Panathur,1255.0,2.0,2.0,2.0,79.0,0.06294820717131475
+Tumkur Road,992.0,2.0,1.0,2.0,60.0,0.06048387096774194
+Kaggadasapura,1118.0,2.0,0.0,2.0,30.0,0.026833631484794274
+Bommasandra,1015.0,2.0,1.0,2.0,40.0,0.03940886699507389
+Frazer Town,2350.0,2.0,0.0,5.0,423.0,0.18
+JP Nagar,1048.0,2.0,1.0,2.0,44.0,0.04198473282442748
+Channasandra,1065.0,2.0,1.0,2.0,35.0,0.03286384976525822
+Kothanur,1142.0,2.0,2.0,2.0,56.0,0.04903677758318739
+Malleshwaram,2475.0,4.0,3.0,3.0,320.0,0.1292929292929293
+Whitefield,1125.0,2.0,2.0,2.0,45.0,0.04
+KR Puram,1076.0,2.0,2.0,2.0,67.0,0.062267657992565055
+Rachenahalli,1550.0,3.0,2.0,3.0,68.5,0.04419354838709678
+Whitefield,1125.0,2.0,2.0,2.0,40.0,0.035555555555555556
+Subramanyapura,929.0,2.0,1.0,2.0,48.0,0.05166846071044134
+Kanakpura Road,2200.0,3.0,2.0,3.0,130.0,0.05909090909090909
+Thanisandra,1234.0,2.0,2.0,2.0,51.0,0.041329011345218804
+Panathur,1193.0,2.0,1.0,2.0,86.0,0.07208717518860017
+Raja Rajeshwari Nagar,1133.0,2.0,1.0,2.0,49.07,0.04330979699911739
+Horamavu Agara,1058.0,2.0,2.0,2.0,47.0,0.0444234404536862
+Electronic City,630.0,1.0,1.0,1.0,33.7,0.053492063492063494
+Bellandur,3600.0,4.0,0.0,4.0,245.0,0.06805555555555555
+Ambalipura,950.0,2.0,1.0,2.0,31.95,0.03363157894736842
+JP Nagar,1245.0,2.0,2.0,2.0,110.0,0.08835341365461848
+Kanakpura Road,1622.0,3.0,0.0,3.0,95.0,0.058569667077681874
+Doddathoguru,1104.0,2.0,2.0,2.0,39.0,0.035326086956521736
+Kanakpura Road,1550.0,3.0,3.0,3.0,64.5,0.04161290322580645
+JP Nagar,1352.5,2.0,0.0,2.0,93.865,0.06940110905730129
+Kaggadasapura,2150.0,4.0,2.0,4.0,90.0,0.04186046511627907
+JP Nagar,3496.5,3.0,0.0,3.0,237.5,0.06792506792506793
+Electronic City,1070.0,2.0,1.0,2.0,54.0,0.05046728971962617
+Marathahalli,957.0,2.0,1.0,2.0,46.9,0.0490073145245559
+Kanakpura Road,900.0,2.0,1.0,2.0,41.0,0.04555555555555556
+Devanahalli,1045.0,2.0,2.0,2.0,48.0,0.045933014354066985
+Budigere,1820.0,3.0,2.0,3.0,85.0,0.046703296703296704
+Yelahanka,1371.0,2.0,2.0,3.0,65.0,0.04741064916119621
+Sarjapur  Road,1826.0,3.0,2.0,3.0,125.0,0.06845564074479737
+Mahadevpura,730.0,1.0,1.0,1.0,35.0,0.04794520547945205
+Old Madras Road,935.0,2.0,0.0,2.0,37.77,0.040395721925133694
+Yelahanka New Town,650.0,1.0,1.0,1.0,20.0,0.03076923076923077
+Electronics City Phase 1,1175.0,2.0,1.0,2.0,60.0,0.05106382978723404
+Electronic City Phase II,1020.0,2.0,1.0,2.0,29.45,0.028872549019607844
+Hennur,1345.0,2.0,1.0,3.0,69.0,0.051301115241635685
+BTM 2nd Stage,1000.0,2.0,2.0,2.0,58.0,0.058
+R.T. Nagar,1325.0,2.0,2.0,2.0,52.0,0.03924528301886793
+Chikkalasandra,1325.0,2.0,1.0,2.0,59.0,0.04452830188679245
+Hennur Road,1936.0,3.0,1.0,3.0,131.0,0.06766528925619834
+7th Phase JP Nagar,3600.0,4.0,3.0,4.0,400.0,0.1111111111111111
+Electronic City Phase II,1056.0,2.0,1.0,2.0,39.07,0.03699810606060606
+Kanakpura Road,525.0,1.0,1.0,1.0,30.0,0.05714285714285714
+Lakshminarayana Pura,1300.0,2.0,1.0,2.0,70.0,0.05384615384615385
+Mahadevpura,1260.0,2.0,3.0,2.0,57.6,0.045714285714285714
+Raja Rajeshwari Nagar,1540.0,3.0,3.0,3.0,60.0,0.03896103896103896
+Whitefield,1330.0,2.0,2.0,3.0,55.0,0.041353383458646614
+Electronic City,1020.0,2.0,1.0,2.0,29.46,0.02888235294117647
+Bisuvanahalli,1075.0,2.0,1.0,3.0,47.0,0.04372093023255814
+Whitefield,2785.0,5.0,3.0,4.0,295.0,0.1059245960502693
+Anekal,400.0,1.0,1.0,1.0,11.5,0.02875
+Rajaji Nagar,1640.0,3.0,3.0,3.0,223.0,0.13597560975609757
+Electronic City Phase II,1310.0,2.0,1.0,3.0,37.83,0.028877862595419846
+Vittasandra,1246.0,2.0,1.0,2.0,67.5,0.05417335473515249
+Harlur,1335.0,2.0,0.0,2.0,72.76,0.05450187265917603
+Subramanyapura,950.0,2.0,1.0,2.0,55.0,0.05789473684210526
+Banashankari,1200.0,2.0,1.0,2.0,60.0,0.05
+Bellandur,1000.0,2.0,2.0,2.0,50.0,0.05
+Sarjapur  Road,1150.0,2.0,2.0,2.0,77.0,0.06695652173913043
+Kengeri,600.0,1.0,1.0,1.0,35.0,0.058333333333333334
+Whitefield,1548.0,3.0,1.0,3.0,65.0,0.04198966408268734
+CV Raman Nagar,1230.0,3.0,2.0,2.0,47.0,0.038211382113821135
+Uttarahalli,1099.0,2.0,2.0,2.0,65.0,0.059144676979071886
+Hoodi,1220.0,2.0,2.0,2.0,50.89,0.04171311475409836
+Rajaji Nagar,1357.0,2.0,1.0,2.0,115.0,0.0847457627118644
+7th Phase JP Nagar,1420.0,3.0,2.0,3.0,90.0,0.06338028169014084
+Hebbal,1920.0,3.0,2.0,3.0,150.0,0.078125
+Kaggadasapura,1105.0,2.0,1.0,2.0,39.5,0.03574660633484163
+Whitefield,1180.0,2.0,2.0,2.0,41.0,0.03474576271186441
+Sarjapur  Road,1525.0,2.0,2.0,3.0,87.0,0.057049180327868855
+Kengeri,1125.0,2.0,1.0,4.0,88.0,0.07822222222222222
+Kasavanhalli,1787.0,3.0,2.0,3.0,123.0,0.06883044208170118
+Frazer Town,1700.0,3.0,1.0,3.0,180.0,0.10588235294117647
+Varthur,977.0,2.0,2.0,2.0,36.0,0.0368474923234391
+Hennur Road,1450.0,2.0,2.0,2.0,80.0,0.05517241379310345
+Bannerghatta Road,500.0,1.0,1.0,1.0,18.5,0.037
+Hosur Road,1085.0,2.0,2.0,2.0,33.7,0.031059907834101386
+Bannerghatta Road,1115.0,2.0,1.0,2.0,65.12,0.05840358744394619
+Budigere,1153.0,2.0,2.0,2.0,60.0,0.05203816131830009
+Banashankari,1260.0,2.0,3.0,2.0,75.0,0.05952380952380952
+8th Phase JP Nagar,1100.0,2.0,3.0,2.0,35.0,0.031818181818181815
+Bhoganhalli,2119.0,4.0,3.0,4.0,111.0,0.052383199622463426
+Ramagondanahalli,1253.0,2.0,1.0,2.0,52.66,0.04202713487629688
+Thanisandra,1698.0,3.0,2.0,3.0,102.0,0.06007067137809187
+Akshaya Nagar,1280.0,2.0,1.0,2.0,60.0,0.046875
+Hosakerehalli,1410.0,2.0,2.0,3.0,53.58,0.038
+Indira Nagar,1650.0,3.0,2.0,3.0,200.0,0.12121212121212122
+Kaggadasapura,1250.0,2.0,2.0,3.0,47.0,0.0376
+Yelahanka New Town,960.0,2.0,2.0,2.0,50.0,0.052083333333333336
+Marathahalli,1200.0,2.0,1.0,3.0,58.17,0.048475000000000004
+Rajaji Nagar,2409.0,3.0,3.0,3.0,395.0,0.16396845163968451
+Kothanur,1075.0,2.0,2.0,2.0,53.0,0.04930232558139535
+KR Puram,1015.0,2.0,1.0,2.0,43.0,0.042364532019704436
+8th Phase JP Nagar,1275.0,3.0,2.0,3.0,45.0,0.03529411764705882
+Electronic City,880.0,2.0,2.0,2.0,29.0,0.03295454545454545
+Whitefield,1173.0,2.0,1.0,2.0,78.2,0.06666666666666667
+Ambalipura,2750.0,4.0,0.0,4.0,142.0,0.05163636363636363
+Kasavanhalli,1200.0,2.0,1.0,2.0,78.0,0.065
+Akshaya Nagar,1314.0,2.0,2.0,2.0,68.8,0.052359208523592084
+Indira Nagar,1400.0,2.0,2.0,2.0,168.0,0.12
+Whitefield,1235.0,2.0,2.0,2.0,47.0,0.03805668016194332
+Kothanur,1170.0,3.0,2.0,3.0,80.0,0.06837606837606838
+Raja Rajeshwari Nagar,1608.0,3.0,3.0,3.0,54.51,0.03389925373134328
+Thigalarapalya,1418.0,2.0,2.0,2.0,106.0,0.07475317348377997
+Bhoganhalli,1205.0,2.0,1.0,2.0,68.32,0.056697095435684644
+HSR Layout,1650.0,3.0,2.0,3.0,110.0,0.06666666666666667
+Banashankari,1770.0,3.0,3.0,3.0,108.0,0.061016949152542375
+Whitefield,2956.0,5.0,0.0,4.0,234.0,0.07916102841677942
+8th Phase JP Nagar,500.0,1.0,1.0,1.0,33.0,0.066
+Raja Rajeshwari Nagar,1140.0,2.0,2.0,2.0,38.65,0.033903508771929824
+Hennur Road,1140.0,2.0,2.0,2.0,56.0,0.04912280701754386
+Doddathoguru,1208.0,3.0,1.0,3.0,45.0,0.037251655629139076
+Kaggadasapura,960.0,2.0,1.0,2.0,45.0,0.046875
+Kanakpura Road,2100.0,3.0,2.0,3.0,140.0,0.06666666666666667
+Talaghattapura,2265.0,3.0,3.0,3.0,159.0,0.07019867549668875
+Electronic City,1310.0,2.0,1.0,3.0,37.83,0.028877862595419846
+Green Glen Layout,1740.0,3.0,3.0,3.0,80.0,0.04597701149425287
+Electronic City Phase II,1000.0,2.0,1.0,2.0,28.88,0.02888
+Lakshminarayana Pura,1200.0,2.0,1.0,2.0,80.0,0.06666666666666667
+Sahakara Nagar,1048.0,2.0,3.0,2.0,50.0,0.04770992366412214
+Haralur Road,1464.0,3.0,2.0,3.0,56.0,0.03825136612021858
+Yelahanka,1260.0,2.0,2.0,2.0,59.2,0.04698412698412699
+Ramagondanahalli,1635.0,3.0,1.0,3.0,61.0,0.03730886850152905
+Green Glen Layout,1623.29,2.0,2.0,3.0,105.0,0.06468345150897252
+Kanakpura Road,1591.0,3.0,1.0,3.0,115.0,0.07228158390949088
+Whitefield,1012.0,2.0,1.0,2.0,58.0,0.05731225296442688
+Bannerghatta Road,1150.0,2.0,2.0,2.0,55.0,0.04782608695652174
+Sarjapur  Road,2750.0,5.0,1.0,4.0,240.0,0.08727272727272728
+Devanahalli,2125.0,3.0,1.0,3.0,107.0,0.050352941176470586
+Chandapura,645.0,1.0,1.0,1.0,16.45,0.025503875968992246
+Channasandra,1200.0,2.0,1.0,2.0,46.13,0.038441666666666666
+Bannerghatta Road,700.0,1.0,1.0,1.0,31.2,0.04457142857142857
+Mahadevpura,3295.0,4.0,2.0,5.0,260.0,0.07890743550834597
+Electronic City,435.0,1.0,1.0,1.0,21.0,0.04827586206896552
+Electronics City Phase 1,1522.5,3.0,0.0,3.0,60.75,0.039901477832512314
+Marathahalli,950.0,2.0,1.0,2.0,46.96,0.049431578947368424
+Sarjapur  Road,1530.0,2.0,2.0,3.0,60.0,0.0392156862745098
+Thanisandra,1185.0,2.0,2.0,2.0,44.0,0.03713080168776371
+Dodda Nekkundi,1260.0,2.0,2.0,2.0,55.0,0.04365079365079365
+Hebbal Kempapura,1130.0,2.0,2.0,2.0,60.0,0.05309734513274336
+KR Puram,1277.5,2.0,0.0,2.0,56.8,0.04446183953033268
+Subramanyapura,929.0,1.0,2.0,2.0,51.0,0.05489773950484392
+Tumkur Road,1240.0,2.0,1.0,3.0,84.0,0.06774193548387097
+Dodda Nekkundi,1100.0,2.0,1.0,2.0,46.75,0.0425
+Hosa Road,1040.0,2.0,1.0,2.0,61.0,0.058653846153846154
+Whitefield,1740.0,3.0,3.0,3.0,85.0,0.04885057471264368
+Subramanyapura,1260.0,2.0,1.0,2.0,108.0,0.08571428571428572
+Thanisandra,1200.0,2.0,1.0,3.0,65.0,0.05416666666666667
+Mahadevpura,1500.0,2.0,1.0,3.0,70.0,0.04666666666666667
+Kaggadasapura,1615.0,3.0,3.0,3.0,58.0,0.03591331269349845
+Hormavu,1000.0,2.0,2.0,2.0,50.0,0.05
+Old Madras Road,3715.0,6.0,0.0,4.0,200.5,0.05397039030955585
+Electronic City,1652.0,3.0,3.0,3.0,110.0,0.06658595641646489
+Kanakpura Road,1425.0,2.0,2.0,3.0,49.88,0.03500350877192983
+Kengeri,1200.0,3.0,1.0,3.0,67.0,0.05583333333333333
+Electronic City,1128.0,2.0,1.0,2.0,65.7,0.05824468085106383
+Chandapura,1200.0,2.0,2.0,2.0,32.0,0.02666666666666667
+CV Raman Nagar,1659.0,3.0,1.0,3.0,135.0,0.081374321880651
+Koramangala,1835.0,2.0,3.0,3.0,155.0,0.08446866485013624
+Whitefield,1768.0,3.0,2.0,3.0,101.0,0.057126696832579184
+Kanakapura,1190.0,2.0,2.0,2.0,39.0,0.03277310924369748
+Kaggadasapura,1500.0,2.0,2.0,3.0,75.0,0.05
+Somasundara Palya,1600.0,3.0,3.0,3.0,64.0,0.04
+Kasavanhalli,1125.0,2.0,1.0,2.0,61.2,0.054400000000000004
+Hennur,1255.0,2.0,1.0,2.0,57.5,0.045816733067729085
+Hebbal,1255.0,2.0,1.0,3.0,90.0,0.07171314741035857
+Kanakpura Road,1366.0,2.0,1.0,2.0,83.0,0.06076134699853587
+Jakkur,2423.0,4.0,3.0,3.0,160.0,0.0660338423442014
+Hosakerehalli,600.0,2.0,0.0,2.0,65.0,0.10833333333333334
+Bannerghatta Road,793.0,2.0,1.0,2.0,45.0,0.05674653215636822
+Sarjapur  Road,1311.0,2.0,1.0,2.0,78.0,0.059496567505720827
+Kasavanhalli,1691.0,3.0,2.0,3.0,104.0,0.06150206978119456
+Bannerghatta Road,1150.0,2.0,2.0,2.0,65.0,0.05652173913043478
+Kanakpura Road,1843.0,3.0,2.0,3.0,85.0,0.04612045577862181
+Hennur,1340.0,3.0,2.0,3.0,54.24,0.04047761194029851
+CV Raman Nagar,1480.0,3.0,2.0,3.0,65.0,0.04391891891891892
+Whitefield,1400.0,2.0,3.0,3.0,56.0,0.04
+Yelahanka New Town,500.0,1.0,1.0,1.0,20.0,0.04
+JP Nagar,745.0,1.0,0.0,1.0,34.27,0.046000000000000006
+Sarjapur,1095.0,2.0,1.0,2.0,45.0,0.0410958904109589
+Marathahalli,1449.0,3.0,2.0,3.0,110.0,0.0759144237405107
+5th Phase JP Nagar,1400.0,2.0,1.0,3.0,88.0,0.06285714285714286
+Uttarahalli,1120.0,2.0,1.0,2.0,50.0,0.044642857142857144
+Whitefield,1200.0,2.0,1.0,2.0,45.0,0.0375
+KR Puram,1020.0,2.0,2.0,2.0,39.0,0.03823529411764706
+KR Puram,1128.76,3.0,0.0,3.0,47.405,0.04199741309047096
+Thanisandra,1296.0,2.0,2.0,2.0,72.0,0.05555555555555555
+Kaggadasapura,1106.0,2.0,3.0,2.0,40.0,0.03616636528028933
+7th Phase JP Nagar,1245.0,2.0,1.0,2.0,94.0,0.07550200803212852
+Raja Rajeshwari Nagar,1550.0,3.0,1.0,3.0,86.8,0.056
+Bannerghatta Road,1532.5,3.0,0.0,3.0,79.465,0.051853181076672104
+Bannerghatta Road,1179.0,2.0,1.0,2.0,66.02,0.05599660729431721
+Hosa Road,1045.0,2.0,1.0,2.0,98.89,0.09463157894736843
+Balagere,1210.0,2.0,1.0,2.0,82.0,0.06776859504132231
+Raja Rajeshwari Nagar,1560.0,2.0,2.0,3.0,62.4,0.04
+Whitefield,1270.0,2.0,1.0,2.0,94.0,0.07401574803149606
+Gottigere,1075.0,2.0,2.0,2.0,30.0,0.027906976744186046
+Marathahalli,1019.0,2.0,2.0,2.0,49.86,0.048930323846908735
+Chandapura,630.0,1.0,1.0,2.0,27.0,0.04285714285714286
+Sarjapur  Road,3004.0,4.0,0.0,3.0,158.0,0.0525965379494008
+Jalahalli,980.0,2.0,2.0,3.0,60.0,0.061224489795918366
+Jigani,1408.0,2.0,0.0,3.0,55.0,0.0390625
+Whitefield,1315.0,2.0,2.0,2.0,69.5,0.05285171102661597
+Bellandur,1685.0,3.0,3.0,3.0,115.0,0.06824925816023739
+Thanisandra,1098.0,2.0,1.0,2.0,68.0,0.061930783242258654
+Horamavu Agara,1107.83,2.0,1.0,2.0,41.51,0.037469647870160584
+HSR Layout,1140.0,2.0,2.0,2.0,46.0,0.04035087719298246
+Whitefield,1240.0,2.0,2.0,2.0,70.0,0.056451612903225805
+Kanakpura Road,1550.0,3.0,3.0,3.0,65.1,0.041999999999999996
+Channasandra,1065.0,2.0,1.0,2.0,36.0,0.03380281690140845
+Sarjapur,1128.0,2.0,1.0,2.0,60.0,0.05319148936170213
+Whitefield,1215.0,2.0,2.0,2.0,40.0,0.03292181069958848
+Tumkur Road,1500.0,3.0,3.0,3.0,95.0,0.06333333333333334
+Old Madras Road,1300.0,2.0,2.0,2.0,100.0,0.07692307692307693
+Electronic City,1070.0,2.0,1.0,2.0,46.0,0.04299065420560748
+Mysore Road,1200.0,2.0,3.0,2.0,65.0,0.05416666666666667
+Electronic City Phase II,1320.0,2.0,1.0,3.0,38.12,0.028878787878787875
+Whitefield,524.0,1.0,1.0,1.0,29.0,0.05534351145038168
+Whitefield,1430.0,3.0,2.0,3.0,52.0,0.03636363636363636
+Electronic City,1410.0,2.0,2.0,3.0,38.0,0.02695035460992908
+8th Phase JP Nagar,1089.0,2.0,1.0,2.0,43.55,0.03999081726354453
+KR Puram,1200.0,2.0,0.0,2.0,71.0,0.059166666666666666
+Gottigere,1380.0,2.0,2.0,3.0,95.0,0.06884057971014493
+Kudlu,2100.0,3.0,1.0,4.0,114.0,0.054285714285714284
+KR Puram,734.0,2.0,1.0,2.0,22.0,0.02997275204359673
+Haralur Road,3400.0,5.0,3.0,4.0,240.0,0.07058823529411765
+Kanakapura,1560.0,2.0,2.0,3.0,62.38,0.03998717948717949
+Hennur Road,1081.0,2.0,1.0,2.0,30.27,0.028001850138760408
+Raja Rajeshwari Nagar,1400.0,2.0,2.0,3.0,48.0,0.03428571428571429
+Yelahanka,1705.0,3.0,2.0,3.0,85.0,0.04985337243401759
+JP Nagar,1107.0,2.0,1.0,2.0,57.0,0.051490514905149054
+Ambalipura,1800.0,3.0,3.0,3.0,110.0,0.06111111111111111
+Sarjapur,1830.0,3.0,1.0,3.0,88.0,0.048087431693989074
+Marathahalli,700.0,1.0,1.0,1.0,38.0,0.054285714285714284
+Bommanahalli,1850.0,3.0,2.0,3.0,90.0,0.04864864864864865
+Kasavanhalli,1476.0,3.0,0.0,3.0,105.0,0.07113821138211382
+Electronic City,1070.0,2.0,1.0,2.0,60.0,0.056074766355140186
+Kodichikkanahalli,900.0,2.0,1.0,2.0,35.0,0.03888888888888889
+Jalahalli,3100.0,4.0,0.0,5.0,265.0,0.08548387096774193
+Marathahalli,1220.0,2.0,1.0,2.0,57.0,0.04672131147540984
+Whitefield,3596.0,3.0,1.0,3.0,200.0,0.05561735261401557
+Whitefield,1740.0,3.0,2.0,3.0,95.0,0.05459770114942529
+Malleshwaram,2610.0,4.0,2.0,4.0,306.0,0.11724137931034483
+Ramamurthy Nagar,1200.0,2.0,1.0,2.0,57.9,0.04825
+Rajaji Nagar,1224.0,2.0,0.0,2.0,105.0,0.0857843137254902
+Yelahanka,1362.0,2.0,2.0,2.0,66.0,0.048458149779735685
+Kanakpura Road,1570.0,3.0,3.0,3.0,65.93,0.04199363057324841
+Marathahalli,1350.0,2.0,1.0,2.0,99.0,0.07333333333333333
+Sarjapur,2885.0,3.0,1.0,4.0,185.0,0.06412478336221837
+CV Raman Nagar,1051.0,2.0,3.0,2.0,61.0,0.058039961941008564
+Anekal,620.0,1.0,1.0,2.0,23.5,0.03790322580645161
+Hennur Road,1066.0,2.0,1.0,2.0,52.23,0.04899624765478424
+Uttarahalli,1345.0,2.0,1.0,3.0,47.0,0.03494423791821561
+Old Madras Road,2990.0,3.0,2.0,3.0,170.0,0.056856187290969896
+Sarjapur  Road,975.0,2.0,0.0,2.0,28.275,0.028999999999999998
+Attibele,395.0,1.0,1.0,1.0,10.25,0.025949367088607594
+Thanisandra,1185.0,2.0,2.0,2.0,42.6,0.035949367088607596
+Yeshwanthpur,1313.0,3.0,1.0,3.0,96.0,0.07311500380807312
+Panathur,1180.0,2.0,1.0,2.0,70.0,0.059322033898305086
+Koramangala,1750.0,3.0,2.0,3.0,130.0,0.07428571428571429
+Yelahanka,1600.0,3.0,3.0,3.0,100.0,0.0625
+Sarjapur,1364.0,2.0,2.0,3.0,56.0,0.04105571847507331
+Sahakara Nagar,2830.0,3.0,3.0,4.0,195.0,0.06890459363957598
+Lakshminarayana Pura,1656.0,3.0,2.0,3.0,150.0,0.09057971014492754
+Hegde Nagar,3216.0,5.0,2.0,4.0,300.0,0.09328358208955224
+Hennur Road,1157.0,2.0,1.0,2.0,84.0,0.07260155574762317
+Vijayanagar,1739.0,3.0,1.0,3.0,116.0,0.06670500287521564
+Hennur Road,2651.0,2.0,2.0,3.0,225.0,0.08487363259147492
+Hebbal Kempapura,1436.0,2.0,2.0,3.0,75.0,0.05222841225626741
+Raja Rajeshwari Nagar,1060.0,2.0,1.0,2.0,48.0,0.045283018867924525
+Hennur Road,1482.0,2.0,3.0,3.0,97.0,0.06545209176788123
+Whitefield,1415.0,2.0,3.0,2.0,67.0,0.04734982332155477
+Kothanur,3400.0,5.0,0.0,4.0,265.0,0.07794117647058824
+Yelahanka New Town,450.0,1.0,0.0,1.0,16.0,0.035555555555555556
+Kanakapura,1020.0,2.0,1.0,2.0,42.83,0.04199019607843137
+Whitefield,1985.0,3.0,2.0,3.0,75.0,0.037783375314861464
+Sahakara Nagar,1100.0,2.0,2.0,3.0,75.0,0.06818181818181818
+Varthur,2145.0,3.0,2.0,3.0,175.0,0.08158508158508158
+Mahadevpura,1451.0,2.0,0.0,2.0,90.0,0.06202618883528601
+Hormavu,1385.0,2.0,1.0,3.0,69.25,0.05
+Varthur,1000.0,1.0,1.0,2.0,65.0,0.065
+Marathahalli,1200.0,2.0,2.0,2.0,60.0,0.05
+Kalena Agrahara,1150.0,2.0,3.0,2.0,40.0,0.034782608695652174
+Brookefield,1476.0,3.0,2.0,3.0,105.0,0.07113821138211382
+Sarjapur  Road,1308.0,2.0,1.0,2.0,58.86,0.045
