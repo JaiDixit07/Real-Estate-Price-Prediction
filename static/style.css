@@ -5,12 +5,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.8) url("image/house.jpg") no-repeat center center fixed, 
-                url("https://images.pexels.com/photos/1063991/pexels-photo-1063991.jpeg") no-repeat center center fixed;
+    background: url("images/local-background.jpg") no-repeat center center fixed, 
+                rgba(0, 0, 0, 0.8) url("https://images.pexels.com/photos/1063991/pexels-photo-1063991.jpeg") no-repeat center center fixed;
     background-size: cover;
     color: #f0f0f0;
     font-family: 'Roboto', sans-serif;
 }
+
 
 
 .container {
