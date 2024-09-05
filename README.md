@@ -14,9 +14,11 @@ This project predicts real estate prices in **Bangalore** with a smooth and inte
 ## 🏗️ Project Structure
 
 - **`Data/`**: Raw and cleaned data files.
-- **`Models/`**: Includes trained models and prediction scripts.
+- **`src/`**: Includes trained models and prediction scripts in modular coding format
 - **`Templates/`**: HTML templates for the Flask application’s front end.
 - **`App/`**: Flask app setup for serving the model and interface.
+- **`static/`**: CSS file for styling 
+- **`requirements/`**: All the necessary libraries
 
 ## 🔍 Data
 
