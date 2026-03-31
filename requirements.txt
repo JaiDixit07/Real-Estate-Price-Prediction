@@ -1,14 +1,14 @@
 streamlit
 setuptools
-numpy
-pandas
-matplotlib
-seaborn
-fuzzywuzzy
-scikit-learn
-xgboost
-scipy
-dill
-flask
-gunicorn
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.2
+fuzzywuzzy==0.18.0
+scikit-learn==1.5.1
+xgboost==2.0.3
+scipy==1.11.4
+dill==0.3.7
+flask==3.0.0
+gunicorn==21.2.0
 -e .
